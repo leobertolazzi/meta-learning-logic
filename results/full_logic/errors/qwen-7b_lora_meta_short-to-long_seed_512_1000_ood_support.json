@@ -1,0 +1,635 @@
+{
+  "1": {
+    "5": {
+      "some covmis are not lessdi": {
+        "prediction": "all imsent are imber, some erde are not subsome, all erde are theet, all imber are erde, all theet are covmis, all subsome are imsent",
+        "answer": "all lessdi are pointim, some erde are not subsome, all erde are theet, all pointim are supted, all theet are covmis, all supted are subsome",
+        "kb_id": "te_L_ds_153"
+      },
+      "some danci are not acter": {
+        "prediction": "all colply are fulten, all byny are colply, some byny are not replay, all fulten are larlin, all larlin are danci",
+        "answer": "all acter are replay, all colply are fulten, all byny are colply, some byny are not replay, all fulten are larlin, all larlin are danci",
+        "kb_id": "te_L_ds_141"
+      },
+      "some tryble are not bleish": {
+        "prediction": "all bleish are varec, all sionpen are tryble, some sionpen are not latfin, all varec are latfin",
+        "answer": "all amwork are songen, all bleish are amwork, all senpen are tryvar, all plesdy are tryble, some plesdy are not tryvar, all songen are senpen",
+        "kb_id": "te_L_ds_162"
+      },
+      "some anmen are not umders": {
+        "prediction": "all daper are meam, all umders are eastcu, all meam are carfa, all eastcu are ageble, all gleri are larbut, all ageble are daper, some dleders are not tlecor, all larbut are anmen, all dleders are carmon, all carfa are dleders, all carmon are gleri",
+        "answer": "all gleri are larbut, some dleders are not tlecor, all larbut are anmen, all dleders are carmon, all umders are tlecor, all carmon are gleri",
+        "kb_id": "te_L_ds_100"
+      },
+      "some leades are not faen": {
+        "prediction": "",
+        "answer": "all iccal are fibod, some leades are not headwil, all cenpoint are iccal, all lybut are headwil, all fibod are lybut, all faen are cenpoint",
+        "kb_id": "te_L_ds_89"
+      },
+      "some conri are not tionap": {
+        "prediction": "all landci are latdle, all greatcu are conri, all tivewil are sisside, all tionap are greatcu, all sisside are landci, some greatcu are not latdle, all tionap are tivewil",
+        "answer": "all landci are latdle, all greatcu are conri, all tivewil are sisside, all sisside are landci, some greatcu are not latdle, all tionap are tivewil",
+        "kb_id": "te_L_ds_13"
+      },
+      "some suland are not workal": {
+        "prediction": "all airda are ionma, some mismon are turesprac, some ishta are not workal, some mainoc are not ishta, all mainoc are veluer, all partcom are ritions, all workal are oneeve, all berrep are dleny, no unim are ishta, all etround are mainoc, all turesprac are etings, all concat are berrep, all etnew are haplong, all lecly are partcom, all obtel are suland, all mainoc are obtel, some ionma are not tendim, all tendim are difered, all etround are ishta, all ritions are finsi, all etings are unim, some unim are not tendim, all difered are etnew, some ritions are not tendim, all ernsa are lecly, all difered are airda, all mismon are concat, all haplong are ernsa, all oneeve are etround",
+        "answer": "all obtel are suland, all etround are ishta, some mainoc are not ishta, all workal are oneeve, all mainoc are obtel, all oneeve are etround",
+        "kb_id": "te_L_ds_110"
+      },
+      "some uspro are not estbet": {
+        "prediction": "all plyny are ticties, all estbet are supcat, all iltle are cufer, all cufer are sendan, all supcat are plyny, all ticties are trojo, all vidvid are heavla, all sendan are ersbor, all pracbat are sendan, all ersbor are iltle, all trojo are vidvid, all heavla are pracbat",
+        "answer": "all plyny are ticties, all estbet are supcat, all supcat are plyny, all ticties are trojo, some uspro are not vidvid, all trojo are vidvid",
+        "kb_id": "te_L_ds_108"
+      },
+      "some saval are not bleish": {
+        "prediction": "all bleish are varec, some lalong are not tryble, all lalong are saval, all varec are latfin",
+        "answer": "all varec are latfin, all lalong are saval, all plesdy are tryble, all bleish are varec, some lalong are not tryble, all latfin are plesdy",
+        "kb_id": "te_L_ds_162"
+      },
+      "some ersouth are not calcul": {
+        "prediction": "all mentsur are ersouth, all matcus are mentsur, all denni are counsu, some fectnel are not calcul, all counsu are matcus, all fectnel are denni",
+        "answer": "all mentsur are ersouth, all matcus are mentsur, some fectnel are not calcul, all fectnel are joters, all counsu are matcus, all joters are counsu",
+        "kb_id": "te_L_ds_14"
+      },
+      "some satcal are not forsug": {
+        "prediction": "all raltin are inim, some airish are not inim, some satcal are not robat, all fixner are airish, all itsy are derre, some raltin are not anton, some linself are not satcal, all ingstro are forsat, all gipress are joals, all forsat are thetures, all umed are turesread, all umed are ingstro, all robat are paet, all anton are gipress, all sionpen are bysec, some derre are not thetures, all anton are satcal, all paet are linself, no derre are inim, all pracnu are sosub, all thetures are pracnu, all dersland are robat, all joals are dersland, some umed are forsug, all thetures are newver, all forsug are raltin, all forsug are anton, all dersland are fixner",
+        "answer": "all joals are dersland, all dersland are robat, all gipress are joals, all anton are gipress, some satcal are not robat, all forsug are anton",
+        "kb_id": "te_L_ds_132"
+      },
+      "some tractders are not standty": {
+        "prediction": "all nuad are grandus, all standty are nuad",
+        "answer": "all grandus are paet, some tractders are not ycat, all cusfa are ycat, all paet are cusfa, all nuad are grandus, all standty are nuad",
+        "kb_id": "te_L_ds_67"
+      },
+      "some alheav are not wilgen": {
+        "prediction": "all surhigh are ketva, all tractten are lati, some alheav are not ketva, all obtel are surhigh, all wilgen are tractten, all lati are obtel, all ketva are wonsa",
+        "answer": "all surhigh are ketva, all tractten are lati, some alheav are not ketva, all obtel are surhigh, all wilgen are tractten, all lati are obtel",
+        "kb_id": "te_L_ds_143"
+      },
+      "some pressil are not aswrit": {
+        "prediction": "all aswrit are ilsons, all tinghar are agwest, some agwest are not aswrit, all agwest are tinghar, all ilsons are setil",
+        "answer": "all aswrit are ilsons, some pressil are not agwest, all atcal are agwest, all setil are glefi, all glefi are atcal, all ilsons are setil",
+        "kb_id": "te_L_ds_172"
+      },
+      "some turo are not tocen": {
+        "prediction": "all precu are supsent, all cusbat are precu, all derstain are turo, all tendway are bodtor, all torra are lessjo, some derstain are not airby, all tocen are cusbat, all supsent are tendway, all lessjo are airby, all bodtor are torra",
+        "answer": "all tendway are bodtor, all torra are lessjo, all airby are turo, some tendway are not tocen, all lessjo are airby, all bodtor are torra",
+        "kb_id": "te_L_ds_39"
+      }
+    },
+    "6": {
+      "some writber are not pracner": {
+        "prediction": "all sursouth are exdif, all longland are wardci, all exdif are landsage, all plyber are vipo, all vipo are not landsage, some plyber are not landsage, all plyber are sursouth, all wardci are writber, all pracner are longland",
+        "answer": "all longland are wardci, all wardci are practu, some writber are not senrec, all practu are heavin, all cowrit are senrec, all heavin are cowrit, all pracner are longland",
+        "kb_id": "te_L_ds_11"
+      },
+      "some beroc are not imsu": {
+        "prediction": "all daco are joals, all joals are vali, all vali are wayner, some beroc are not merex, all imsu are daco, all wayner are beroc",
+        "answer": "all daco are joals, all joals are vali, all efun are merex, all endact are efun, some beroc are not merex, all imsu are daco, all vali are endact",
+        "kb_id": "te_L_ds_109"
+      },
+      "some gleef are not gotle": {
+        "prediction": "all selfba are theral, all cenish are fiheav, all mansur are ionform, all fiheav are theral, all apfi are edsur, all edsur are mansur, all gotle are apfi, all theral are selfba, all ionform are cenish, some gleef are not fiheav",
+        "answer": "all cenish are fiheav, all mansur are ionform, all apfi are edsur, all edsur are mansur, all gotle are apfi, all ionform are cenish, some gleef are not fiheav",
+        "kb_id": "te_L_ds_29"
+      },
+      "some malpress are not tionsmis": {
+        "prediction": "all umas are peto, all dayrow are umas, all peto are semul, all semul are momoth, all tionsmis are adtem, some malpress are not elum, all momoth are malpress, all adtem are dayrow",
+        "answer": "all umas are peto, all dayrow are umas, all peto are semul, all semul are elum, all tionsmis are adtem, some malpress are not elum, all adtem are dayrow",
+        "kb_id": "te_L_ds_130"
+      },
+      "some laar are not cachar": {
+        "prediction": "",
+        "answer": "all sian are erslow, all erslow are pointdan, all extin are mubat, all pointdan are extin, all tingby are sian, all mubat are laar, some tingby are not cachar",
+        "kb_id": "te_L_ds_197"
+      },
+      "some ganfect are not motain": {
+        "prediction": "all repna are ganfect, some talag are not mintry, all motain are mintry, all mintry are talag, all talag are facers, all capment are repna, all subsome are capment, all facers are subsome",
+        "answer": "all repna are ganfect, some talag are not mintry, all motain are mintry, all talag are facers, all capment are repna, all subsome are capment, all facers are subsome",
+        "kb_id": "te_L_ds_30"
+      },
+      "some conlong are not sihap": {
+        "prediction": "all rica are conlong, all sihap are rica, some rica are not mentver",
+        "answer": "all acter are gilu, all rica are conlong, all gilu are mentver, all ereddle are acter, all sihap are ningtain, all ningtain are ereddle, some rica are not mentver",
+        "kb_id": "te_L_ds_200"
+      },
+      "some westde are not uerpre": {
+        "prediction": "all westde are somevis, all culop are tedser, some culop are not counhigh, all plesdy are catemar, all catemar are culop, all uerpre are tractcal, all opsun are plesdy, all tractcal are opsun",
+        "answer": "all suwhere are counhigh, all opsun are suwhere, all culop are tedser, some culop are not counhigh, all tedser are westde, all uerpre are tractcal, all tractcal are opsun",
+        "kb_id": "te_L_ds_94"
+      },
+      "some hoit are not risen": {
+        "prediction": "all mentsment are sonsse, all tonwhere are selfex, all bodeast are hoit, all orvar are tonwhere, all selfex are bodeast, all evewest are mentsment, all nelsons are orvar, some bodeast are not orvar, all risen are evewest, all sonsse are nelsons",
+        "answer": "all mentsment are sonsse, all bodeast are hoit, all evewest are mentsment, all nelsons are orvar, some bodeast are not orvar, all risen are evewest, all sonsse are nelsons",
+        "kb_id": "te_L_ds_28"
+      },
+      "some sisson are not ishlands": {
+        "prediction": "all culate are encefect, all ishlands are fulvis, all fulvis are cirsup, all cirsup are asten, all surpa are culate, all ereddle are sisson, some surpa are not cirsup, all asten are surpa, all encefect are ereddle",
+        "answer": "all culate are encefect, all ishlands are fulvis, all fulvis are cirsup, all surpa are culate, all ereddle are sisson, some surpa are not cirsup, all encefect are ereddle",
+        "kb_id": "te_L_ds_82"
+      },
+      "some traysat are not centful": {
+        "prediction": "all endro are evco, all covmis are traysat, all simly are difis, all malpress are condan, all condan are tionried, some biev are centful, all biev are malpress, all evco are aptel, all pressdan are covmis, all centful are endro, all aptel are simly, all difis are pressdan",
+        "answer": "all endro are evco, all covmis are traysat, all evco are winwhere, all winwhere are vervid, all pressdan are covmis, all centful are endro, some pressdan are not vervid",
+        "kb_id": "te_L_ds_52"
+      },
+      "some tomsi are not oneni": {
+        "prediction": "all venble are tomsi, all senpen are talpro, all talpro are venble, all paat are senpen, some uernew are not oneni, all uernew are paat",
+        "answer": "all venble are tomsi, all oneni are workmag, some uernew are not workmag, all senpen are talpro, all talpro are venble, all paat are senpen, all uernew are paat",
+        "kb_id": "te_L_ds_84"
+      },
+      "some nouer are not raport": {
+        "prediction": "all raport are tiesmis, all mothless are nouer, all fidy are dlemy, all raport are teties, all teties are mothless, all tiesmis are cusward, all norepart are fidy, some mothless are not dlemy, all cusward are norepart",
+        "answer": "all raport are tiesmis, all mothless are nouer, all fidy are dlemy, all tiesmis are cusward, all norepart are fidy, some mothless are not dlemy, all cusward are norepart",
+        "kb_id": "te_L_ds_187"
+      },
+      "some libor are not hoau": {
+        "prediction": "some libor are not tyrec, all terstle are libor, all hoau are vares, all vares are terstle",
+        "answer": "some libor are not tyrec, all vares are terstle, all difis are tyrec, all hoau are vares, all diest are mentsous, all terstle are diest, all mentsous are difis",
+        "kb_id": "te_L_ds_45"
+      },
+      "some turepro are not sented": {
+        "prediction": "all centmil are pressdan, all sented are submen, all pressdan are iesam, all lecttu are centmil, some turepro are not iesam, all submen are lecttu",
+        "answer": "all sented are submen, all dislong are alsug, all alsug are pleag, all pleag are iesam, all submen are outad, all outad are dislong, some turepro are not iesam",
+        "kb_id": "te_L_ds_122"
+      },
+      "some tractcal are not saau": {
+        "prediction": "all nalsun are tractcal, all sentmeas are wardlin, some wardlin are not southbi, all umva are nalsun, all wardlin are umva, all turetra are sentmeas, all saau are turetra",
+        "answer": "all nalsun are tractcal, all sentmeas are southbi, some wardlin are not southbi, all wardlin are umva, all umva are nalsun, all turetra are sentmeas, all saau are turetra",
+        "kb_id": "te_L_ds_57"
+      },
+      "some efing are not alspoint": {
+        "prediction": "all writber are sentton, all troday are dansub, all uslong are writber, some efing are not orself, all alspoint are uslong, all sentton are troday",
+        "answer": "all writber are sentton, all troday are dansub, all uslong are writber, all dansub are orself, some efing are not orself, all alspoint are uslong, all sentton are troday",
+        "kb_id": "te_L_ds_188"
+      },
+      "some tendpoint are not ishlands": {
+        "prediction": "all culate are encefect, some tendpoint are not encefect, all ishlands are fulvis, all fulvis are cirsup, all surpa are culate",
+        "answer": "all culate are encefect, some tendpoint are not encefect, all ishlands are fulvis, all fulvis are cirsup, all cirsup are asten, all surpa are culate, all asten are surpa",
+        "kb_id": "te_L_ds_82"
+      }
+    },
+    "7": {
+      "some libor are not mentslat": {
+        "prediction": "some libor are not tyrec, all vares are terstle, all hoau are vares, all mentslat are hoau, all terstle are libor",
+        "answer": "some libor are not tyrec, all vares are terstle, all difis are tyrec, all hoau are vares, all diest are mentsous, all mentslat are hoau, all terstle are diest, all mentsous are difis",
+        "kb_id": "te_L_ds_45"
+      },
+      "some turepro are not mage": {
+        "prediction": "all centmil are pressdan, all sented are submen, all pressdan are iesam, all lecttu are centmil, some turepro are not iesam, all submen are lecttu, all mage are sented",
+        "answer": "all sented are submen, all dislong are alsug, all alsug are pleag, all pleag are iesam, all submen are outad, all outad are dislong, some turepro are not iesam, all mage are sented",
+        "kb_id": "te_L_ds_122"
+      },
+      "some diun are not foril": {
+        "prediction": "all sionsac are posde, all posde are mentsder, all tribut are sionsac, all befor are tribut, all mentsder are parmoth, some befor are not surlu, all vifer are not foril, all parmoth are diun, all foril are surlu",
+        "answer": "all sionsac are posde, all posde are mentsder, all tribut are sionsac, all befor are tribut, all mentsder are parmoth, some befor are not surlu, all parmoth are diun, all foril are surlu",
+        "kb_id": "te_L_ds_51"
+      },
+      "some come are not dame": {
+        "prediction": "all wonpe are tiesbet, all tiesbet are come, some mothsand are not nelplay, all mothsand are wonpe",
+        "answer": "all penther are nelplay, all wonpe are tiesbet, all dame are fixsu, all tiesbet are come, some mothsand are not nelplay, all dyhigh are penther, all fixsu are dyhigh, all mothsand are wonpe",
+        "kb_id": "te_L_ds_183"
+      },
+      "some efgi are not measpro": {
+        "prediction": "all iespres are tersness, all measpro are cusome, all tersness are armat, all cusome are iespres, all armat are newtu, some efgi are not newtu",
+        "answer": "some efgi are not newtu, all cusome are byni, all capu are newtu, all measpro are cusome, all nuby are imson, all imson are nercul, all byni are nuby, all nercul are capu",
+        "kb_id": "te_L_ds_13"
+      },
+      "some foril are not writber": {
+        "prediction": "all ganheav are dersfa, all atetel are therread, all comesen are foril, all fishter are comesen, some fishter are not worklar, all writber are ganheav, all dersfa are atetel",
+        "answer": "all ganheav are dersfa, all atetel are therread, all therread are worklar, all comesen are foril, all fishter are comesen, some fishter are not worklar, all writber are ganheav, all dersfa are atetel",
+        "kb_id": "te_L_ds_60"
+      },
+      "some bebles are not porno": {
+        "prediction": "all sennew are bemi, all happer are carmon, all wilning are highes, all bemi are wilning, all diftle are landpro, all carmem are sennew, all landpro are mempro, some diftle are not mempro, all carmon are carmem, all mempro are bebles, all porno are happer, all highes are landpro",
+        "answer": "all wilning are highes, all icsub are diftle, all bemi are wilning, all landpro are mempro, some bemi are not diftle, all porno are icsub, all mempro are bebles, all highes are landpro",
+        "kb_id": "te_L_ds_12"
+      },
+      "some nyit are not diven": {
+        "prediction": "all tyheav are landrep, all landrep are ouspar, some nyit are not siaf, all diven are landpro, all ouspar are lessjo, all landpro are tyheav",
+        "answer": "all tyheav are landrep, all landrep are ouspar, all lessjo are toau, some nyit are not siaf, all toau are siaf, all diven are landpro, all ouspar are lessjo, all landpro are tyheav",
+        "kb_id": "te_L_ds_23"
+      },
+      "some myvi are not ocgrand": {
+        "prediction": "some turesgo are not evuer, all efsent are myvi, all ocgrand are saam, all unon are efsent, all turesgo are unon, all saam are tainsat, all tainsat are turesgo",
+        "answer": "some turesgo are not evuer, all efsent are myvi, all ocgrand are rabat, all senttin are siage, all unon are efsent, all rabat are senttin, all turesgo are unon, all siage are evuer",
+        "kb_id": "te_L_ds_187"
+      },
+      "some leades are not lentward": {
+        "prediction": "all cenpoint are fibod, some leades are not headwil, all lentward are tureuer, all lybut are headwil, all fibod are lybut, all faen are cenpoint, all tureuer are faen",
+        "answer": "all iccal are fibod, some leades are not headwil, all lentward are tureuer, all cenpoint are iccal, all lybut are headwil, all fibod are lybut, all faen are cenpoint, all tureuer are faen",
+        "kb_id": "te_L_ds_89"
+      },
+      "some formden are not vifac": {
+        "prediction": "all agact are yther, all bipa are fixther, all vifac are bipa, all fixther are agact, some formden are not dangi",
+        "answer": "all agact are yther, all enceered are dangi, all ermal are enceered, all bipa are fixther, all vifac are bipa, all yther are ermal, all fixther are agact, some formden are not dangi",
+        "kb_id": "te_L_ds_92"
+      },
+      "some netties are not selfhunt": {
+        "prediction": "all supcle are simtin, all simtin are tersous, all tersous are cypo, some netties are not ryber, all cypo are ryber, all selfhunt are supcle",
+        "answer": "all supcle are simtin, all sisson are ryber, all tainread are nerof, all simtin are tainread, all nerof are thetures, some netties are not ryber, all thetures are sisson, all selfhunt are supcle",
+        "kb_id": "te_L_ds_66"
+      },
+      "some unby are not mynu": {
+        "prediction": "all bycov are unby, some bycov are not mulu, all mynu are newmer, all wilning are cyas, all newmer are wilning",
+        "answer": "all cyas are nalcen, all lowen are mulu, all bycov are unby, some bycov are not mulu, all mynu are newmer, all nalcen are lowen, all wilning are cyas, all newmer are wilning",
+        "kb_id": "te_L_ds_9"
+      },
+      "some talong are not unev": {
+        "prediction": "all lalong are alseast, all ticat are torsral, all miltray are alseast, all unev are ticat, some talong are not lalong, all torsral are fersouth, all fersouth are miltray",
+        "answer": "all ticat are torsral, all catnal are lalong, all miltray are alseast, all alseast are catnal, all unev are ticat, some talong are not lalong, all torsral are fersouth, all fersouth are miltray",
+        "kb_id": "te_L_ds_32"
+      }
+    },
+    "8": {
+      "some daycap are not aura": {
+        "prediction": "all rase are peful, all lofin are charni, all nobor are tainend, some daycap are not tainend, all charni are nobor, all tugan are rase, all sentvis are tugan, all tainend are monried, all aura are sentvis, all peful are lofin",
+        "answer": "all rase are peful, all lofin are charni, all nobor are tainend, some daycap are not tainend, all charni are nobor, all tugan are rase, all sentvis are tugan, all aura are sentvis, all peful are lofin",
+        "kb_id": "te_L_ds_3"
+      },
+      "some adny are not fiber": {
+        "prediction": "all elcle are adny, all fiber are elcle",
+        "answer": "all playtend are riedcus, some adny are not cymain, all etin are ungo, all riedcus are ousact, all tendhar are etin, all ousact are tendhar, all ungo are cymain, all elcle are playtend, all fiber are elcle",
+        "kb_id": "te_L_ds_15"
+      },
+      "some ousact are not cirob": {
+        "prediction": "all cirage are itum, all tendning are oneeve, all pogrand are teric, all sideact are linnet, all oneeve are entta, all ersner are tendning, all entta are ousact, all teric are sideact, all sideple are daba, all itum are pogrand, all linnet are sideple, all cirob are cirage, some ersner are not daba",
+        "answer": "all cirage are itum, all pogrand are teric, all ersner are tendning, all teric are sideple, all sideple are daba, all itum are pogrand, all daba are ersner, some ousact are not tendning, all cirob are cirage",
+        "kb_id": "te_L_ds_19"
+      },
+      "some ralside are not picle": {
+        "prediction": "all minvel are plegle, all ilma are betsun, all plegle are ralside, some tractders are not ycat, all tractders are wardy, all wardy are minvel, all picle are ilma",
+        "answer": "all ilma are betsun, all verat are ralside, all writwin are fiber, all iler are distors, all distors are writwin, all wayner are verat, all picle are ilma, all fiber are wayner, some iler are not betsun",
+        "kb_id": "te_L_ds_67"
+      },
+      "some saun are not venau": {
+        "prediction": "all venau are nearstand, all nearstand are tinore, all libor are pressdan, all tinore are mentslat, all mentslat are landsal, all landsal are libor, some saun are not pressdan",
+        "answer": "all venau are nearstand, all nearstand are tinore, all vares are terstle, all hoau are vares, all libor are pressdan, all tinore are mentslat, all mentslat are hoau, all terstle are libor, some saun are not pressdan",
+        "kb_id": "te_L_ds_45"
+      },
+      "some foril are not entlands": {
+        "prediction": "all ganheav are dersfa, all atetel are therread, all comesen are foril, all fishter are comesen, all entlands are writber, some fishter are not worklar, all writber are ganheav, all dersfa are atetel",
+        "answer": "all ganheav are dersfa, all atetel are therread, all therread are worklar, all comesen are foril, all fishter are comesen, all entlands are writber, some fishter are not worklar, all writber are ganheav, all dersfa are atetel",
+        "kb_id": "te_L_ds_60"
+      },
+      "some ticmin are not occol": {
+        "prediction": "all fixsu are niate, some temev are not ticmin, all indy are fixsu, all occol are talag, all temev are not ticmin, all atvis are ticmin, all mysons are copos, all talag are mysons, all niate are wilpro, all wilpro are atvis, all copos are indy",
+        "answer": "all copos are dyprac, all occol are talag, all dyprac are leadev, all atvis are ticmin, all mysons are copos, all talag are mysons, all niate are wilpro, some niate are not leadev, all wilpro are atvis",
+        "kb_id": "te_L_ds_154"
+      },
+      "some arme are not plyny": {
+        "prediction": "all tersgen are arme, all plyny are disev, some tersgen are not efsent",
+        "answer": "all sunmat are gantions, all disev are armat, all tersgen are arme, all plyny are disev, all armat are meascoun, all ralcial are sunmat, some tersgen are not efsent, all meascoun are ralcial, all gantions are efsent",
+        "kb_id": "te_L_ds_156"
+      },
+      "some vervid are not aptel": {
+        "prediction": "all iesfect are covmis, all simly are difis, all covmis are entman, some winwhere are not loper, all winwhere are vervid, all denwhere are loper, all pressdan are iesfect, all entman are denwhere, all aptel are simly, all difis are pressdan",
+        "answer": "all simly are difis, all covmis are entman, some winwhere are not loper, all winwhere are vervid, all denwhere are loper, all pressdan are covmis, all entman are denwhere, all aptel are simly, all difis are pressdan",
+        "kb_id": "te_L_ds_52"
+      },
+      "some tractried are not troland": {
+        "prediction": "some tractried are not troland",
+        "answer": "all tytry are sonsture, all lotend are borion, all sonsture are cied, all borion are tytry, all troland are ersgrand, all ersgrand are lotend, some tractried are not linty, all cied are alsri, all alsri are linty",
+        "kb_id": "te_L_ds_135"
+      },
+      "some huntdy are not tercul": {
+        "prediction": "all myta are huntdy, all tercul are dyered, some myta are not dyered",
+        "answer": "all berpa are mentlong, all selu are huntdy, all endpen are citsi, all temples are endpen, all nolent are temples, all dyered are berpa, some selu are not citsi, all tercul are dyered, all mentlong are nolent",
+        "kb_id": "te_L_ds_33"
+      }
+    },
+    "9": {
+      "some nalsun are not mothsand": {
+        "prediction": "all uslec are tendil, all mothsand are tento, some pointsat are not estder, all sentmeas are wardlin, all simtin are nalsun, all tendil are saau, all pointsat are simtin, all wardlin are umva, all umva are nalsun, all turetra are sentmeas, all saau are turetra, all tento are uslec",
+        "answer": "all uslec are tendil, all mothsand are tento, all tendil are saau, all sentmeas are southbi, some wardlin are not southbi, all wardlin are umva, all umva are nalsun, all turetra are sentmeas, all saau are turetra, all tento are uslec",
+        "kb_id": "te_L_ds_57"
+      },
+      "some waybi are not wilpro": {
+        "prediction": "some waybi are not sideact, all wilpro are ningmar, all ortend are sidepi, all ningmar are ventri, all ventri are facvar, all facvar are ortend, all sidepi are tendan, all tendan are itsro, all itsro are porble",
+        "answer": "some waybi are not sideact, all wilpro are ningmar, all ortend are sidepi, all ningmar are ventri, all ventri are facvar, all facvar are ortend, all porble are sideact, all sidepi are tendan, all tendan are itsro, all itsro are porble",
+        "kb_id": "te_L_ds_42"
+      },
+      "some huntdy are not ingsair": {
+        "prediction": "all myta are huntdy, all ingsair are tercul, all tercul are dyered, some myta are not dyered",
+        "answer": "all berpa are mentlong, all selu are huntdy, all endpen are citsi, all temples are endpen, all nolent are temples, all dyered are berpa, some selu are not citsi, all ingsair are tercul, all tercul are dyered, all mentlong are nolent",
+        "kb_id": "te_L_ds_33"
+      },
+      "some germin are not occol": {
+        "prediction": "all atewest are theis, all fixsu are niate, all theis are germin, all indy are fixsu, all occol are talag, some hoit are not turepro, all atvis are ticmin, all mysons are copos, all talag are mysons, all niate are wilpro, all hoit are nelried, all nelried are atewest, all wilpro are atvis, all copos are indy",
+        "answer": "all copos are dyprac, all occol are talag, all dyprac are leadev, all atvis are ticmin, all mysons are copos, all talag are mysons, all niate are wilpro, some niate are not leadev, all wilpro are atvis, all ticmin are germin",
+        "kb_id": "te_L_ds_154"
+      },
+      "some vervid are not evco": {
+        "prediction": "all winwhere are vervid, all evco are winwhere, some winwhere are not loper",
+        "answer": "all simly are difis, all covmis are entman, all evco are aptel, some winwhere are not loper, all winwhere are vervid, all denwhere are loper, all pressdan are covmis, all entman are denwhere, all aptel are simly, all difis are pressdan",
+        "kb_id": "te_L_ds_52"
+      },
+      "some tractcal are not tento": {
+        "prediction": "all uslec are tendil, all nalsun are tractcal, all sentmeas are wardlin, all tendil are saau, all wardlin are umva, all umva are nalsun, all southbi are nalsun, all turetra are sentmeas, all saau are turetra, some southbi are not tractcal, all tento are uslec",
+        "answer": "all uslec are tendil, all nalsun are tractcal, all tendil are saau, all sentmeas are southbi, some wardlin are not southbi, all wardlin are umva, all umva are nalsun, all turetra are sentmeas, all saau are turetra, all tento are uslec",
+        "kb_id": "te_L_ds_57"
+      },
+      "some diftle are not porno": {
+        "prediction": "all porno are icsub, some diftle are not mempro, all icsub are diftle",
+        "answer": "all sennew are bemi, all happer are carmon, all wilning are highes, all bemi are wilning, some diftle are not mempro, all carmem are sennew, all landpro are mempro, all carmon are carmem, all porno are happer, all highes are landpro",
+        "kb_id": "te_L_ds_12"
+      },
+      "some airca are not derscon": {
+        "prediction": "all derscon are eredbe, some airca are not landeve, all eredbe are airca",
+        "answer": "all cencu are atelead, all eredbe are malrow, some airca are not landeve, all sidehar are berpa, all atelead are itbat, all berpa are cencu, all malrow are ersed, all ersed are sidehar, all derscon are eredbe, all itbat are landeve",
+        "kb_id": "te_L_ds_100"
+      },
+      "some tylec are not ateic": {
+        "prediction": "all icca are hoson, all lotend are alty, all nolo are fishca, all wincat are ingstro, some agper are not alty, all preswhere are unsug, all copres are preswhere, all unsug are nolo, all hoson are miger, all agper are icca, all ingstro are tylec, all fishca are wincat, all miger are copres, all ateic are lotend",
+        "answer": "all wincat are ingstro, all nolo are fishca, all copres are preswhere, all ateic are hoson, all hoson are miger, all preswhere are agper, some nolo are not agper, all ingstro are tylec, all fishca are wincat, all miger are copres",
+        "kb_id": "te_L_ds_74"
+      },
+      "some finlo are not plyny": {
+        "prediction": "all sunmat are gantions, all leadket are finlo, all disev are armat, all tersgen are arme, all plyny are disev, some leadket are not disev, all armat are meascoun, all ralcial are sunmat, all playcar are tersgen, all meascoun are ralcial, all efsent are playcar, all gantions are efsent, all arme are leadket",
+        "answer": "all sunmat are gantions, all disev are armat, all plyny are disev, some finlo are not tersgen, all armat are meascoun, all ralcial are sunmat, all playcar are tersgen, all meascoun are ralcial, all efsent are playcar, all gantions are efsent",
+        "kb_id": "te_L_ds_156"
+      },
+      "some southbi are not tento": {
+        "prediction": "all uslec are tendil, all nalsun are tractcal, all sentmeas are wardlin, all iespoint are nalsun, all tendil are saau, all wardlin are iespoint, all turetra are sentmeas, all saau are turetra, some southbi are not tractcal, all tento are uslec",
+        "answer": "all uslec are tendil, all nalsun are tractcal, all sentmeas are wardlin, all tendil are saau, all wardlin are umva, all umva are nalsun, all turetra are sentmeas, all saau are turetra, some southbi are not tractcal, all tento are uslec",
+        "kb_id": "te_L_ds_57"
+      },
+      "some actas are not grandtle": {
+        "prediction": "all westde are somevis, all grandtle are sentty, all culop are tedser, some culop are not counhigh, all tedser are westde, all auim are germin, all sentty are auim, all somevis are actas",
+        "answer": "all cletive are borvis, all umsome are cletive, all linap are actas, all landless are milthe, all milthe are umsome, all trocon are linap, all sidemis are landless, all borvis are trocon, all workpro are sidemis, some workpro are not grandtle",
+        "kb_id": "te_L_ds_94"
+      },
+      "some mismon are not facau": {
+        "prediction": "all edate are headwil, all apsup are mismon, some riedti are not monbat, all conlong are edate, all headwil are cantri, all riedti are apsup, all facau are conlong",
+        "answer": "all edate are headwil, all apsup are mismon, some riedti are not monbat, all conlong are edate, all ousmu are monbat, all headwil are cantri, all riedti are apsup, all facau are conlong, all cantri are motho, all motho are ousmu",
+        "kb_id": "te_L_ds_98"
+      },
+      "some fertion are not sandob": {
+        "prediction": "some erply are sandob, all erply are cateact, all ardi are menmat, all tleful are dislong, all menmat are coda, all cateact are tleful, all coda are piner, all dislong are ardi, all piner are fertion",
+        "answer": "all manwon are netland, all damag are saies, all alpi are upit, all upit are derbles, all netland are alpi, all sandob are damag, all saies are tinglar, all derbles are cateci, all cateci are fertion, some manwon are not tinglar",
+        "kb_id": "te_L_ds_16"
+      },
+      "some popres are not iesmen": {
+        "prediction": "some popres are not monried, all iesmen are leadsons, all sedy are sistive, all presfa are sedy, all leadsons are presfa",
+        "answer": "all suwrit are monried, some popres are not monried, all sedy are huntits, all troap are suwrit, all sumem are troap, all iesmen are leadsons, all huntits are caits, all presfa are sedy, all caits are sumem, all leadsons are presfa",
+        "kb_id": "te_L_ds_33"
+      },
+      "some valcome are not ilver": {
+        "prediction": "some lobi are not atvis, all fecttu are hapber, all ilver are sercon, all headwil are lowman, all permi are headwil, all lobi are valcome, all serion are fecttu, all hapber are permi, all sercon are serion",
+        "answer": "some lobi are not atvis, all fecttu are hapber, all ilver are sercon, all headwil are lowman, all permi are headwil, all lowman are atvis, all lobi are valcome, all serion are fecttu, all hapber are permi, all sercon are serion",
+        "kb_id": "te_L_ds_78"
+      },
+      "some cenlet are not derscon": {
+        "prediction": "all cencu are atelead, all eredbe are malrow, all sidehar are berpa, all atelead are itbat, all berpa are cencu, all malrow are ersed, all ersed are sidehar, some dleders are not tlecor, all derscon are eredbe, all itbat are cenlet",
+        "answer": "all cencu are atelead, all eredbe are airca, some malrow are not airca, all sidehar are berpa, all atelead are itbat, all berpa are cencu, all malrow are ersed, all ersed are sidehar, all derscon are eredbe, all itbat are cenlet",
+        "kb_id": "te_L_ds_100"
+      },
+      "some theref are not evewest": {
+        "prediction": "all leadtors are theref, all mentsment are sonsse, all nelsons are orvar, all evewest are mentsment, all sonsse are nelsons, some leadtors are not hoit",
+        "answer": "all leadtors are theref, all mentsment are sonsse, all tonwhere are selfex, all bodeast are hoit, all orvar are tonwhere, all selfex are bodeast, all nelsons are orvar, all evewest are mentsment, all sonsse are nelsons, some leadtors are not hoit",
+        "kb_id": "te_L_ds_28"
+      }
+    }
+  },
+  "2": {
+    "8": {
+      "all tivewil are greatmain": {
+        "prediction": "all greatcu are conri, all boddif are greatmain, all conri are boddif, all tionap are greatcu, all tionap are tivewil",
+        "answer": "all landci are latdle, all evepen are tionscu, all grandex are evepen, all tivewil are sisside, all boddif are greatmain, all latdle are grandex, all sisside are landci, all tionscu are boddif",
+        "kb_id": "te_L_ds_13"
+      }
+    },
+    "9": {
+      "all plyny are leadket": {
+        "prediction": "all armat are finlo, all sunmat are gantions, all disev are armat, all plyny are disev, all playcar are leadket, all armat are meascoun, all ralcial are sunmat, all finlo are armat, all meascoun are ralcial, all efsent are playcar, all gantions are efsent",
+        "answer": "all sunmat are gantions, all disev are armat, all plyny are disev, all playcar are leadket, all armat are meascoun, all ralcial are sunmat, all meascoun are ralcial, all efsent are playcar, all gantions are efsent",
+        "kb_id": "te_L_ds_156"
+      },
+      "all tinor are somecome": {
+        "prediction": "all mysons are somecome, all itmoth are ningsons, all tinor are wayhar, all imward are mysons, all ningsons are imward, all wayhar are itmoth",
+        "answer": "all mysons are somecome, all motho are danci, all sunate are motho, all tinor are wayhar, all partsa are sunate, all imward are mysons, all wayhar are partsa, all danci are premer, all premer are imward",
+        "kb_id": "te_L_ds_93"
+      },
+      "all icnore are nerfin": {
+        "prediction": "all onat are dilow, all icnore are onat",
+        "answer": "all icnore are onat, all onat are dilow, all dilow are ralta, all etdi are fixter, all ralta are raside, all fixter are itti, all ilma are nerfin, all raside are etdi, all itti are ilma",
+        "kb_id": "te_L_ds_75"
+      },
+      "all huntwrit are terbod": {
+        "prediction": "all huntwrit are torat, all torat are sonsde, all sonsde are shipmy, all fixself are terbod, all shipmy are ningtin, all ningtin are fixself",
+        "answer": "all fixself are terbod, all recgen are evuer, all evuer are outsi, all sometray are ionsa, all outsi are sometray, all shipmy are ningtin, all ningtin are fixself, all huntwrit are recgen, all ionsa are shipmy",
+        "kb_id": "te_L_ds_96"
+      }
+    },
+    "10": {
+      "all isround are cymain": {
+        "prediction": "all elcle are adny, all etin are ungo, all mimain are fiber, all adny are etin, all ungo are cymain, all isround are mimain, all fiber are elcle",
+        "answer": "all playtend are riedcus, all etin are ungo, all mimain are fiber, all riedcus are ousact, all tendhar are etin, all ousact are tendhar, all ungo are cymain, all elcle are playtend, all isround are mimain, all fiber are elcle",
+        "kb_id": "te_L_ds_15"
+      }
+    }
+  },
+  "3": {
+    "15": {
+      "some southden are not afen": {
+        "prediction": "all anore are tegi, all tureaf are southden, all apies are seccial, all alty are mispress, all comesen are anore, all afen are ciallar, all actas are tureaf, no super are tegi, all seccial are grandmi, all valcome are procle, all ciallar are landed, all tureaf are apies, all procle are colbod, all grandmi are comesen, all colbod are alty, all landed are valcome, all mispress are super",
+        "answer": "all anore are tegi, all alty are mispress, all apies are seccial, all tureaf are southden, all comesen are anore, all afen are ciallar, no super are tegi, all valcome are procle, all seccial are grandmi, all ciallar are landed, all tureaf are apies, all procle are colbod, all grandmi are comesen, all colbod are alty, all landed are valcome, all mispress are super",
+        "kb_id": "te_L_ds_4"
+      },
+      "some athigh are not cymul": {
+        "prediction": "all denral are migle, all cansen are roundob, all athigh are letser, all bletor are daket, all landsand are turesread, no measic are roundob, all letser are headlin, all raltin are cansen, all cymul are denral, all turesread are discap, all winaf are joet, all joet are condy, all daket are raltin, all discap are measic, all headlin are landsand, all condy are bletor, all migle are winaf",
+        "answer": "all denral are migle, all cansen are roundob, all opmo are athigh, all bletor are daket, no measic are roundob, all tegen are measic, all tedness are tegen, all raltin are cansen, all cymul are denral, all winaf are joet, all joet are condy, all daket are raltin, all opmo are mulheav, all condy are bletor, all mulheav are tedness, all migle are winaf",
+        "kb_id": "te_L_ds_48"
+      },
+      "some citgo are not raport": {
+        "prediction": "no paread are thecy, all mothless are nouer, all siage are paread, all myvi are citgo, all raport are teties, all teties are mothless, all evuer are myvi, all siage are evuer, all nouer are thecy",
+        "answer": "no paread are thecy, all efsent are myvi, all ocgrand are rabat, all ocgrand are saam, all mothless are nouer, all siage are paread, all turesgo are unon, all rabat are senttin, all unon are efsent, all raport are teties, all myvi are citgo, all teties are mothless, all senttin are siage, all saam are tainsat, all tainsat are turesgo, all nouer are thecy",
+        "kb_id": "te_L_ds_187"
+      },
+      "some tritro are not corhigh": {
+        "prediction": "all sidemis are landless, all westde are somevis, all umsome are cletive, all linap are actas, all landless are milthe, all trocon are linap, all catemar are culop, all tedser are westde, all somevis are tritro, all plesdy are catemar, no counhigh are actas, all workpro are sidemis, all cletive are borvis, all actun are tritro, all milthe are umsome, all culop are tedser, all plesdy are actun, all borvis are trocon, all corhigh are workpro",
+        "answer": "all cletive are borvis, all opsun are suwhere, all suwhere are counhigh, all umsome are cletive, all linap are actas, all landless are milthe, all milthe are umsome, all trocon are linap, all plesdy are actun, all actun are tritro, all opsun are plesdy, no counhigh are actas, all sidemis are landless, all borvis are trocon, all workpro are sidemis, all corhigh are workpro",
+        "kb_id": "te_L_ds_94"
+      },
+      "some pracmo are not dlemy": {
+        "prediction": "all latdi are sionsti, some nalits are not torsting, all tintle are alpa, all roundob are pracmo, all encehead are wilsi, some loture are latdi, all dlemy are headread, no catmi are alscul, all headread are turening, all loture are ocson, all dley are ningde, some bodsome are not latdi, all ateger are tonnear, all dlemy are vaing, all sionsti are rilong, some ateger are not sidenew, some lentits are not dlemy, all rilong are roundob, all ningde are ateger, some fider are not turening, all wilsi are nalits, all fider are torsting, some alpa are not ateger, all bodsome are sidenew, all encehead are loture, all ningde are tintle, all nalits are catmi, all wilsi are fider, all esered are dley, all latdi are esered, all turening are encehead, all turening are lentits, all ateger are alscul, some pracmo are not esered",
+        "answer": "all ningde are ateger, all latdi are sionsti, all headread are turening, all nalits are catmi, all dley are ningde, all wilsi are nalits, all esered are dley, all latdi are esered, all roundob are pracmo, all encehead are wilsi, all sionsti are rilong, all dlemy are headread, all turening are encehead, all ateger are alscul, no catmi are alscul, all rilong are roundob",
+        "kb_id": "te_L_ds_116"
+      }
+    },
+    "16": {
+      "some somevis are not sidemis": {
+        "prediction": "all westde are somevis, all cletive are borvis, all umsome are cletive, all linap are actas, all landless are milthe, all milthe are umsome, all trocon are linap, all culop are tedser, all plesdy are actun, all plesdy are catemar, all catemar are culop, all actun are tritro, all tedser are westde, all tritro are actas, no counhigh are actas, all sidemis are landless, all borvis are trocon",
+        "answer": "all westde are somevis, all cletive are borvis, all opsun are suwhere, all suwhere are counhigh, all umsome are cletive, all linap are actas, all landless are milthe, all milthe are umsome, all culop are tedser, all trocon are linap, all plesdy are catemar, all catemar are culop, all tedser are westde, all opsun are plesdy, no counhigh are actas, all sidemis are landless, all borvis are trocon",
+        "kb_id": "te_L_ds_94"
+      },
+      "some finlar are not atnew": {
+        "prediction": "all encehead are leades, no wonmen are afus, all vitro are leades, all trilin are maples, all atnew are latnel, all maples are matcus, all matcus are rypa, all proat are nessner, all germent are heading, all leades are encehead, all vitro are trilin, all nessner are afus, all comor are porvid, all leades are finlar, all porvid are germent, all rypa are proat, all latnel are milport, all milport are comor, all heading are wonmen",
+        "answer": "all porvid are germent, all vitro are trilin, all matcus are rypa, all rypa are proat, all nessner are afus, no wonmen are afus, all comor are porvid, all latnel are milport, all vitro are leades, all milport are comor, all leades are finlar, all proat are nessner, all heading are wonmen, all atnew are latnel, all trilin are maples, all maples are matcus, all germent are heading",
+        "kb_id": "te_L_ds_53"
+      },
+      "some grandmis are not vinet": {
+        "prediction": "no imil are cowrit, all carow are togen, all nelhap are measket, all bodits are imil, all minvel are selfba, all landlo are carow, all raltract are landlo, all orvid are capcal, all varec are grandmis, all capcal are ralman, all nelhap are minvel, all porno are torspro, all selfba are varec, all ralman are bodits, all vinet are porno, all deself are orvid, all torspro are deself, all togen are cowrit, all measket are raltract",
+        "answer": "all landlo are carow, no imil are cowrit, all raltract are landlo, all heavef are myry, all ralman are bodits, all vinet are porno, all deself are orvid, all carow are togen, all orvid are capcal, all ralbe are grandmis, all torspro are deself, all togen are cowrit, all porno are torspro, all bodits are imil, all myry are ralbe, all capcal are ralman, all raltract are heavef",
+        "kb_id": "te_L_ds_198"
+      }
+    },
+    "19": {
+      "some lotend are not lessbi": {
+        "prediction": "all copres are preswhere, all itsof are cition, all hoson are miger, all lotend are alty, all nolo are fishca, all wincat are ingstro, all lessbi are lecsand, all ateic are hoson, all unsug are nolo, all lecsand are measti, all measti are ontract, all ernlands are lowgle, all ontract are sideit, all sideit are itsof, all miger are copres, all cition are ernlands, all preswhere are unsug, all ingstro are tylec, all alty are ateic, all fishca are wincat, no tylec are lowgle",
+        "answer": "all copres are preswhere, all itsof are cition, all hoson are miger, all wincat are ingstro, all nolo are fishca, all lessbi are lecsand, all ateic are hoson, all unsug are nolo, all lecsand are measti, all measti are ontract, all ernlands are lowgle, all ontract are sideit, all sideit are itsof, all miger are copres, all cition are ernlands, all preswhere are unsug, all ingstro are tylec, all fishca are wincat, no tylec are lowgle, all ateic are lotend",
+        "kb_id": "te_L_ds_74"
+      }
+    }
+  },
+  "4": {
+    "7": {
+      "some liless are baits": {
+        "prediction": "all cialcan are batop, all carther are cialcan, all magful are mancon, all sercir are carther, all sontray are sercir, all glerec are magful, all mancon are baits, all batop are liless, all sontray are glerec",
+        "answer": "all cialcan are batop, all carther are cialcan, all sercir are carther, all sontray are sercir, all mancon are sontray, all mancon are baits, all batop are liless",
+        "kb_id": "te_L_ds_6"
+      },
+      "some citla are portmen": {
+        "prediction": "all colfac are tysent, all colfac are cuered, all anden are misples, all cuered are citla, all portco are portmen, all tysent are anden, all misples are portco",
+        "answer": "all nylands are portmen, all sonla are nylands, all colfac are cuered, all cuered are citla, all sonla are tenwhere, all tenwhere are onecal, all onecal are colfac",
+        "kb_id": "te_L_ds_15"
+      },
+      "some landless are actas": {
+        "prediction": "all westde are somevis, all cletive are borvis, all umsome are cletive, all linap are actas, all actun are tritro, all landless are milthe, all culop are tedser, all plesdy are actun, all milthe are umsome, all plesdy are catemar, all catemar are culop, all trocon are linap, all tedser are westde, all tritro are actas, all somevis are actas, all borvis are trocon",
+        "answer": "all cletive are borvis, all umsome are cletive, all linap are actas, all landless are milthe, all milthe are umsome, all trocon are linap, all borvis are trocon",
+        "kb_id": "te_L_ds_94"
+      },
+      "some tractcal are tepos": {
+        "prediction": "all ganty are cencul, all incate are tepos, all inset are luup, all ganty are incate, all playdy are tractcal, all cencul are tepos, all luup are ganty, all playdy are berrep, all berrep are inset",
+        "answer": "all ganty are cencul, all inset are luup, all playdy are tractcal, all cencul are tepos, all luup are ganty, all playdy are berrep, all berrep are inset",
+        "kb_id": "te_L_ds_114"
+      },
+      "some surlu are biton": {
+        "prediction": "all nalvar are biton, all sissons are corat, all corat are hoous, all hoous are sissons, all sissons are nalvar",
+        "answer": "all nalvar are biton, all venva are surlu, all sonspe are conread, all conread are ycat, all sonspe are sissons, all ycat are venva, all sissons are nalvar",
+        "kb_id": "te_L_ds_61"
+      },
+      "some daytry are valheav": {
+        "prediction": "all colfac are nearsand, all alap are therlin, all alap are colfac, all nearsand are alap, all therlin are daytry",
+        "answer": "all ditu are senty, all alap are therlin, all memate are alap, all memate are bipos, all senty are valheav, all therlin are daytry, all bipos are ditu",
+        "kb_id": "te_L_ds_41"
+      }
+    },
+    "8": {
+      "some piner are lowval": {
+        "prediction": "all siaf are auments, all auments are varis, all ingway are siaf, all erply are lowval, all varis are piner, all ingway are erply",
+        "answer": "all erply are lowval, all erply are cateact, all ardi are menmat, all tleful are dislong, all menmat are coda, all cateact are tleful, all coda are piner, all dislong are ardi",
+        "kb_id": "te_L_ds_16"
+      },
+      "some biton are vidful": {
+        "prediction": "all nalvar are biton, all sissons are corat, all corat are hoous, all hoous are sissons, all sissons are nalvar",
+        "answer": "all nalvar are biton, all surlu are vidful, all venva are surlu, all sonspe are conread, all conread are ycat, all sonspe are sissons, all ycat are venva, all sissons are nalvar",
+        "kb_id": "te_L_ds_61"
+      },
+      "some cirders are rectrec": {
+        "prediction": "all myday are highwhere, all posca are setac, all highwhere are cirders, all poval are rectrec, all posca are poval, all setac are plesad, all plesad are myday",
+        "answer": "all asply are soat, all hunthunt are corful, all corful are cirders, all soat are posca, all poval are rectrec, all tionev are asply, all tionev are hunthunt, all posca are poval",
+        "kb_id": "te_L_ds_181"
+      },
+      "some plytal are huntby": {
+        "prediction": "all imdif are formgle, all playcar are bleish, all bleish are huntby, all wonaf are plytal, all formgle are playcar, all wonaf are tionbat, all tionbat are imdif",
+        "answer": "all satlin are asply, all bleish are huntby, all asply are berchar, all latlight are wonaf, all tamu are latlight, all berchar are bleish, all wonaf are plytal, all satlin are tamu",
+        "kb_id": "te_L_ds_32"
+      }
+    },
+    "9": {
+      "some southden are colmoth": {
+        "prediction": "all nalser are southden, all encery are tysub, all tysub are nalser, all charso are colmoth, all encery are charso",
+        "answer": "all cymain are maltray, all cymain are encepre, all nalser are southden, all charso are colmoth, all encery are charso, all encepre are nalser, all nessvi are encery, all sandmem are nessvi, all maltray are sandmem",
+        "kb_id": "te_L_ds_75"
+      },
+      "some sionslet are lightmul": {
+        "prediction": "all sensouth are sionslet, all dena are sensouth, all lightmul are cusfi, all cusfi are not dena",
+        "answer": "all opger are alssions, all sensouth are sionslet, all tlefer are opger, all alssions are dena, all itex are lightmul, all trigle are rova, all itex are trigle, all rova are tlefer, all dena are sensouth",
+        "kb_id": "te_L_ds_145"
+      },
+      "some niwest are eften": {
+        "prediction": "all varbles are torra, all conry are serber, all serber are estsec, all addis are varbles, all estsec are niwest, all torra are conry, all addis are eften",
+        "answer": "all varbles are torra, all addis are varbles, all workby are tervid, all torra are conry, all addis are eften, all namin are workby, all conry are sensouth, all tervid are niwest, all sensouth are namin",
+        "kb_id": "te_L_ds_68"
+      }
+    },
+    "10": {
+      "some iate are tinate": {
+        "prediction": "all dacle are neltors, all neltors are iontal, all diing are huntage, all betmoth are diing, all fectim are iate, all itsri are dletract, all blessen are sonval, all fectim are dacle, all huntage are tinate, all huntage are betmoth, all sonval are huntage, all dletract are blessen, all iontal are itsri",
+        "answer": "all dacle are neltors, all neltors are iontal, all fectim are iate, all itsri are dletract, all blessen are sonval, all fectim are dacle, all huntage are tinate, all sonval are huntage, all dletract are blessen, all iontal are itsri",
+        "kb_id": "te_L_ds_25"
+      }
+    },
+    "11": {
+      "some huntby are playcar": {
+        "prediction": "all asply are maintom, all imdif are formgle, all bleish are huntby, all maintom are satlin, all asply are berchar, all latlight are wonaf, all tamu are latlight, all berchar are bleish, all formgle are playcar, all wonaf are tionbat, all satlin are tamu, all tionbat are imdif",
+        "answer": "all satlin are asply, all imdif are formgle, all bleish are huntby, all asply are berchar, all latlight are wonaf, all tamu are latlight, all berchar are bleish, all formgle are playcar, all wonaf are tionbat, all satlin are tamu, all tionbat are imdif",
+        "kb_id": "te_L_ds_32"
+      }
+    }
+  },
+  "5": {
+    "15": {
+      "some tempres are not vinet": {
+        "prediction": "no imil are cowrit, all heavef are myry, all carow are togen, some carex are nelhap, all varec are nelhap, all nelhap are measket, some selfba are not ralbe, all carex are tempres, some togen are not measket, all bodits are imil, all minvel are selfba, all raltract are heavef, some exlands are not deself, all landlo are carow, all raltract are landlo, all imil are selfba, all orvid are capcal, all enly are modis, all myry are ralbe, all capcal are ralman, all nelhap are minvel, some grandmis are not carow, all exlands are napart, all porno are enly, all porno are torspro, all selfba are varec, all ralman are bodits, all vinet are porno, all deself are orvid, all torspro are exlands, all ralbe are grandmis, some imil are not carex, all torspro are deself, all capcal are carex, all togen are cowrit, all measket are raltract, some enly are not deself",
+        "answer": "all landlo are carow, no imil are cowrit, all raltract are landlo, all carow are togen, all vinet are porno, all deself are orvid, all capcal are ralman, all nelhap are measket, all orvid are capcal, all ralman are bodits, some carex are nelhap, all torspro are deself, all carex are tempres, all porno are torspro, all bodits are imil, all togen are cowrit, all measket are raltract",
+        "kb_id": "te_L_ds_198"
+      },
+      "some monlu are not etprac": {
+        "prediction": "all gilu are itger, all gilu are mentver, all mentver are mainmo, all airish are monlu, all tovis are bletor, all bletor are comu, some rica are not mentver, all ciale are airish, all rica are conlong, all ningtain are naltel, all huntrep are finpi, all ningtain are ereddle, all sihap are rica, all mainmo are hapter, all comu are ciale, some finpi are not etprac, all acter are gilu, some sonsture are sihap, some ningtain are not rica, all ereddle are acter, all sihap are ningtain, all huntrep are sonsture, no finpi are itger, all hapwon are huntrep, all etprac are hapwon",
+        "answer": "all piner are tovis, all comu are ciale, all hapwon are huntrep, all ciale are airish, all acter are gilu, some sonsture are sihap, all gilu are itger, all ereddle are acter, all huntrep are finpi, all sonsture are piner, all sihap are ningtain, all etprac are hapwon, all tovis are bletor, all airish are monlu, no finpi are itger, all bletor are comu, all ningtain are ereddle",
+        "kb_id": "te_L_ds_200"
+      }
+    },
+    "16": {
+      "some leclin are not heavla": {
+        "prediction": "some traway are torcy, all lanet are discal, all fulper are gotle, all sentty are leclin, all agday are lentoc, all vartions are encecon, no entty are heavla, all discal are entta, all lentoc are sentty, all encecon are fulper, all comven are agday, all entta are agried, all obsun are tucen, all gotle are lanet, all traway are obsun, all tucen are comven, all torcy are vartions, all agried are entty",
+        "answer": "some traway are torcy, all lanet are discal, all fulper are gotle, all sentty are leclin, no entty are heavla, all vartions are encecon, all discal are entta, all encecon are fulper, all comven are agday, all milsion are sentty, all entta are agried, all obsun are tucen, all agday are milsion, all gotle are lanet, all traway are obsun, all tucen are comven, all torcy are vartions, all agried are entty",
+        "kb_id": "te_L_ds_76"
+      }
+    },
+    "18": {
+      "some leclin are not isit": {
+        "prediction": "all sentty are leclin, all disland are heavla, all discal are entta, some traway are torcy, all fulper are gotle, all isit are disland, all lentoc are sentty, all comven are agday, all entta are agried, all traway are obsun, all tucen are comven, all lanet are discal, all encecon are fulper, all torcy are vartions, no entty are heavla, all agday are lentoc, all vartions are encecon, all obsun are tucen, all gotle are lanet, all agried are entty",
+        "answer": "all sentty are leclin, all disland are heavla, all discal are entta, some traway are torcy, all fulper are gotle, all isit are disland, all comven are agday, all entta are agried, all traway are obsun, all tucen are comven, all lanet are discal, all encecon are fulper, all milsion are sentty, all agday are milsion, all torcy are vartions, no entty are heavla, all vartions are encecon, all obsun are tucen, all gotle are lanet, all agried are entty",
+        "kb_id": "te_L_ds_76"
+      }
+    }
+  },
+  "7": {
+    "9": {
+      "some paread are erster": {
+        "prediction": "all efsent are myvi, all ocgrand are saam, all tornew are erster, all norepart are tersion, some tiesmis are ocgrand, all siage are paread, all unon are efsent, all myvi are citgo, all tiesmis are cusward, all turesgo are unon, all tersion are tornew, all saam are tainsat, all citgo are siage, all tainsat are turesgo, all cusward are norepart",
+        "answer": "all ocgrand are rabat, all tornew are erster, all norepart are tersion, some tiesmis are ocgrand, all siage are paread, all rabat are senttin, all tiesmis are cusward, all senttin are siage, all tersion are tornew, all cusward are norepart",
+        "kb_id": "te_L_ds_187"
+      },
+      "some veltain are etit": {
+        "prediction": "all sisdis are danar, all menlet are veltain, some sisdis are tractten, all tendread are menlet, all ouschar are tendread, all myvi are etit, all tractten are ouschar, all goor are myvi, all danar are goor",
+        "answer": "all sisdis are danar, all menlet are veltain, some sisdis are tractten, all tendread are menlet, all ouschar are tendread, all tractten are ouschar, all goor are myvi, all semul are etit, all myvi are semul, all danar are goor",
+        "kb_id": "te_L_ds_159"
+      }
+    },
+    "10": {
+      "some encecon are evuer": {
+        "prediction": "all erster are encecon, all efsent are myvi, all ocgrand are saam, all tornew are erster, all norepart are tersion, some tiesmis are ocgrand, all unon are efsent, all myvi are citgo, all tiesmis are cusward, all turesgo are unon, all cusward are norepart, all saam are tainsat, all citgo are siage, all tainsat are turesgo, all tersion are tornew, all siage are evuer",
+        "answer": "all erster are encecon, all ocgrand are rabat, all tornew are erster, all norepart are tersion, some tiesmis are ocgrand, all rabat are senttin, all tiesmis are cusward, all senttin are siage, all cusward are norepart, all tersion are tornew, all siage are evuer",
+        "kb_id": "te_L_ds_187"
+      }
+    },
+    "12": {
+      "some cymain are cuered": {
+        "prediction": "all nylands are portmen, all portmen are cuered, all playtend are riedcus, all sonla are nylands, some playtend are pressple, all setvar are sonla, all etin are ungo, all pressple are setvar, all riedcus are ousact, all tendhar are etin, all ousact are tendhar, all ungo are cymain",
+        "answer": "all playtend are riedcus, some playtend are pressple, all setvar are sonla, all etin are ungo, all pressple are setvar, all colfac are cuered, all riedcus are ousact, all tendhar are etin, all ousact are tendhar, all ungo are cymain, all sonla are tenwhere, all tenwhere are onecal, all onecal are colfac",
+        "kb_id": "te_L_ds_15"
+      }
+    },
+    "13": {
+      "some encecon are citgo": {
+        "prediction": "all erster are encecon, all ocgrand are rabat, all tornew are erster, all norepart are tersion, some tiesmis are ocgrand, all myvi are citgo, all rabat are senttin, all tiesmis are cusward, all senttin are siage, all cusward are norepart, all tersion are tornew, all evuer are myvi, all siage are evuer",
+        "answer": "all erster are encecon, all efsent are myvi, all ocgrand are saam, all tornew are erster, all norepart are tersion, some tiesmis are ocgrand, all unon are efsent, all myvi are citgo, all tiesmis are cusward, all turesgo are unon, all tersion are tornew, all saam are tainsat, all tainsat are turesgo, all cusward are norepart",
+        "kb_id": "te_L_ds_187"
+      }
+    }
+  }
+}

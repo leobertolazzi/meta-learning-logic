@@ -1,0 +1,1219 @@
+{
+  "1": {
+    "0": {
+      "some letchure are not liggle": {
+        "prediction": "some letture are not liggle",
+        "answer": "some letchure are not liggle",
+        "kb_id": "te_L_ds_188"
+      }
+    },
+    "1": {
+      "some sountains are not lairlet": {
+        "prediction": "all sazines are gliqy, all gliqy are sountains, some wiolits are not lairlet, all wiolits are sazines",
+        "answer": "some wiolits are not lairlet, all wiolits are sountains",
+        "kb_id": "te_L_ds_15"
+      },
+      "some thridhood are not straver": {
+        "prediction": "all weber are tordet, all thridhood are coyee, all metbe are escence, all tucture are tordet, all straver are metbe, all tordet are weber, all coyee are tucture, all escence are jovel",
+        "answer": "some thridhood are not fotet, all straver are fotet",
+        "kb_id": "te_L_ds_169"
+      },
+      "some loaper are not vonder": {
+        "prediction": "all ang are pig, all laffrer are oofly, all grergey are laffrer, all pigangue are pig, all pig are ang, all grergey are pigangue, all oofly are loaper",
+        "answer": "some shillards are not vonder, all shillards are loaper",
+        "kb_id": "te_L_ds_141"
+      }
+    },
+    "2": {
+      "some unmext are not wandop": {
+        "prediction": "all revoves are monner, all gartide are unmext, all enfip are vibrey, all wandop are ganer, all monner are ganer, all gartide are deleb, all juisous are grarter, all ganer are revoves, all vibrey are dangely, all dangely are naphe, all naphe are juisous, all deleb are enfip",
+        "answer": "all wandop are ganer, all ganer are revoves, some unmext are not revoves",
+        "kb_id": "te_L_ds_70"
+      },
+      "some fidric are not eldfer": {
+        "prediction": "all flicket are prudened, all puker are fidric, all puker are flicket, all torry are puker, all eldfer are torry, all prudened are puker, some fidric are not sturtures",
+        "answer": "all feasen are sturtures, some fidric are not sturtures, all eldfer are feasen",
+        "kb_id": "te_L_ds_137"
+      },
+      "some injock are not fropet": {
+        "prediction": "all fropet are wiolits, all wiolits are sazines, some injock are not sazines, all gliqy are sountains, all sazines are gliqy",
+        "answer": "some injock are not sountains, all fropet are wiolits, all wiolits are sountains",
+        "kb_id": "te_L_ds_15"
+      }
+    },
+    "3": {
+      "some ughell are not unmength": {
+        "prediction": "all letture are jeery, some ughell are not forsurd, all unmength are letture, all jeery are forsurd",
+        "answer": "all letchure are jeery, all jeery are forsurd, some ughell are not forsurd, all unmength are letchure",
+        "kb_id": "te_L_ds_28"
+      },
+      "some arronths are not wireer": {
+        "prediction": "all giroirs are founter, all viffic are windall, all outbeat are crussel, all wireer are kethfone, all kethfone are wingeer, all founter are windall, all wingeer are outbeat, all outdoke are pangwore, all injand are firbe, all firbe are giroirs, all windall are tostler, all seaow are outdoke, all tostler are viffic, all jergent are injand, all pangwore are jergent",
+        "answer": "all wingeer are dodgor, some arronths are not dodgor, all wireer are kethfone, all kethfone are wingeer",
+        "kb_id": "te_L_ds_186"
+      },
+      "some tauder are not vopel": {
+        "prediction": "no banfain are outpeer, all tweecaps are outpeer, all arrance are tweecaps, all tauder are arrance, all bindet are vopel, all nalmous are bindet, all vopel are nalmous",
+        "answer": "all nalmous are bindet, all lyber are tauder, all vopel are nalmous, some lyber are not bindet",
+        "kb_id": "te_L_ds_134"
+      },
+      "some outsins are not wiler": {
+        "prediction": "all usdard are dessoin, all dessoin are kegfone, all wiler are blunbe, all usdard are outsins, no blunbe are kegfone",
+        "answer": "some asho are not intig, all asho are usdard, all usdard are outsins, all wiler are intig",
+        "kb_id": "te_L_ds_60"
+      }
+    },
+    "4": {
+      "some petter are not unmength": {
+        "prediction": "all letture are jeery, all unmength are letture, all jeery are forsurd, some ughell are not forsurd, all ughell are petter",
+        "answer": "all jeery are forsurd, all letchure are jeery, all unmength are letchure, some ughell are not forsurd, all ughell are petter",
+        "kb_id": "te_L_ds_28"
+      },
+      "some resout are not torry": {
+        "prediction": "all flicket are prudened, all orlea are sodger, all minturd are wovrer, all puncoul are seadal, all wieer are minturd, all inlant are puncoul, all seadal are orlea, all sturtude are pidlic, all sodger are wovrer, all wovrer are wieer, all puker are flicket, all prudened are torry, all torry are puker, all pidlic are seadal, all seadal are inlant, all torry are puk",
+        "answer": "all phompie are arpher, all tupar are resout, all torry are puker, some phompie are not puker, all arpher are tupar",
+        "kb_id": "te_L_ds_137"
+      },
+      "some phipsack are not ada": {
+        "prediction": "no aspaced are phipsack, all janter are codgee, all ada are nautes, all crigsads are kethmone, all codgee are crigsads, all nautes are janter, all esser are phipsack, all kethmone are esser",
+        "answer": "some esser are not zoosous, all nautes are wiolism, all ada are nautes, all wiolism are zoosous, all esser are phipsack",
+        "kb_id": "te_L_ds_65"
+      },
+      "some pisates are not crotey": {
+        "prediction": "all inlates are prudened, all prudened are draber, some pisates are not draber, all crotey are inlates",
+        "answer": "all inlates are nirsty, all prudened are draber, all crotey are inlates, all nirsty are prudened, some pisates are not draber",
+        "kb_id": "te_L_ds_181"
+      },
+      "some tordet are not straver": {
+        "prediction": "all thridhood are coyee, all metbe are escence, all tucture are tordet, all straver are metbe, no kethutes are jovel, all coyee are tucture, all escence are jovel",
+        "answer": "some thridhood are not fotet, all thridhood are coyee, all straver are fotet, all tucture are tordet, all coyee are tucture",
+        "kb_id": "te_L_ds_169"
+      },
+      "some osiks are not throllow": {
+        "prediction": "some osiks are not rutal, all unmepts are inbule, all inbule are sether, all throllow are unmepts",
+        "answer": "all unmepts are inbule, all throllow are unmepts, all inbule are sether, all sether are rutal, some osiks are not rutal",
+        "kb_id": "te_L_ds_148"
+      },
+      "some lanksher are not parrans": {
+        "prediction": "all fossans are lanksher, all fombil are parrans, all fossans are fombil, all parrans are sedgore, all tragged are bottin, all bottin are crelture, all renean are tragged, no sedgore are crelture",
+        "answer": "all inferns are viken, some lanksher are not unpops, all parrans are inferns, all hartle are unpops, all viken are hartle",
+        "kb_id": "te_L_ds_192"
+      },
+      "some vabueaves are not fladet": {
+        "prediction": "all fladet are gondler, all gondler are beartle",
+        "answer": "all beartle are arher, all arher are chinish, all fladet are gondler, all gondler are beartle, some vabueaves are not chinish",
+        "kb_id": "te_L_ds_172"
+      },
+      "some itep are not larfou": {
+        "prediction": "all sether are dentins, all dentins are neap, all dentins are neaply, all neaply are sether, all ipan are dentins, all itep are estists, all dentins are gacates, all wovrer are dentins, all gacates are wovrer, all larfou are naleen, all naleen are ipan",
+        "answer": "all dentins are neaply, some itep are not neaply, all ipan are dentins, all larfou are naleen, all naleen are ipan",
+        "kb_id": "te_L_ds_120"
+      },
+      "some monjent are not butse": {
+        "prediction": "all asce are infom, no banslas are vabueaned, all asce are monjent, all infom are butse, all butse are kagawed, all kagawed are banslas",
+        "answer": "all kagawed are immand, all immand are reneet, some monjent are not necklorts, all butse are kagawed, all reneet are necklorts",
+        "kb_id": "te_L_ds_89"
+      }
+    },
+    "5": {
+      "some oofly are not pagle": {
+        "prediction": "all ang are pig, all grergey are laffrer, all pagle are vonder, all pigangue are pig, all pig are ang, all grergey are pigangue, all laffrer are oofly",
+        "answer": "all grergey are laffrer, all loaper are grergey, all pagle are vonder, some shillards are not vonder, all shillards are loaper, all laffrer are oofly",
+        "kb_id": "te_L_ds_141"
+      },
+      "some canblet are not galscay": {
+        "prediction": "all queamly are resoot, all resoot are canblet, all gussen are buggle, some subor are not crigsasts, all buggle are crigsasts, all subor are queamly, all galscay are gussen",
+        "answer": "all queamly are resoot, all galscay are buggle, all resoot are canblet, some subor are not crigsasts, all buggle are crigsasts, all subor are queamly",
+        "kb_id": "te_L_ds_58"
+      },
+      "some resite are not mindal": {
+        "prediction": "all justle are resite, all gartines are sugor, all incelled are smammer, all smammer are pumder, all soster are fresic, no sugor are messer, all pasares are wooshon, all pumder are ethul, all fresic are sugor, all jivel are steadly, all mindal are pasares, all resite are messer, all wooshon are incelled, all soster are jivel, all ethul are justle, all steadly are gartines",
+        "answer": "all justle are resite, all smammer are pumder, all mindal are urktul, all pumder are ethul, some smammer are not urktul, all ethul are justle",
+        "kb_id": "te_L_ds_100"
+      },
+      "some quister are not tichlet": {
+        "prediction": "all tichlet are refints, all crisil are refints, all tonthly are crisil, all refints are tonthly, all tonthly are quister",
+        "answer": "all refints are unrards, all larbet are escecked, all tichlet are refints, all unrards are rempens, all rempens are larbet, some quister are not escecked",
+        "kb_id": "te_L_ds_48"
+      },
+      "some neckloke are not juddle": {
+        "prediction": "all neckloke are glicker, all glicker are neckloke, all asmy are uckbet, some asmy are not varings, all juddle are varings, all uckbet are asmy",
+        "answer": "all lolal are neckloke, all arpits are lowmat, all kepmone are arpits, some kepmone are not argets, all juddle are argets, all lowmat are lolal",
+        "kb_id": "te_L_ds_114"
+      },
+      "some samset are not urling": {
+        "prediction": "some rutet are not pleanture, all rutet are samset, all daidly are pabross, all barblo are daidly, all digar are barblo, all urling are digar, all pabross are enyose, all enyose are shuneer, all shuneer are pleanture",
+        "answer": "all urling are tragged, all tragged are hartle, all rutet are samset, all hartle are kibdore, all kibdore are pleanture, some rutet are not pleanture",
+        "kb_id": "te_L_ds_162"
+      },
+      "some tucture are not nicknills": {
+        "prediction": "all subor are straver, all copight are rucy, all hydrone are kethutes, all nicknills are subor, all aphiss are plit, all plit are foucher, all metbe are escence, all scockly are rucy, all rucy are aphiss, all foucher are copight, all straver are metbe, all hedband are copight, all schooping are scockly, all rucy are schooping, all graret are hydrone, all escence are jovel, all hedband are graret",
+        "answer": "some thridhood are not fotet, all thridhood are coyee, all subor are straver, all nicknills are subor, all straver are fotet, all coyee are tucture",
+        "kb_id": "te_L_ds_169"
+      },
+      "some mewret are not caccos": {
+        "prediction": "all gacack are mewret, all spryming are paiwom, all manfa are gacack, some looglet are not paiwom, all ordoa are acsey, all acsey are spryming, all looglet are manfa, all caccos are ordoa",
+        "answer": "all spryming are paiwom, all looglet are mewret, some looglet are not paiwom, all ordoa are acsey, all acsey are spryming, all caccos are ordoa",
+        "kb_id": "te_L_ds_155"
+      },
+      "some barblet are not vosel": {
+        "prediction": "all barblet are limbnuid, no limbnuid are phombee, all valief are vosel, all sandpor are valief, all rangler are sandpor, all vosel are rangler",
+        "answer": "all rangler are forsuck, some barblet are not mescret, all brinish are mescret, all leder are brinish, all vosel are rangler, all forsuck are leder",
+        "kb_id": "te_L_ds_116"
+      },
+      "some trotad are not oofly": {
+        "prediction": "all wioline are flatet, all flatet are mailbert, no goafy are outgrat, all enjane are wioline, all oofly are awflent, all tarlon are trotad, all awflent are tarlon, all oofly are enjane, all flatet are goafy",
+        "answer": "all wioline are flatet, all flatet are mailbert, all enjane are wioline, some tarlon are not mailbert, all tarlon are trotad, all oofly are enjane",
+        "kb_id": "te_L_ds_131"
+      }
+    },
+    "6": {
+      "some insow are not japly": {
+        "prediction": "all gufen are insow, all to are to, all japly are toily, all toily are to",
+        "answer": "some gufen are not immates, all japly are grersent, all gufen are insow, all grersent are astruss, all astruss are matrocts, all matrocts are pasance, all pasance are immates",
+        "kb_id": "te_L_ds_16"
+      },
+      "some sadet are not randaned": {
+        "prediction": "all toyer are sendeur, all jostills are brimble, all randaned are toyer, all brimble are sadet, some sadet are not swithen, all sendeur are jostills",
+        "answer": "all toyer are sendeur, all rackings are pipid, all pipid are swithen, all randaned are toyer, all jostills are rackings, some sadet are not swithen, all sendeur are jostills",
+        "kb_id": "te_L_ds_29"
+      },
+      "some quirde are not pathe": {
+        "prediction": "some alstord are not dentit, all burger are dentit, all gutchbar are quirde, all alstord are bowper, all pathe are burger, all bowper are gutchbar",
+        "answer": "all pathe are alstord, all dentit are uller, all avaths are gutchbar, all burger are dentit, all gutchbar are quirde, some burger are not alstord, all uller are avaths",
+        "kb_id": "te_L_ds_185"
+      },
+      "some vuther are not pathe": {
+        "prediction": "all stumened are matrove, all ganmen are ganlines, all ganlines are stumened, some harge are not matrove, all harge are vuther, all pathe are ganmen",
+        "answer": "all stumened are matrove, all nickdalled are stumened, all cralual are reboon, all pathe are cralual, some harge are not matrove, all harge are vuther, all reboon are nickdalled",
+        "kb_id": "te_L_ds_74"
+      },
+      "some farlan are not texon": {
+        "prediction": "all rirbe are torebit, all weber are rirbe, all liseduid are holens, all alras are farlan, all holens are sturtup, some alras are not inwant, all texon are liseduid, all sturtup are weber",
+        "answer": "all glaseur are inwant, all holens are ginder, all liseduid are holens, all alras are farlan, all ginder are glaseur, some alras are not inwant, all texon are liseduid",
+        "kb_id": "te_L_ds_198"
+      },
+      "some petter are not enfip": {
+        "prediction": "all letture are jeery, all unmength are letture, all jeery are forsurd, all unfern are unmength, all enfip are unfern, some ughell are not forsurd, all ughell are petter",
+        "answer": "all jeery are forsurd, all letchure are jeery, all unfern are unmength, all unmength are letchure, all enfip are unfern, some ughell are not forsurd, all ughell are petter",
+        "kb_id": "te_L_ds_28"
+      },
+      "some weber are not subor": {
+        "prediction": "some thridhood are not fotet, all thridhood are coyee, all subor are straver, all metbe are escence, all metbe are glamoor, all tucture are tordet, all glamoor are thridhood, all straver are metbe, all tordet are weber, all coyee are tucture, all escence are jovel",
+        "answer": "some thridhood are not fotet, all thridhood are coyee, all subor are straver, all straver are fotet, all tucture are tordet, all tordet are weber, all coyee are tucture",
+        "kb_id": "te_L_ds_169"
+      },
+      "some scrouther are not nawboles": {
+        "prediction": "all coutter are migray, all sautcher are estists, all itell are scrouther, all gidding are dullor, all migray are sautcher, some coutter are not dullor, all nawboles are gidding, all estists are itell",
+        "answer": "all sovet are sautcher, all itell are scrouther, all sautcher are coutter, all gidding are dullor, some itell are not coutter, all nawboles are gidding, all dullor are sovet",
+        "kb_id": "te_L_ds_154"
+      },
+      "some zenak are not necklosed": {
+        "prediction": "all necklosed are crigsares, some plottle are not crigsares, all plottle are crigsares",
+        "answer": "some gonpy are not bettan, all gonpy are masbut, all gastwate are bettan, all masbut are zenak, all crigsares are pipson, all necklosed are crigsares, all pipson are gastwate",
+        "kb_id": "te_L_ds_194"
+      },
+      "some letchure are not teesot": {
+        "prediction": "all kneting are refirds, all teesot are kneting, some letture are not liggle, all refirds are brongage, all fendis are prupent, all brongage are fendis, all prupent are liggle",
+        "answer": "all kneting are refirds, all teesot are kneting, some letchure are not liggle, all refirds are brongage, all fendis are prupent, all brongage are fendis, all prupent are liggle",
+        "kb_id": "te_L_ds_188"
+      },
+      "some tarlon are not deapon": {
+        "prediction": "all deapon are gonkler, all flatet are mailbert, no goafy are outgrat, all oofly are awflent, all awflent are tarlon, all gonkler are oofly, all flatet are goafy",
+        "answer": "all deapon are gonkler, all wioline are flatet, all flatet are mailbert, all enjane are wioline, some tarlon are not mailbert, all oofly are enjane, all gonkler are oofly",
+        "kb_id": "te_L_ds_131"
+      },
+      "some togger are not feater": {
+        "prediction": "all feater are sunter, all paiwore are sheat, all wisdant are mocant, all sheat are togger, all parout are feater, all sunter are wisdant, no inlom are mocant, all paiwore are parout",
+        "answer": "all feater are sunter, all drander are filning, all pengyl are drander, all calse are kigon, all kigon are pengyl, some togger are not filning, all sunter are calse",
+        "kb_id": "te_L_ds_68"
+      }
+    },
+    "7": {
+      "some injant are not pathe": {
+        "prediction": "some alstord are not dentit, all burger are dentit, all gutchbar are quirde, all alstord are bowper, all quirde are injant, all pathe are burger, all bowper are gutchbar",
+        "answer": "all pathe are alstord, all dentit are uller, all avaths are gutchbar, all burger are dentit, all gutchbar are quirde, all quirde are injant, some burger are not alstord, all uller are avaths",
+        "kb_id": "te_L_ds_185"
+      },
+      "some timic are not tenines": {
+        "prediction": "all sabbot are ortfore, some diror are not neatles, all crudy are sabbot, all tenines are crudy, all nevens are neatles, all fossans are nevens, all ortfore are fossans",
+        "answer": "all sabbot are ortfore, some diror are not neatles, all crudy are sabbot, all tenines are crudy, all diror are timic, all nevens are neatles, all fossans are nevens, all ortfore are fossans",
+        "kb_id": "te_L_ds_45"
+      },
+      "some vabueaned are not pannal": {
+        "prediction": "all falget are custs, all custs are elwry, all pannal are abor, all stuments are ilews, all abor are stuments, all machay are elwry, all elwry are sickger, all sickger are machay",
+        "answer": "all abor are vaffists, all falget are custs, all custs are elwry, all pannal are abor, all vaffists are brijant, some vabueaned are not sickger, all brijant are falget, all elwry are sickger",
+        "kb_id": "te_L_ds_154"
+      },
+      "some lomber are not samid": {
+        "prediction": "all acecked are palens, all crigsade are veffic, all veffic are clesic, all samid are crigsade, all mistills are acecked, all palens are outcack, some lomber are not outcack, all glabble are moddle, all safrer are mistills, all moddle are avayed, all clesic are glabble, all avayed are safrer",
+        "answer": "all draret are totit, all crigsade are buraw, all samid are crigsade, all houen are outcack, all buraw are ortfore, all totit are houen, some lomber are not outcack, all ortfore are draret",
+        "kb_id": "te_L_ds_142"
+      },
+      "some leacutes are not uarder": {
+        "prediction": "some leacutes are not",
+        "answer": "all tibure are leacutes, all splombee are buspe, all uarder are banclas, all buspe are lipse, all lipse are tibure, some forgark are not quory, all banclas are quory, all forgark are splombee",
+        "kb_id": "te_L_ds_14"
+      },
+      "some elperk are not hanchant": {
+        "prediction": "all gacard are ileg, all gudgen are niquy, all rallen are outdove, all imin are rallen, no unpooks are tidrot, all gasting are elperk, all niquy are imin, all hanchant are tidrot, all gacard are elperk, all ileg are gudgen, all outdove are gasting",
+        "answer": "all hanchant are gacard, some elperk are not outdove, all gacard are ileg, all gudgen are niquy, all rallen are outdove, all imin are rallen, all niquy are imin, all ileg are gudgen",
+        "kb_id": "te_L_ds_125"
+      },
+      "some trotad are not deapon": {
+        "prediction": "all deapon are gonkler, all flatet are mailbert, no goafy are outgrat, all oofly are awflent, all tarlon are trotad, all awflent are tarlon, all gonkler are oofly, all flatet are goafy",
+        "answer": "all deapon are gonkler, all wioline are flatet, all flatet are mailbert, all enjane are wioline, some tarlon are not mailbert, all tarlon are trotad, all oofly are enjane, all gonkler are oofly",
+        "kb_id": "te_L_ds_131"
+      },
+      "some notac are not pigarchs": {
+        "prediction": "all saightner are featter, some notac are not taver, all pigarchs are saightner, all swinet are strotten, all strotten are taver, all featter are swinet",
+        "answer": "all jampful are pagril, all saightner are featter, some notac are not taver, all pagril are taver, all pigarchs are saightner, all swinet are strotten, all strotten are jampful, all featter are swinet",
+        "kb_id": "te_L_ds_17"
+      },
+      "some weber are not nicknills": {
+        "prediction": "all subor are straver, all copight are rucy, all hydrone are kethutes, all nicknills are subor, all aphiss are plit, all plit are foucher, all metbe are escence, all scockly are rucy, all rucy are aphiss, all foucher are copight, all straver are metbe, all hedband are copight, all schooping are scockly, all rucy are schooping, all graret are hydrone, all escence are jovel, all hedband are graret",
+        "answer": "some thridhood are not fotet, all thridhood are coyee, all subor are straver, all nicknills are subor, all straver are fotet, all tucture are tordet, all tordet are weber, all coyee are tucture",
+        "kb_id": "te_L_ds_169"
+      },
+      "some esner are not paner": {
+        "prediction": "all sendeer are dirrur, all dirrur are rescense, all rescense are f, all bowper are sendeer, all paner are bowper",
+        "answer": "all sendeer are dirrur, all dirrur are rescense, some esner are not monflent, all bowper are sendeer, all brallent are monflent, all paner are bowper, all rescense are futter, all futter are brallent",
+        "kb_id": "te_L_ds_43"
+      },
+      "some mewret are not tamper": {
+        "prediction": "all deage are looglet, all manfa are gacack, all looglet are mewret, some looglet are not paiwom, all dessok are caccos, all tamper are dessok, all ordoa are acsey, all acsey are spryming, all spryming are ucker, all looglet are manfa, all gacack are deage, all caccos are ordoa",
+        "answer": "all spryming are paiwom, all looglet are mewret, some looglet are not paiwom, all dessok are caccos, all tamper are dessok, all ordoa are acsey, all acsey are spryming, all caccos are ordoa",
+        "kb_id": "te_L_ds_155"
+      },
+      "some glicker are not nawboles": {
+        "prediction": "all coutter are migray, all sautcher are estists, all itell are scrouther, all gidding are dullor, all migray are sautcher, some coutter are not dullor, all nawboles are gidding, all scrouther are glicker, all estists are itell",
+        "answer": "all sovet are sautcher, all itell are scrouther, all sautcher are coutter, all gidding are dullor, some itell are not coutter, all nawboles are gidding, all dullor are sovet, all scrouther are glicker",
+        "kb_id": "te_L_ds_154"
+      },
+      "some pethce are not awblor": {
+        "prediction": "all jendar are cunnet, all sanges are pethce, all arrance are clemic, all cunnet are anstrar, all warblen are arrance, all elthy are drander, no pethce are ecto, all drander are frocker, all inshart are warblen, all awblor are jendar, all frocker are sanges, all clemic are ecto, all inshart are elthy, all anstrar are inshart",
+        "answer": "all jendar are cunnet, all cunnet are anstrar, all awblor are jendar, all drucker are dotplin, all inshart are elthy, all elthy are drucker, some pethce are not dotplin, all anstrar are inshart",
+        "kb_id": "te_L_ds_32"
+      }
+    },
+    "8": {
+      "some hagger are not cortel": {
+        "prediction": "all arranes are gastray, all cortel are puctor",
+        "answer": "all cortel are puctor, all dooseful are sectote, all steadly are hagger, all gastray are dooseful, all jivel are steadly, all sectote are soster, some arranes are not puctor, all soster are jivel, all arranes are gastray",
+        "kb_id": "te_L_ds_100"
+      },
+      "some netching are not wisser": {
+        "prediction": "all tswarler are inlock, all inlock are sligon, all foppen are tswarler, all mooson are masboat, all yeacap are fightric, all wisser are mooson, all sligon are foppen, all notax are inlock, all fightric are netching, all masboat are yeacap",
+        "answer": "all inlock are sligon, all foppen are tswarler, all yeacap are notax, some netching are not tswarler, all mooson are masboat, all wisser are mooson, all sligon are foppen, all notax are inlock, all masboat are yeacap",
+        "kb_id": "te_L_ds_27"
+      },
+      "some insodes are not pathe": {
+        "prediction": "all ganmen are ganlines, all pathe are ganmen, no quandy are citchgus, all insodes are quandy",
+        "answer": "all stumened are matrove, all vuther are lankner, all nickdalled are stumened, all cralual are reboon, all pathe are cralual, all lankner are insodes, some harge are not matrove, all harge are vuther, all reboon are nickdalled",
+        "kb_id": "te_L_ds_74"
+      },
+      "some ulpter are not stover": {
+        "prediction": "all mascul are anchits, all monkise are mascul, all sturtums are monkise, all stover are sturtums, all sturtums are ulpter",
+        "answer": "all mascul are saselon, all intrarm are elfy, all elfy are anglens, some ulpter are not funnets, all monkise are mascul, all sturtums are monkise, all anglens are funnets, all saselon are intrarm, all stover are sturtums",
+        "kb_id": "te_L_ds_15"
+      },
+      "some gacack are not tamper": {
+        "prediction": "all deage are looglet, all manfa are gacack, all deage are riddon, all riddon are deage, all dessok are caccos, all tamper are dessok, no ucker are larpan, all ordoa are acsey, all acsey are spryming, all spryming are ucker, all looglet are manfa, all caccos are ordoa",
+        "answer": "all spryming are paiwom, all manfa are gacack, some looglet are not paiwom, all dessok are caccos, all tamper are dessok, all ordoa are acsey, all acsey are spryming, all looglet are manfa, all caccos are ordoa",
+        "kb_id": "te_L_ds_155"
+      },
+      "some tockbit are not estics": {
+        "prediction": "all estics are swoonly, all swoonly are fotets, all fotets are oadly, all oadly are je",
+        "answer": "all oadly are jevel, all estics are swoonly, all zenald are onfle, all pressal are tockbit, all swoonly are fotets, all jevel are arbel, some pressal are not onfle, all arbel are zenald, all fotets are oadly",
+        "kb_id": "te_L_ds_45"
+      },
+      "some jousous are not wisper": {
+        "prediction": "all wisper are cralual, all monzent are leale, all ascha are aublar, all bundy are monzent, all lincer are jousous, all aublar are wincher, all wincher are puctor, all puctor are wincher, all cralual are bundy, all ascha are lincer",
+        "answer": "all wisper are cralual, all ascha are aublar, all wiolits are ascha, all bundy are wiolits, all wincher are puctor, all lincer are jousous, all aublar are wincher, some lincer are not puctor, all cralual are bundy",
+        "kb_id": "te_L_ds_163"
+      },
+      "some togger are not paiwore": {
+        "prediction": "all panple are isker, all parout are feater, all machant are banthras, all paiwore are parout, all panple are taber, all paiwore are sheat, all banthras are simny, all simny are ormea, all deant are machant, all edler are deant, all sheat are togger, all feater are sunter, all wisdant are mocant, all meantail are inlom, all wheanly are isker, all taber are edler, all isker are broilage, all ormea are hyshard, all sunter are wisdant, all hyshard are meantail, all broilage are wheanly",
+        "answer": "all feater are sunter, all drander are filning, all pengyl are drander, all calse are kigon, all kigon are pengyl, all parout are feater, some togger are not filning, all sunter are calse, all paiwore are parout",
+        "kb_id": "te_L_ds_68"
+      },
+      "some trotad are not hengler": {
+        "prediction": "all deapon are gonkler, all flatet are mailbert, all hengler are deapon, no goafy are outgrat, all oofly are awflent, all tarlon are trotad, all awflent are tarlon, all gonkler are oofly, all flatet are goafy",
+        "answer": "all deapon are gonkler, all wioline are flatet, all flatet are mailbert, all hengler are deapon, all enjane are wioline, some tarlon are not mailbert, all tarlon are trotad, all oofly are enjane, all gonkler are oofly",
+        "kb_id": "te_L_ds_131"
+      },
+      "some backbe are not gracer": {
+        "prediction": "all jevel are kneeming, all kneeming are coldee, some teesot are not zigspog, all gracer are uletul, all uletul are dilking, all coldee are zigspog, all dilking are jevel, all teesot are backbe",
+        "answer": "all jevel are kneeming, all kneeming are coldee, some teesot are not zigspog, all teesot are cralusc, all gracer are uletul, all uletul are dilking, all coldee are zigspog, all dilking are jevel, all cralusc are backbe",
+        "kb_id": "te_L_ds_57"
+      }
+    },
+    "9": {
+      "some anchits are not sturtums": {
+        "prediction": "all ulpter are keybup, all elfy are anglens, all keybup are elfy, all snackly are hompy, some anchits are not hompy, all funnets are snackly, all anglens are funnets, all sturtums are ulpter",
+        "answer": "all mascul are saselon, all intrarm are elfy, all elfy are anglens, all snackly are hompy, some anchits are not hompy, all monkise are mascul, all sturtums are monkise, all anglens are funnets, all saselon are intrarm, all funnets are snackly",
+        "kb_id": "te_L_ds_15"
+      },
+      "some outdox are not trisil": {
+        "prediction": "all inforts are puncoal, all puncoal are saftlon, all trisil are chirter, all saftlon are briker, all chirter are inforts",
+        "answer": "all inforts are puncoal, all wackbon are outdox, all jaster are noder, all noder are bettan, all puncoal are saftlon, all trisil are chirter, all saftlon are briker, all chirter are inforts, some wackbon are not bettan, all briker are jaster",
+        "kb_id": "te_L_ds_49"
+      },
+      "some barmer are not enfip": {
+        "prediction": "all letture are jeery, some barmer are not petter, all unmength are letture, all jeery are forsurd, all seadal are nusmecked, all forsurd are seadal, all unfern are unmength, all enfip are unfern, all nusmecked are ughell, all ughell are petter",
+        "answer": "some barmer are not petter, all seadal are nusmecked, all jeery are forsurd, all forsurd are seadal, all letchure are jeery, all unfern are unmength, all unmength are letchure, all enfip are unfern, all nusmecked are ughell, all ughell are petter",
+        "kb_id": "te_L_ds_28"
+      },
+      "some forgance are not hoader": {
+        "prediction": "all capets are fennos, all scenays are inlops, all ungter are feetter, all pazil are urling, all walkly are unowned, all feetter are lunnens, all youcap are forgance, all capets are inback, all tingler are youcap, all inlops are tingler, all inback are ungter, all unowned are walkly, all tingler are pazil, all hoader are cudy, all spavens are walkly, all urling are refind, all fennos are spavens, all cudy are scenays, all lunnens are sedal",
+        "answer": "all gliqy are tundis, all hoader are cudy, all pazil are gliqy, all nache are stylan, all cudy are scenays, all scenays are inlops, all inlops are tingler, all tundis are nache, some forgance are not stylan, all tingler are pazil",
+        "kb_id": "te_L_ds_127"
+      },
+      "some artcole are not gondly": {
+        "prediction": "all yuxer are pluttle, all lemacks are hurge, all pluttle are kingrose, all ounter are lemacks, all gondly are sessose, all auphar are skevy, all sessose are ounter, all ingerts are yuxer, all kingrose are ooper, some artcole are not ooper, all hurge are ingerts, all skevy are ingerts, all ingerts are auphar",
+        "answer": "all yuxer are pluttle, all lemacks are hurge, all pluttle are kingrose, all ounter are lemacks, all gondly are sessose, all sessose are ounter, all ingerts are yuxer, all kingrose are ooper, some artcole are not ooper, all hurge are ingerts",
+        "kb_id": "te_L_ds_22"
+      },
+      "some shreniks are not neason": {
+        "prediction": "all itey are tymper, all sarthner are itey, all vennar are emptry, all tuty are unange, all argal are vennar, all neason are uptien, all emptry are argal, all tymper are sabbil, all center are sarthner, all sabbil are banbe, all tarlon are tuty, all onkle are emptry, all onkle are tarlon, all uptien are akyss, all akyss are center",
+        "answer": "all itey are tymper, all sarthner are itey, all neason are uptien, all tymper are sabbil, all center are sarthner, all sabbil are banbe, all banbe are guffen, some shreniks are not guffen, all uptien are akyss, all akyss are center",
+        "kb_id": "te_L_ds_62"
+      },
+      "some pethce are not cemcus": {
+        "prediction": "all jendar are cunnet, all sanges are dotplin, all cunnet are anstrar, all elthy are drander, all toller are awblor, all drander are frocker, all cemcus are toller, all awblor are jendar, all frocker are sanges, all inshart are elthy, some pethce are not dotplin, all anstrar are inshart",
+        "answer": "all jendar are cunnet, all cunnet are anstrar, all toller are awblor, all cemcus are toller, all awblor are jendar, all drucker are dotplin, all inshart are elthy, all elthy are drucker, some pethce are not dotplin, all anstrar are inshart",
+        "kb_id": "te_L_ds_32"
+      },
+      "some vubure are not walyat": {
+        "prediction": "all jaster are gacates, all walyat are woter, all sulpton are jaster, all dotgrin are kneelous, all gacates are arsel, all gliley are dotgrin, all kneelous are leacuck, all leacuck are sulpton, all woter are gliley",
+        "answer": "all jaster are gacates, all walyat are woter, some vubure are not arsel, all sulpton are jaster, all dotgrin are kneelous, all gacates are arsel, all gliley are dotgrin, all kneelous are leacuck, all leacuck are sulpton, all woter are gliley",
+        "kb_id": "te_L_ds_11"
+      },
+      "some vabueaned are not fumest": {
+        "prediction": "all falget are custs, all custs are elwry, all machay are elwry, all pannal are abor, all stuments are ilews, all abor are stuments, all nandow are pannal, all fumest are nandow, all elwry are sickger, all sickger are machay",
+        "answer": "all abor are vaffists, all falget are custs, all custs are elwry, all brijant are falget, all pannal are abor, all vaffists are brijant, some vabueaned are not sickger, all nandow are pannal, all fumest are nandow, all elwry are sickger",
+        "kb_id": "te_L_ds_154"
+      },
+      "some binet are not viten": {
+        "prediction": "all coutter are migray, all itell are scrouther, all glicker are binet, all gidding are dullor, all migray are dullor, some coutter are not dullor, all viten are nawboles, all nawboles are gidding, all scrouther are glicker",
+        "answer": "all sovet are sautcher, all itell are scrouther, all sautcher are coutter, all glicker are binet, all gidding are dullor, some itell are not coutter, all viten are nawboles, all nawboles are gidding, all dullor are sovet, all scrouther are glicker",
+        "kb_id": "te_L_ds_154"
+      },
+      "some notac are not ressore": {
+        "prediction": "all saightner are featter, all ressore are insolled, some notac are not taver, all pigarchs are saightner, all swinet are strotten, all strotten are taver, all insolled are pigarchs, all featter are swinet",
+        "answer": "all jampful are pagril, all saightner are featter, all ressore are insolled, some notac are not taver, all pagril are taver, all pigarchs are saightner, all swinet are strotten, all insolled are pigarchs, all strotten are jampful, all featter are swinet",
+        "kb_id": "te_L_ds_17"
+      },
+      "some hagger are not deledes": {
+        "prediction": "all deledes are cortel, all cortel are puctor, all dooseful are sectote, all gastray are dooseful, all sectote are soster, all soster are jivel, all arranes are gastray",
+        "answer": "all deledes are cortel, all cortel are puctor, all dooseful are sectote, all steadly are hagger, all gastray are dooseful, all jivel are steadly, all sectote are soster, some arranes are not puctor, all soster are jivel, all arranes are gastray",
+        "kb_id": "te_L_ds_100"
+      },
+      "some regists are not unfern": {
+        "prediction": "all letture are jeery, some barmer are not petter, all unmength are letture, all jeery are forsurd, all seadal are nusmecked, all forsurd are seadal, all unfern are unmength, all barmer are regists, all nusmecked are ughell, all ughell are petter",
+        "answer": "some barmer are not petter, all seadal are nusmecked, all jeery are forsurd, all forsurd are seadal, all letchure are jeery, all unfern are unmength, all unmength are letchure, all barmer are regists, all nusmecked are ughell, all ughell are petter",
+        "kb_id": "te_L_ds_28"
+      },
+      "some gacands are not cudy": {
+        "prediction": "all tingler are youcap, no refind are sedal, all forgance are gacands, all cudy are scenays, all inlops are tingler, all scenays are inlops, all urling are refind, all pazil are urling, all tingler are pazil, all youcap are forgance",
+        "answer": "all gliqy are tundis, all pazil are gliqy, all forgance are gacands, all nache are stylan, all cudy are scenays, all inlops are tingler, all scenays are inlops, all tundis are nache, some forgance are not stylan, all tingler are pazil",
+        "kb_id": "te_L_ds_127"
+      }
+    }
+  },
+  "2": {
+    "3": {
+      "all flasser are pagross": {
+        "prediction": "all vasten are pagross, all thehching are vasten, all flasser are thetching",
+        "answer": "all vasten are pagross, all flasser are thetching, all thetching are vasten",
+        "kb_id": "te_L_ds_55"
+      }
+    },
+    "4": {
+      "all enfip are uptean": {
+        "prediction": "all enfip are unfern, all unmength are letture, all letture are uptean, all unfern are unmength",
+        "answer": "all letchure are uptean, all enfip are unfern, all unmength are letchure, all unfern are unmength",
+        "kb_id": "te_L_ds_28"
+      }
+    },
+    "5": {
+      "all letchure are barmer": {
+        "prediction": "all letture are jeery, all forsurd are simage, all jeery are forsurd, all simage are brisins, all brisins are barmer",
+        "answer": "all forsurd are simage, all jeery are forsurd, all letchure are jeery, all simage are brisins, all brisins are barmer",
+        "kb_id": "te_L_ds_28"
+      }
+    },
+    "6": {
+      "all letchure are regists": {
+        "prediction": "all letture are jeery, all forsurd are simage, all jeery are forsurd, all simage are brisins, all brisins are barmer, all barmer are regists",
+        "answer": "all forsurd are simage, all jeery are forsurd, all letchure are jeery, all simage are brisins, all brisins are barmer, all barmer are regists",
+        "kb_id": "te_L_ds_28"
+      }
+    },
+    "7": {
+      "all friter are immates": {
+        "prediction": "all sargener are naum, all knipsand are paziel, all hearter are croalous, all croalous are knipsand, all paziel are sargener, all naum are immates, all whoonly are hearter, all friter are whoonly",
+        "answer": "all knipsand are paziel, all paziel are pamste, all hearter are croalous, all croalous are knipsand, all pamste are immates, all whoonly are hearter, all friter are whoonly",
+        "kb_id": "te_L_ds_7"
+      }
+    },
+    "8": {
+      "all unfern are petter": {
+        "prediction": "all letture are jeery, all unmength are letture, all jeery are forsurd, all seadal are nusmecked, all forsurd are seadal, all unfern are unmength, all nusmecked are ughell, all ughell are petter",
+        "answer": "all seadal are nusmecked, all jeery are forsurd, all forsurd are seadal, all letchure are jeery, all unfern are unmength, all unmength are letchure, all nusmecked are ughell, all ughell are petter",
+        "kb_id": "te_L_ds_28"
+      },
+      "all queamble are oadbrow": {
+        "prediction": "all pumder are relossed, all reyens are clealure, all meket are oadbrow, all quarned are pumder, all relossed are meket, all queamble are reyens, all clealure are quarned",
+        "answer": "all marve are squeadly, all clealure are munior, all reyens are clealure, all munior are marve, all meket are oadbrow, all relossed are meket, all queamble are reyens, all squeadly are relossed",
+        "kb_id": "te_L_ds_57"
+      },
+      "all dopknin are fightging": {
+        "prediction": "all ulker are fightging, all sadge are aspiss, all outgrat are sadge, all meyet are ulker, all aspiss are inlack, all inlack are meyet, all dopknin are outgrat",
+        "answer": "all shaggle are aspiss, all ulker are fightging, all ownstord are shaggle, all brillays are ownstord, all meyet are ulker, all aspiss are inlack, all inlack are meyet, all dopknin are brillays",
+        "kb_id": "te_L_ds_81"
+      }
+    },
+    "9": {
+      "all stover are snackly": {
+        "prediction": "all ulpter are keybup, all elfy are anglens, all keybup are elfy, all funnets are snackly, all anglens are funnets, all stover are sturtums, all sturtums are ulpter",
+        "answer": "all mascul are saselon, all intrarm are elfy, all elfy are anglens, all monkise are mascul, all sturtums are monkise, all anglens are funnets, all saselon are intrarm, all stover are sturtums, all funnets are snackly",
+        "kb_id": "te_L_ds_15"
+      },
+      "all enfip are petter": {
+        "prediction": "all letture are jeery, all unmength are letture, all jeery are forsurd, all seadal are nusmecked, all forsurd are seadal, all unfern are unmength, all enfip are unfern, all nusmecked are ughell, all ughell are petter",
+        "answer": "all seadal are nusmecked, all jeery are forsurd, all forsurd are seadal, all letchure are jeery, all unfern are unmength, all unmength are letchure, all enfip are unfern, all nusmecked are ughell, all ughell are petter",
+        "kb_id": "te_L_ds_28"
+      }
+    },
+    "10": {
+      "all stover are hompy": {
+        "prediction": "all ulpter are keybup, all elfy are anglens, all keybup are elfy, all snackly are hompy, all funnets are snackly, all anglens are funnets, all stover are sturtums, all sturtums are ulpter",
+        "answer": "all mascul are saselon, all intrarm are elfy, all elfy are anglens, all snackly are hompy, all monkise are mascul, all sturtums are monkise, all anglens are funnets, all saselon are intrarm, all stover are sturtums, all funnets are snackly",
+        "kb_id": "te_L_ds_15"
+      }
+    }
+  },
+  "3": {
+    "0": {
+      "some blavens are not letchure": {
+        "prediction": "no letture are blavens",
+        "answer": "no letchure are blavens",
+        "kb_id": "te_L_ds_188"
+      }
+    },
+    "1": {
+      "some letchure are not edgery": {
+        "prediction": "no letture are blavens, all edgery are blavens",
+        "answer": "no letchure are blavens, all edgery are blavens",
+        "kb_id": "te_L_ds_188"
+      },
+      "some intised are not reaput": {
+        "prediction": "all nicknilled are inist, all asce are midcate, all repodes are scad, all midcate are nicknilled, all drit are elsky, all scad are inist, all elsky are repodes, all inist are asce, all reaput are hanchards",
+        "answer": "all reaput are hanchards, no intised are hanchards",
+        "kb_id": "te_L_ds_147"
+      }
+    },
+    "2": {
+      "some somfe are not brostice": {
+        "prediction": "all somfe are pilelled, all pilelled are wifce",
+        "answer": "all somfe are pilelled, all pilelled are wifce, no brostice are wifce",
+        "kb_id": "te_L_ds_53"
+      },
+      "some rackin are not arthome": {
+        "prediction": "all elcepts are rackin, all elpects are ucker, no arthome are ucker",
+        "answer": "all elpects are rackin, all elpects are ucker, no arthome are ucker",
+        "kb_id": "te_L_ds_160"
+      },
+      "some pabross are not paplil": {
+        "prediction": "all nilebook are pigaste, all brallent are pabross, all pigaste are nilebook, all noter are pigaste, no rescettes are paplil, all pigaste are not plissar, all plissar are paplil, all leabup are pigaste, all pigaste are noter, all leabup are brallent",
+        "answer": "all brallent are pabross, no rescettes are paplil, all brallent are rescettes",
+        "kb_id": "te_L_ds_152"
+      }
+    },
+    "3": {
+      "some kneting are not blavens": {
+        "prediction": "no letture are blavens, all teesot are drandle, all teesot are kneting, all drandle are letture",
+        "answer": "all teesot are drandle, all teesot are kneting, all drandle are letchure, no letchure are blavens",
+        "kb_id": "te_L_ds_188"
+      },
+      "some larban are not sturtums": {
+        "prediction": "",
+        "answer": "all mascul are anchits, all monkise are mascul, all sturtums are monkise, no anchits are larban",
+        "kb_id": "te_L_ds_15"
+      },
+      "some burgler are not drandle": {
+        "prediction": "all drandle are letture, all burgler are edgery, no letture are blavens, all edgery are blavens",
+        "answer": "all burgler are edgery, no letchure are blavens, all drandle are letchure, all edgery are blavens",
+        "kb_id": "te_L_ds_188"
+      }
+    },
+    "4": {
+      "some sodger are not fidric": {
+        "prediction": "all orlea are sodger, all inlant are puncoul, all seadal are orlea, all puncoul are sodger, all seadal are inlant, no fidric are samset",
+        "answer": "all orlea are sodger, all seadal are orlea, all pidlic are seadal, all pidlic are samset, no fidric are samset",
+        "kb_id": "te_L_ds_137"
+      },
+      "some pidlic are not eldfer": {
+        "prediction": "all inlant are puncoul, all puncoul are fidric, all eldfer are feasen, all feasen are sturtures, all sturtures are fidric, all pidlic are seadal, all seadal are inlant, no fidric are samset",
+        "answer": "all eldfer are feasen, all feasen are sturtures, all sturtures are fidric, all pidlic are samset, no fidric are samset",
+        "kb_id": "te_L_ds_137"
+      },
+      "some seadal are not feasen": {
+        "prediction": "all orlea are sodger, all minturd are wovrer, all wieer are minturd, all seadal are orlea, all wovrer are wieer, all sodger are wovrer",
+        "answer": "all feasen are sturtures, all sturtures are fidric, all pidlic are seadal, all pidlic are samset, no fidric are samset",
+        "kb_id": "te_L_ds_137"
+      }
+    },
+    "5": {
+      "some marmo are not scockly": {
+        "prediction": "all kingrord are tarcher, all utsens are kingrord, all scockly are ravand, all copists are kingrord, all marmo are neadly, all neadly are utsens, all tarcher are copists",
+        "answer": "all sainfer are marmo, all jake are sainfer, all jake are estines, all scockly are ravand, no ravand are gurfbar, all estines are gurfbar",
+        "kb_id": "te_L_ds_108"
+      },
+      "some hydrey are not saftes": {
+        "prediction": "all hydrey are herve, all saftes are slayon, no herve are pigait, all slayon are pigait",
+        "answer": "all saftes are slayon, all hydried are herve, all donjent are hydrey, no herve are pigait, all hydried are donjent, all slayon are pigait",
+        "kb_id": "te_L_ds_170"
+      },
+      "some sparet are not fidric": {
+        "prediction": "all flicket are prudened, all inlant are puncoul, all puker are flicket, all prudened are torry, all torry are puker, all seadal are inlant, all puncoul are puker",
+        "answer": "all orlea are jarmful, all seadal are orlea, all pidlic are samset, all pidlic are seadal, all jarmful are sparet, no fidric are samset",
+        "kb_id": "te_L_ds_137"
+      }
+    },
+    "6": {
+      "some fuds are not ongfore": {
+        "prediction": "all nalun are ascha, all padnet are enyom, all ascha are fostol, all sontior are vexget, all romber are nalun, all ongfore are sontior, all fostol are harble, all ongfore are romber, all harble are ongfore, all padnet are machand, all machand are fuds, no grisuin are vexget, all enyom are grisuin",
+        "answer": "all padnet are enyom, all sontior are vexget, all ongfore are sontior, all padnet are machand, all machand are fuds, no grisuin are vexget, all enyom are grisuin",
+        "kb_id": "te_L_ds_173"
+      },
+      "some eaddler are not leacunds": {
+        "prediction": "all somber are ceatle, all injent are somber, all tinely are somber, all purdon are injent, all ceatle are tinely, all eaddler are purdon",
+        "answer": "all jostime are futter, all pandot are leacuned, all futter are reepon, all brosher are eaddler, all pandot are jostime, no leacuned are leacunds, all reepon are brosher",
+        "kb_id": "te_L_ds_93"
+      },
+      "some narore are not weinter": {
+        "prediction": "all mistilled are ulkter, all ughime are molver, all uncing are ughime, all narore are isin, all ulkter are uncing, all molver are pobbit, all pobbit are zapsand, all weinter are mistilled, no isin are zapsand",
+        "answer": "all ughime are molver, all weinter are meantained, all meantained are ughime, all narore are isin, all molver are pobbit, all pobbit are zapsand, no isin are zapsand",
+        "kb_id": "te_L_ds_85"
+      },
+      "some sountains are not mascul": {
+        "prediction": "all bardakes are larban, all mascul are anchits, all wiolits are sountains, all pigayed are wiolits, no anchits are larban, all bardakes are pigayed",
+        "answer": "all bardakes are larban, all wiolits are poxing, all wiolits are sountains, all mascul are anchits, all cobens are bardakes, no anchits are larban, all poxing are cobens",
+        "kb_id": "te_L_ds_15"
+      },
+      "some wogner are not giglet": {
+        "prediction": "all giglet are goarsy, all nutby are noder, all haster are kagassed, all styton are cornens, all ockspect are asche, all asche are nutby, all cornens are wogner, no goarsy are noder, all haster are ockspect, all kagassed are styton",
+        "answer": "all giglet are goarsy, all nutby are noder, all asche are styton, all asche are nutby, all cornens are wogner, no goarsy are noder, all styton are cornens",
+        "kb_id": "te_L_ds_115"
+      },
+      "some arroze are not linkate": {
+        "prediction": "all madin are munior, all rathour are heaster, all awplor are looselet, all iswards are rathour, no arroze are heaster, all looselet are sminet, all sminet are madin, all gucebar are awplor, all linkate are gucebar, all munior are iswards",
+        "answer": "all madin are munior, all rathour are heaster, all iswards are rathour, no arroze are heaster, all gucebar are madin, all linkate are gucebar, all munior are iswards",
+        "kb_id": "te_L_ds_181"
+      },
+      "some linkack are not nafle": {
+        "prediction": "all sligon are hadgards, all sligon are linkack, all hadgards are not outshil, no nafle are pisand, all renuin are bragry, all outshil are renuin",
+        "answer": "all sligon are linkack, all linkate are awcened, all butchy are surfon, all butchy are sligon, all surfon are linkate, no nafle are pisand, all awcened are pisand",
+        "kb_id": "te_L_ds_107"
+      },
+      "some wieer are not fidric": {
+        "prediction": "all puncoul are wovrer, all orlea are sodger, all inlant are puncoul, all seadal are orlea, all wovrer are wieer, all sodger are wovrer, all seadal are inlant, no fidric are samset",
+        "answer": "all orlea are sodger, all seadal are orlea, all wovrer are wieer, all sodger are wovrer, all pidlic are seadal, all pidlic are samset, no fidric are samset",
+        "kb_id": "te_L_ds_137"
+      },
+      "some sarber are not cralual": {
+        "prediction": "all monzent are leale, all orbea are astruss, all astruss are gonpy, all incelled are astruss, all bundy are monzent, all gonpy are orbea, all lenner are incelled, all cralual are bundy",
+        "answer": "all monzent are leale, no cocee are leale, all sirer are cocee, all lenner are sarber, all bundy are monzent, all sirer are lenner, all cralual are bundy",
+        "kb_id": "te_L_ds_163"
+      }
+    },
+    "7": {
+      "some shuneer are not smammer": {
+        "prediction": "all unraps are ackwas, all newbence are ackwas, all dastely are newbence, all ackwas are dastely, all fludgy are rupy, all awkent are fludgy, all lormats are dastely, all newbence are unraps, all banbe are lormats, all awkent are putet, all putet are banbe",
+        "answer": "all vosser are shuneer, all fludgy are rupy, all lormats are vosser, no smammer are rupy, all awkent are fludgy, all banbe are lormats, all awkent are putet, all putet are banbe",
+        "kb_id": "te_L_ds_118"
+      },
+      "some meadon are not jaster": {
+        "prediction": "all gacates are cagbe, all ortfore are flinder, all meadon are ortfore, all jaster are gacates, all cagbe are stomber",
+        "answer": "all flinder are intax, no nerkin are stomber, all gacates are cagbe, all ortfore are flinder, all intax are nerkin, all meadon are ortfore, all jaster are gacates, all cagbe are stomber",
+        "kb_id": "te_L_ds_11"
+      },
+      "some brithant are not cortel": {
+        "prediction": "all pferosed are jably, all jably are dirrar, all dirrar are pferosed, no clebic are cortel, all siver are brithant, all pferosed are clebic",
+        "answer": "all fumest are sasser, all ventur are abbor, all ventur are fumest, no clebic are cortel, all siver are brithant, all sasser are siver, all abbor are pferosed, all pferosed are clebic",
+        "kb_id": "te_L_ds_180"
+      },
+      "some kellutes are not epso": {
+        "prediction": "all anthrar are dirky, all dirky are rimul, some kellutes are not rimul, all sceper are anthrar, all invare are sceper, all epso are invare",
+        "answer": "all drotchup are orkfore, no wheanly are nicknicts, all drotchup are suckage, all suckage are nicknicts, all brallene are wheanly, all invare are brallene, all orkfore are kellutes, all epso are invare",
+        "kb_id": "te_L_ds_56"
+      },
+      "some outboot are not samid": {
+        "prediction": "all clesic are buraw, all draret are totit, all crigsade are veffic, all avayed are clesic, all veffic are clesic, all samid are crigsade, all houen are outcack, all buraw are ortfore, all totit are houen, no outboot are outcack, all glabble are moddle, all ortfore are draret, all moddle are avayed, all clesic are glabble",
+        "answer": "all draret are totit, all crigsade are buraw, all samid are crigsade, all houen are outcack, all buraw are ortfore, all totit are houen, no outboot are outcack, all ortfore are draret",
+        "kb_id": "te_L_ds_142"
+      },
+      "some rackin are not dyerorts": {
+        "prediction": "all thrillow are rackin, all rackin are jendir, all dottar are sardner, all igist are thrillow, all moontains are brozage, all jendir are nicknicts, no wadlon are priten, all dyerorts are dottar, all brozage are priten, all nicknicts are igist, all sardner are moontains",
+        "answer": "all deant are wadlon, all deant are rackin, all dottar are sardner, all moontains are brozage, no wadlon are priten, all dyerorts are dottar, all brozage are priten, all sardner are moontains",
+        "kb_id": "te_L_ds_129"
+      },
+      "some guglet are not plextboard": {
+        "prediction": "all notale are crigsade, all crigsade are grisun, all wansly are woenter, all plextboard are willer, all wansly are notale, all grisun are not notale, no woenter are willer",
+        "answer": "all usker are rosol, all rosol are grober, all wansly are woenter, all usker are bopeer, all grober are guglet, all plextboard are willer, all bopeer are wansly, no woenter are willer",
+        "kb_id": "te_L_ds_144"
+      },
+      "some smunger are not vergill": {
+        "prediction": "all jampful are pamble, all nufure are ilends, all rodat are fostol, all smunger are rodat, all papnet are jampful, all lonines are nufure, all fostol are lonines, all ilends are joyer, all vergill are papnet, all joyer are ilends",
+        "answer": "all jampful are pamble, all papnet are jampful, all grorty are lopide, all lopide are rannim, no coldee are pamble, all grorty are smunger, all vergill are papnet, all rannim are coldee",
+        "kb_id": "te_L_ds_196"
+      },
+      "some flicket are not pidlic": {
+        "prediction": "all inlant are puncoul, all puker are flicket, all eldfer are feasen, all feasen are sturtures, all sturtures are fidric, all pidlic are seadal, all torry are puker, all puncoul are fidric, all eldfer are torry, all seadal are inlant, no fidric are samset",
+        "answer": "all puker are flicket, all eldfer are feasen, all feasen are sturtures, all sturtures are fidric, all torry are puker, all pidlic are samset, all eldfer are torry, no fidric are samset",
+        "kb_id": "te_L_ds_137"
+      }
+    },
+    "8": {
+      "some insome are not somhe": {
+        "prediction": "all shosten are vonger, all queaply are brockent, all unange are rodons, all somhe are thrullow, all delind are queaply, all grainer are wionat, all thrullow are dendol, all vonger are chidet, all rodons are insome, all brockent are shosten, no chidet are dendol, all wionat are delind, all brockent are unange, all delind are grainer",
+        "answer": "all shosten are vonger, all unange are rodons, all somhe are thrullow, all vonger are chidet, all thrullow are dendol, all rodons are insome, all brockent are shosten, no chidet are dendol, all brockent are unange",
+        "kb_id": "te_L_ds_50"
+      },
+      "some firbe are not wingeer": {
+        "prediction": "all giroirs are founter, all wierer are kethfone, all founter are windall, all outbeat are crussel, all kethfone are wingeer, all seaow are hydried, all founter are wierer, all wingeer are outbeat, all windall are viffic, all firbe are giroirs, all outdoke are pangwore, all injand are firbe, all viffic are founter, no hydried are crussel, all seaow are outdoke, all jergent are injand, all pangwore are jergent",
+        "answer": "all outbeat are crussel, all seaow are hydried, all wingeer are outbeat, all outdoke are pangwore, all injand are firbe, no hydried are crussel, all seaow are outdoke, all jergent are injand, all pangwore are jergent",
+        "kb_id": "te_L_ds_186"
+      },
+      "some crundle are not daople": {
+        "prediction": "all unank are jivel, all linser are insort, no grersent are fayure, all neepses are crundle, all daople are unfoints, all mistight are mudal, all mudal are grersent, all jivel are linser, all denend are neepses, all crundle are mistight, all insort are feacher, all feacher are denend, all unfoints are unank",
+        "answer": "all fulind are intax, all unfoints are fulind, all bennel are fayure, no grersent are fayure, all daople are unfoints, all mistight are mudal, all mudal are grersent, all intax are bennel, all crundle are mistight",
+        "kb_id": "te_L_ds_61"
+      },
+      "some whety are not wirned": {
+        "prediction": "all antits are cailus, no invore are wirned, all barco are antits, all pagroul are barco, all barco are pagroul, all cailus are invore",
+        "answer": "all zilspag are kellups, all antits are cailus, no invore are wirned, all barco are antits, all kellups are whety, all infessed are tayer, all cailus are invore, all tayer are barco, all infessed are zilspag",
+        "kb_id": "te_L_ds_193"
+      },
+      "some fendis are not burgler": {
+        "prediction": "all kneting are refirds, all burgler are edgery, all teesot are kneting, all teesot are drandle, all refirds are brongage, all brongage are fendis, no letture are blavens, all drandle are letture, all edgery are blavens",
+        "answer": "all kneting are refirds, all burgler are edgery, all teesot are kneting, all teesot are drandle, no letchure are blavens, all refirds are brongage, all brongage are fendis, all drandle are letchure, all edgery are blavens",
+        "kb_id": "te_L_ds_188"
+      },
+      "some avaths are not ornea": {
+        "prediction": "all pakwore are lenny, all lenny are keshfone, all ueer are pakwore, all dentit are uller, all pathe are alstord, all uller are todust, all burger are dentit, all alstord are bowper, all bowper are alstord, all pathe are burger, all todust are dotplin, all dotplin are druttle, all ornea are ueer",
+        "answer": "all pakwore are lenny, all lenny are keshfone, all ueer are pakwore, all uller are todust, all todust are dotplin, all dotplin are druttle, all ornea are ueer, no keshfone are druttle, all uller are avaths",
+        "kb_id": "te_L_ds_185"
+      },
+      "some funnets are not cobens": {
+        "prediction": "all ulpter are keybup, all bardakes are larban, all hompy are funnets, all mascul are anchits, all sturtums are mascul, all snackly are hompy, all sturtums are monkise, all monkise are mascul, all funnets are snackly, all keybup are sturtums, all cobens are bardakes, no anchits are larban, all sturtums are ulpter",
+        "answer": "all bardakes are larban, all intrarm are elfy, all mascul are saselon, all mascul are anchits, all elfy are anglens, all anglens are funnets, all saselon are intrarm, all cobens are bardakes, no anchits are larban",
+        "kb_id": "te_L_ds_15"
+      }
+    },
+    "9": {
+      "some romber are not lomber": {
+        "prediction": "all bardained are bambret, all machent are topse, all injent are sardner, all sploo are injent, all metse are arrance, all unork are sploo, all sardner are seasty, all arrance are weerer, no topse are weerer, all lidce are machent, all lomber are movence, all seasty are bardained, all bor are romber, all bambret are bor, all unork are metse, all movence are lidce",
+        "answer": "all machent are topse, all matrules are unork, all metse are arrance, all arrance are weerer, no topse are weerer, all lidce are machent, all matrules are romber, all unork are metse, all lomber are movence, all movence are lidce",
+        "kb_id": "te_L_ds_12"
+      },
+      "some loaty are not unmength": {
+        "prediction": "all letture are jeery, no sosty are regists, all forsurd are simage, all lurger are sosty, all unmength are letture, all jeery are forsurd, all simage are brisins, all brisins are barmer, all barmer are regists, all loaty are lurger",
+        "answer": "no sosty are regists, all forsurd are simage, all lurger are sosty, all jeery are forsurd, all letchure are jeery, all simage are brisins, all unmength are letchure, all brisins are barmer, all barmer are regists, all loaty are lurger",
+        "kb_id": "te_L_ds_28"
+      },
+      "some pferort are not piglic": {
+        "prediction": "all henger are bougle, all bougle are hyscand, all hyscand are cawus, all cawus are hyscand, all henger are shrecla, all shrecla are dindal, all dindal are anscar, all cawus are h",
+        "answer": "all plit are outcrur, all piglic are plit, all lorlat are granter, all granter are pferort, all calets are kellutes, no anscar are kellutes, all outcrur are calets, all shrecla are dindal, all shrecla are lorlat, all dindal are anscar",
+        "kb_id": "te_L_ds_139"
+      },
+      "some tordet are not haggler": {
+        "prediction": "all treo are jivel, all tigute are pferorts, all pferorts are lanker, all pidet are hedband, all catse are tordet, all jivel are pidet, all haggler are tigute, all catse are nataves, all nataves are treo",
+        "answer": "all pidet are hedband, all treo are jivel, all catse are tordet, all tigute are pferorts, all pferorts are lanker, all jivel are pidet, no hedband are lanker, all haggler are tigute, all catse are nataves, all nataves are treo",
+        "kb_id": "te_L_ds_157"
+      },
+      "some fumest are not weinter": {
+        "prediction": "all mistilled are ulkter, all uncing are isin, all grasfine are osict, all ulkter are uncing, all narore are isin, all weinter are mistilled, all osict are narore, all fumest are grasfine, no isin are zapsand",
+        "answer": "all grasfine are osict, all ughime are molver, all weinter are meantained, all meantained are ughime, all pobbit are zapsand, all molver are pobbit, all narore are isin, no isin are zapsand, all osict are narore, all fumest are grasfine",
+        "kb_id": "te_L_ds_85"
+      },
+      "some rannim are not linkate": {
+        "prediction": "all crolvet are nastre, all madin are munior, all rathour are heaster, all awplor are looselet, all iswards are rathour, no arroze are heaster, all looselet are sminet, all rannim are crolvet, all nastre are arroze, all sminet are madin, all gucebar are awplor, all linkate are gucebar, all munior are iswards",
+        "answer": "all crolvet are nastre, all madin are munior, all rathour are heaster, all iswards are rathour, no arroze are heaster, all rannim are crolvet, all nastre are arroze, all gucebar are madin, all linkate are gucebar, all munior are iswards",
+        "kb_id": "te_L_ds_181"
+      },
+      "some marmo are not lenic": {
+        "prediction": "all copists are tarcher, all kingrord are tarcher, all utsens are kingrord, all marmo are neadly, all neadly are utsens, all copists are t, all tarcher are copists",
+        "answer": "all sainfer are marmo, all jake are sainfer, all lenic are chiken, all jake are estines, all scockly are ravand, all throting are scockly, all chiken are arrarts, all arrarts are throting, no ravand are gurfbar, all estines are gurfbar",
+        "kb_id": "te_L_ds_108"
+      },
+      "some neckloke are not mistides": {
+        "prediction": "all ribbler are outshat, all neckloke are glicker, all snitly are doobful, all mistides are sustel, all glicker are lowmat, all crossel are snitly, all lolal are vosel, all doobful are ribbler, no seymey are vosel, all outshat are seymey, all sustel are crossel, all lowmat are lolal",
+        "answer": "all lolal are neckloke, all ribbler are outshat, all snitly are doobful, all mistides are sustel, all crossel are snitly, all lolal are vosel, all doobful are ribbler, no seymey are vosel, all outshat are seymey, all sustel are crossel",
+        "kb_id": "te_L_ds_114"
+      }
+    },
+    "10": {
+      "some nalien are not sureon": {
+        "prediction": "all dotzin are irer, all woler are founger, all founger are broluct, all sureon are bolfer, all bolfer are pethre, all avakes are nalien, all irer are avakes, all broluct are pethre, all woler are dotzin, no bartho are pethre",
+        "answer": "all dotzin are irer, all viken are tobber, all tobber are bartho, all sureon are bolfer, all bolfer are pethre, all avakes are nalien, all viken are forsuck, all irer are avakes, all forsuck are woler, all woler are dotzin, no bartho are pethre",
+        "kb_id": "te_L_ds_110"
+      },
+      "some founter are not wingeer": {
+        "prediction": "all giroirs are founter, all wierer are kethfone, all founter are windall, all outbeat are crussel, all kethfone are wingeer, no hydried are crussel, all founter are wierer, all wingeer are outbeat, all windall are tostler, all tostler are giroirs",
+        "answer": "all giroirs are founter, all outbeat are crussel, all seaow are hydried, all wingeer are outbeat, all outdoke are pangwore, all injand are firbe, all firbe are giroirs, no hydried are crussel, all seaow are outdoke, all jergent are injand, all pangwore are jergent",
+        "kb_id": "te_L_ds_186"
+      }
+    },
+    "11": {
+      "some measin are not jarker": {
+        "prediction": "all jarker are sizy, all efry are wifed, no forgake are sizy, all wifed are nicknict, all naloan are oldstord, all nicknict are naloan, all wifed are efry, all oldstord are measin",
+        "answer": "all jarker are sizy, all oryles are utget, all utget are wifed, no forgake are sizy, all estide are hupland, all wifed are nicknict, all naloan are oldstord, all wenner are forgake, all nicknict are naloan, all hupland are oryles, all oldstord are measin, all wenner are estide",
+        "kb_id": "te_L_ds_88"
+      },
+      "some meantail are not calbe": {
+        "prediction": "all delews are bunter, all reushed are delex, all inlop are reule, all bettan are reushed, all delex are wessel, all mistight are toller, all inlop are hadgates, all reule are creery, all wessel are delews, all creery are bettan, all hadgates are not mistight, all toller are mistight",
+        "answer": "all delews are bunter, all reushed are delex, all inlop are reule, all bettan are reushed, all delex are wessel, all reule are creery, no bunter are gysel, all wessel are delews, all creery are bettan, all dirvy are inlop, all calbe are gysel, all dirvy are meantail",
+        "kb_id": "te_L_ds_25"
+      },
+      "some caesie are not ewel": {
+        "prediction": "all bliper are caesie, all ewel are tirthlet, all nobber are quaret, all funnis are timplet, all nobber are bliper, no detton are sathes, all tirthlet are glicker, all quaret are foggil, all timplet are sathes, all hoddly are beepge, all glicker are funnis, all foggil are hoddly, all beepge are detton",
+        "answer": "all ewel are tirthlet, all nobber are quaret, all funnis are timplet, all caesie are nobber, no detton are sathes, all tirthlet are glicker, all quaret are foggil, all timplet are sathes, all hoddly are beepge, all glicker are funnis, all foggil are hoddly, all beepge are detton",
+        "kb_id": "te_L_ds_64"
+      },
+      "some scoyboard are not garmack": {
+        "prediction": "all barcho are pagroul, all pagroul are zenald, all garmack are barcho, some scoyboard are not zenald",
+        "answer": "all kightnent are heager, all garmack are kightnent, all phompie are wifed, all fempon are mirbe, all panter are narrook, all heager are phompie, all narrook are fempon, all mirbe are ingeme, all chiken are scoyboard, no wifed are ingeme, all tontly are panter, all chiken are tontly",
+        "kb_id": "te_L_ds_176"
+      },
+      "some brijant are not nawboles": {
+        "prediction": "all falget are custs, all sovet are sautcher, all custs are elwry, all sautcher are estists, all itell are scrouther, all gidding are dullor, all glicker are binet, all nawboles are gidding, all estists are itell, all scrouther are glicker, all sickger are machay, all machay are binet, all brijant are falget, all elwry are sickger, no vabueaned are binet, all dullor are sovet",
+        "answer": "all sautcher are estists, all sovet are sautcher, all itell are scrouther, all glicker are binet, all gidding are dullor, all nawboles are gidding, all vaffists are brijant, no vabueaned are binet, all dullor are sovet, all scrouther are glicker, all vaffists are vabueaned, all estists are itell",
+        "kb_id": "te_L_ds_154"
+      },
+      "some hether are not zousous": {
+        "prediction": "no escells are hanchards, all waldin are orfot, all ucker are alwas, all andow are loochlet, all lammer are alwas, all forgacts are waldin, all alwas are crossel, all krening are hether, all crossel are hanchards, all orfot are escells, all loochlet are forgacts, all zousous are andow, all lammer are ucker, all alwas are erebo, all erebo are krening",
+        "answer": "no escells are hanchards, all waldin are orfot, all forgacts are waldin, all alwas are crossel, all krening are hether, all orfot are escells, all crossel are hanchards, all zousous are andow, all alwas are erebo, all loochlet are forgacts, all andow are loochlet, all erebo are krening",
+        "kb_id": "te_L_ds_135"
+      },
+      "some renun are not totons": {
+        "prediction": "all larpy are nafle, all featter are renun, all notac are lasle, no taver are tuvar, all noubles are larpy, all nafle are tuvar, all kaster are noubles, all swinet are strotten, all totons are kaster, all strotten are notac, all lasle are not taver, all featter are swinet",
+        "answer": "all jampful are pagril, all larpy are nafle, all featter are renun, all pagril are taver, all noubles are larpy, all kaster are noubles, all swinet are strotten, all totons are kaster, all strotten are jampful, all nafle are tuvar, no taver are tuvar, all featter are swinet",
+        "kb_id": "te_L_ds_17"
+      },
+      "some blunce are not asho": {
+        "prediction": "all usdard are dessoin, all asho are usdard, all dessoin are kegfone, all paiwotes are tyncher, all drailer are paiwotes, all willer are drailer",
+        "answer": "all usdard are dessoin, all asho are usdard, all dessoin are kegfone, all paiwotes are tyncher, all forsone are fotens, all drailer are paiwotes, all fotens are blunce, all shrender are forsone, all willer are blunbe, all tyncher are shrender, all willer are drailer, no blunbe are kegfone",
+        "kb_id": "te_L_ds_60"
+      },
+      "some urbey are not crundle": {
+        "prediction": "all unank are jivel, all daople are avaths, all linser are insort, all lipple are urbey, no grersent are fayure, all neepses are crundle, all daople are unfoints, all mistight are mudal, all mudal are grersent, all jivel are linser, all denend are neepses, all crundle are mistight, all insort are feacher, all avaths are lipple, all feacher are denend, all unfoints are unank",
+        "answer": "all fulind are intax, all unfoints are fulind, all lipple are urbey, all bennel are fayure, no grersent are fayure, all daople are unfoints, all mistight are mudal, all mudal are grersent, all intax are bennel, all crundle are mistight, all avaths are lipple, all daople are avaths",
+        "kb_id": "te_L_ds_61"
+      },
+      "some honver are not fuber": {
+        "prediction": "all puther are tordet, all injole are hunent, all warmey are fuber, all toomer are selal, all hunent are warmey, all banslas are erner, all insharts are injole, all ulptul are toomer, all idist are ulptul, all tordet are insharts, all selal are puther",
+        "answer": "all upjell are setal, all upjell are banslas, all timplet are flumer, all erner are moverns, all morder are fabees, all esceme are morder, all moverns are rirton, all flumer are esceme, no fuber are fabees, all banslas are erner, all rirton are honver, all setal are timplet",
+        "kb_id": "te_L_ds_52"
+      },
+      "some lorcat are not taching": {
+        "prediction": "all wantin are bantle, all weinter are mailbence, all mailbence are wantin, all taching are weinter, some lorcat are not beartle",
+        "answer": "all wantin are bantle, all weinter are mailbence, all strunder are wedger, all musal are rerdens, all mailbence are wantin, no fightsing are rerdens, all taching are weinter, all bantle are snirer, all lorcat are fightsing, all snirer are strunder, all leepot are musal, all wedger are leepot",
+        "kb_id": "te_L_ds_172"
+      }
+    },
+    "12": {
+      "some spomble are not brodel": {
+        "prediction": "all eldfer are moveld, all brodel are seydent, all seydent are sawpler, all sawpler are wiger, all wiger are eldfer, all moveld are moveld",
+        "answer": "all pisands are arraves, all kemic are spomble, no relocked are nawborts, all brodel are seydent, all seydent are sawpler, all arraves are intier, all santul are nawborts, all sawpler are loady, all intier are kemic, all pathe are grasgine, all santul are pathe, all grasgine are pisands, all loady are relocked",
+        "kb_id": "te_L_ds_138"
+      },
+      "some carrets are not forsone": {
+        "prediction": "all juddle are lixack, all wirged are carrets, all acecked are rallar, all reborts are hoggy, all hadder are juddle, all wirged are reborts, all croady are gliqy, all drutten are kinwips, all forsone are drutten, all hoggy are millen, all lixack are croady, no millen are rallar, all gliqy are acecked, all kinwips are quirse, all croady are hadder, all quirse are lixack",
+        "answer": "all wirged are carrets, all acecked are rallar, all reborts are hoggy, all wirged are reborts, all quirse are lixack, all croady are gliqy, all drutten are kinwips, all hoggy are millen, all lixack are croady, no millen are rallar, all gliqy are acecked, all kinwips are quirse, all forsone are drutten",
+        "kb_id": "te_L_ds_112"
+      },
+      "some nonded are not inshart": {
+        "prediction": "all tenny are todger, all jendar are cunnet, all cunnet are anstrar, all todger are nonded, all elthy are drander, all foenter are tenny, no pethce are ecto, all toller are awblor, all cemcus are toller, all frocker are pethce, some foenter are cemcus, all awblor are jendar, all drander are frocker, all inshart are elthy, all anstrar are inshart",
+        "answer": "all tenny are todger, all insharn are warblen, all arrance are clemic, all insharn are foenter, all todger are nonded, all warblen are arrance, all elthy are drander, all foenter are tenny, no pethce are ecto, all drander are frocker, all frocker are pethce, all clemic are ecto, all inshart are elthy",
+        "kb_id": "te_L_ds_32"
+      },
+      "some unfoints are not linser": {
+        "prediction": "all unank are jivel, all linser are insort, no grersent are fayure, all neepses are crundle, all mistight are mudal, all mudal are grersent, all jivel are linser, all denend are neepses, all crundle are mistight, all insort are feacher, all feacher are denend, all unfoints are unank",
+        "answer": "all fulind are intax, all unfoints are fulind, all linser are insort, all bennel are fayure, no grersent are fayure, all neepses are crundle, all mistight are mudal, all mudal are grersent, all intax are bennel, all denend are neepses, all crundle are mistight, all insort are feacher, all feacher are denend",
+        "kb_id": "te_L_ds_61"
+      },
+      "some linser are not unfoints": {
+        "prediction": "all unank are jivel, all fulind are intax, all unfoints are fulind, all linser are insort, all bennel are fayure, no grersent are fayure, all neepses are crundle, all mistight are mudal, all mudal are grersent, all jivel are linser, all denend are neepses, all intax are bennel, all crundle are mistight, all insort are feacher, all feacher are denend, all unfoints are unank",
+        "answer": "all fulind are intax, all unfoints are fulind, all linser are insort, all bennel are fayure, no grersent are fayure, all neepses are crundle, all mistight are mudal, all mudal are grersent, all intax are bennel, all denend are neepses, all crundle are mistight, all insort are feacher, all feacher are denend",
+        "kb_id": "te_L_ds_61"
+      },
+      "some sisky are not inlop": {
+        "prediction": "all delex are wessel, all mistight are toller, all cornens are mudal, all reule are creery, all wessel are delews, some mistight are inbards, all sisky are millen, all delews are bunter, all reushed are delex, all bettan are reushed, no bunter are gysel, all calbe are gysel, all alford are boorer, all inlop are reule, all nandow are alford, all creery are bettan, all thridhood are hagger, all mader are nandow, all millen are sisky, all hagger are cornens, all mudal are calbe, all toller are mistight, all inbards are mader, all boorer are thridhood",
+        "answer": "all delews are bunter, all reushed are delex, all inlop are reule, all bettan are reushed, all delex are wessel, all cornens are sisky, all cornens are mudal, all reule are creery, no bunter are gysel, all wessel are delews, all creery are bettan, all calbe are gysel, all mudal are calbe",
+        "kb_id": "te_L_ds_25"
+      },
+      "some gutchbar are not bundy": {
+        "prediction": "all pakwore are lenny, all lenny are keshfone, all ueer are pakwore, all dentit are uller, all pathe are alstord, all lankwer are ornea, all bundy are unlisk, all burger are dentit, all uller are todust, all alstord are bowper, all bowper are alstord, all pathe are burger, all todust are dotplin, all unlisk are lankwer, all dotplin are druttle, all ornea are ueer",
+        "answer": "all pakwore are lenny, all lenny are keshfone, all ueer are pakwore, all avaths are gutchbar, all lankwer are ornea, all bundy are unlisk, all uller are todust, all todust are dotplin, all unlisk are lankwer, all dotplin are druttle, all ornea are ueer, no keshfone are druttle, all uller are avaths",
+        "kb_id": "te_L_ds_185"
+      },
+      "some plat are not manva": {
+        "prediction": "all horered are paplil, all shroulous are fotets, all boocer are squessing, all fotets are shroulous, all squessing are shroulous, all puncits are horered, all paplil are boocer",
+        "answer": "all upfrat are darer, all idepped are tinser, all upfrat are plat, all gapuure are uctangs, all pakwore are sicket, all darer are idepped, all raner are pakwore, all tinser are outrates, all kagassed are raner, no outrates are uctangs, all manva are squammer, all squammer are kagassed, all sicket are gapuure",
+        "kb_id": "te_L_ds_111"
+      },
+      "some fotets are not gapuure": {
+        "prediction": "all gapuure are uctangs, all tinser are outrates, all bample are outrates, all tinser are bample, no outrates are uctangs",
+        "answer": "all upfrat are darer, all idepped are tinser, all horered are paplil, all gapuure are uctangs, all shroulous are fotets, all boocer are squessing, all darer are idepped, all tinser are outrates, all puncits are upfrat, all squessing are shroulous, no outrates are uctangs, all puncits are horered, all paplil are boocer",
+        "kb_id": "te_L_ds_111"
+      },
+      "some pandot are not jarker": {
+        "prediction": "all jarker are sizy, all wifed are not jarker, all measin are pandot, all efry are wifed, all wifed are nicknict, all naloan are oldstord, all nicknict are naloan, all wifed are efry, all oldstord are measin",
+        "answer": "all jarker are sizy, all measin are pandot, all oryles are utget, all utget are wifed, no forgake are sizy, all estide are hupland, all wifed are nicknict, all naloan are oldstord, all wenner are forgake, all nicknict are naloan, all hupland are oryles, all oldstord are measin, all wenner are estide",
+        "kb_id": "te_L_ds_88"
+      }
+    },
+    "13": {
+      "some quister are not jenonds": {
+        "prediction": "all keybup are deams, all refints are unrards, all larbet are escecked, all enjash are allhome, all jenonds are keybup, all unrards are rempens, all escecked are gromer, no calens are allhome, all tonthly are quister, all crisil are refints, all tonthly are crisil, all refints are tonthly, all broluct are enjash, all rempens are larbet, all gromer are broluct, all deams are calens",
+        "answer": "all keybup are deams, all refints are unrards, all larbet are escecked, all enjash are allhome, all jenonds are keybup, all unrards are rempens, all escecked are gromer, no calens are allhome, all tonthly are quister, all refints are tonthly, all broluct are enjash, all rempens are larbet, all gromer are broluct, all deams are calens",
+        "kb_id": "te_L_ds_48"
+      },
+      "some hanter are not insow": {
+        "prediction": "all unrand are sturtude, all insow are weinter, all grasfine are osict, all mistilled are ulkter, all uncing are isin, all weinter are mistilled, all narore are isin, all ulkter are uncing, all sturtude are fumest, all osict are narore, all unrand are hanter, all fumest are grasfine, no isin are zapsand",
+        "answer": "all unrand are sturtude, all insow are weinter, all grasfine are osict, all ughime are molver, all weinter are meantained, all meantained are ughime, all pobbit are zapsand, all molver are pobbit, all narore are isin, all sturtude are fumest, all osict are narore, all unrand are hanter, all fumest are grasfine, no isin are zapsand",
+        "kb_id": "te_L_ds_85"
+      },
+      "some fured are not meapon": {
+        "prediction": "all ugleat are gastwate, all neazy are wirked, all bearrer are injone, all gastwate are inver, all vadent are sobber, all sobber are bearrer, all injone are neazy, all jundor are neazy, all qualked are vadent, all fured are qualked, all andow are nirer, all meapon are ugleat, all inver are jundor, all wirked are andow, no pandle are collee, all nirer are pandle",
+        "answer": "all ugleat are gastwate, all neazy are wirked, all gastwate are inver, all objance are fured, all jundor are neazy, all andow are nirer, all meapon are ugleat, all fuvar are reukes, all inver are jundor, all wirked are andow, all reukes are objance, all fuvar are collee, no pandle are collee, all nirer are pandle",
+        "kb_id": "te_L_ds_51"
+      }
+    },
+    "14": {
+      "some tetet are not unmength": {
+        "prediction": "all letture are jeery, no sosty are regists, all isward are tetet, all gacard are gramper, all gramper are isward, all forsurd are simage, all lurger are sosty, all unmength are letture, all jeery are forsurd, all rescerb are gacard, all simage are brisins, all rescerb are loaty, all brisins are barmer, all barmer are regists, all loaty are lurger",
+        "answer": "no sosty are regists, all isward are tetet, all gacard are gramper, all gramper are isward, all forsurd are simage, all lurger are sosty, all jeery are forsurd, all rescerb are gacard, all letchure are jeery, all simage are brisins, all unmength are letchure, all rescerb are loaty, all brisins are barmer, all barmer are regists, all loaty are lurger",
+        "kb_id": "te_L_ds_28"
+      },
+      "some lenner are not loather": {
+        "prediction": "some shaffics are not urfer, all loather are escerk, all shaffics are pudet, all escerk are fotter, all pudet are lenner",
+        "answer": "all squagroo are straver, all straver are vomel, all luger are carvos, no outtryr are zeclo, all loather are escerk, all itew are zeclo, all vomel are luger, all carvos are donner, all shaffics are pudet, all escerk are fotter, all pudet are lenner, all fotter are shiten, all shiten are squagroo, all shaffics are itew, all donner are outtryr",
+        "kb_id": "te_L_ds_46"
+      },
+      "some juret are not gooby": {
+        "prediction": "all machent are topse, all metse are arrance, all unork are sploo, all sardner are seasty, all arrance are weerer, all movence are lidce, all injent are sardner, all lidce are machent, all seasty are bardained, all lomber are movence, all ganlight are monner, all gutebar are lomber, all bardained are bambret, all bambret are injent, all sploo are injent, all gooby are ganlight, all monner are gutebar, all unork are metse",
+        "answer": "all machent are topse, all romber are juret, all matrules are unork, all metse are arrance, all unork are metse, all monner are gutebar, all arrance are weerer, all gooby are ganlight, no topse are weerer, all lidce are machent, all matrules are romber, all ganlight are monner, all gutebar are lomber, all lomber are movence, all movence are lidce",
+        "kb_id": "te_L_ds_12"
+      },
+      "some intild are not grasbine": {
+        "prediction": "all pazil are forsunt, all tocer are tocer, all roder are clealure, all forsunt are antired, all antired are roder, all clealure are pazil, all vabueaves are tocer, all grasbine are forgalled, all forsunt are vabueaves",
+        "answer": "all forgalled are clealure, all sitfe are incelled, all tonthly are vergills, all meantained are sitfe, all pazil are forsunt, all ascha are awrent, all vergills are gartide, all clealure are pazil, all vabueaves are tonthly, all onnien are intild, no awrent are incelled, all onnien are meantained, all grasbine are forgalled, all forsunt are vabueaves, all gartide are ascha",
+        "kb_id": "te_L_ds_66"
+      },
+      "some idist are not randaned": {
+        "prediction": "all toyer are sendeur, all viten are naups, all jostills are brimble, all sadet are pipid, all naups are tigute, all mehet are dallen, all sceper are lirnbuid, no dallen are lirnbuid, all pipid are swithen, all swithen are mehet, all viten are yat, all randaned are toyer, all tigute are sceper, all yat are idist, all brimble are sadet, all sendeur are jostills",
+        "answer": "all toyer are sendeur, all viten are naups, all rackings are pipid, all naups are tigute, all mehet are dallen, all sceper are lirnbuid, no dallen are lirnbuid, all pipid are swithen, all swithen are mehet, all viten are yat, all randaned are toyer, all yat are idist, all tigute are sceper, all jostills are rackings, all sendeur are jostills",
+        "kb_id": "te_L_ds_29"
+      },
+      "some piret are not panco": {
+        "prediction": "all pigarchs are piret, all panco are totons, all saightner are featter, all larpy are nafle, all pigarchs are saightner, all notac are lasle, all noubles are larpy, all kaster are noubles, all swinet are strotten, all totons are kaster, all lasle are notac, all nafle are tuvar, no taver are tuvar, all featter are swinet, all strotten are notac",
+        "answer": "all pigarchs are piret, all panco are totons, all jampful are pagril, all saightner are featter, all larpy are nafle, all pagril are taver, all pigarchs are saightner, all noubles are larpy, all kaster are noubles, all swinet are strotten, all totons are kaster, all strotten are jampful, all nafle are tuvar, no taver are tuvar, all featter are swinet",
+        "kb_id": "te_L_ds_17"
+      },
+      "some asmy are not sparet": {
+        "prediction": "all arpits are lowmat, all ribbler are outshat, all snitly are doobful, all mistides are sustel, all crossel are snitly, all sparet are mistides, all kepmone are arpits, all lolal are vosel, all outshat are seymey, all doobful are ribbler, all argets are asmy, no seymey are vosel, all juddle are varings, all sustel are crossel, all juddle are argets, all lowmat are lolal, all argets are kepmone",
+        "answer": "all arpits are lowmat, all ribbler are outshat, all snitly are doobful, all mistides are sustel, all crossel are snitly, all sparet are mistides, all kepmone are arpits, all lolal are vosel, all doobful are ribbler, all argets are asmy, no seymey are vosel, all outshat are seymey, all sustel are crossel, all lowmat are lolal, all argets are kepmone",
+        "kb_id": "te_L_ds_114"
+      },
+      "some brithant are not sandlor": {
+        "prediction": "all pferosed are jably, all humse are orbel, all canger are parut, all mailbert are cortel, all orbel are mailbert, all jably are dirrar, all dirrar are pferosed, all sandlor are screadly, no clebic are cortel, all siver are brithant, all screadly are canger, all parut are humse, all pferosed are clebic",
+        "answer": "all fumest are sasser, all humse are orbel, all canger are parut, all mailbert are cortel, all orbel are mailbert, all ventur are abbor, all sandlor are screadly, all ventur are fumest, no clebic are cortel, all siver are brithant, all screadly are canger, all sasser are siver, all abbor are pferosed, all parut are humse, all pferosed are clebic",
+        "kb_id": "te_L_ds_180"
+      },
+      "some tudar are not scratroo": {
+        "prediction": "all rescepts are vellays, all uffide are windards, all spavens are arthome, all grarmon are rescepts, all larcoo are tudar, all elcepts are ucker, no arthome are ucker, all rackin are grarmon, all nikbook are uffide, all scratroo are nikbook, all elcepts are rackin, all vellays are sonear, all windards are fouther, all fouther are spavens, all sonear are larcoo",
+        "answer": "all fouther are spavens, all rescepts are vellays, all grarmon are rescepts, all spavens are arthome, all larcoo are tudar, no arthome are ucker, all elpects are rackin, all elpects are ucker, all rackin are grarmon, all nikbook are uffide, all scratroo are nikbook, all vellays are sonear, all windards are fouther, all uffide are windards, all sonear are larcoo",
+        "kb_id": "te_L_ds_160"
+      },
+      "some chimper are not bongler": {
+        "prediction": "all osict are etchics, all wooson are revome, all bralletes are wooson, all huneck are bralletes, all etchics are strut, all etchics are strutten, all bongler are huneck, all strutten are etchics",
+        "answer": "all wooson are revome, all sheckel are rader, all rader are dopgrin, no revome are itedes, all liggle are osict, all bralletes are wooson, all unferns are sheckel, all wheting are unferns, all osict are itedes, all dopgrin are outdoke, all tortret are chimper, all huneck are bralletes, all liggle are wheting, all bongler are huneck, all outdoke are tortret",
+        "kb_id": "te_L_ds_92"
+      },
+      "some hadgates are not enfip": {
+        "prediction": "all letture are jeery, no sosty are regists, all forsurd are simage, all lurger are sosty, all unmength are letture, all jeery are forsurd, all unfern are unmength, all sopper are rescerb, all simage are brisins, all rescerb are loaty, all brisins are barmer, all sopper are hadgates, all enfip are unfern, all barmer are regists, all loaty are lurger",
+        "answer": "no sosty are regists, all forsurd are simage, all lurger are sosty, all jeery are forsurd, all letchure are jeery, all unfern are unmength, all simage are brisins, all sopper are rescerb, all unmength are letchure, all rescerb are loaty, all brisins are barmer, all sopper are hadgates, all enfip are unfern, all barmer are regists, all loaty are lurger",
+        "kb_id": "te_L_ds_28"
+      },
+      "some moincer are not damid": {
+        "prediction": "all fludgy are tayer, some moincer are not rirse, all tayer are rirse, all damid are dobbon, all dobbon are fludgy",
+        "answer": "all unpom are dradlon, all kusher are aspaged, all reepon are reuth, all kusher are narare, all dradlon are dalard, all agsey are reepon, all dalard are hadgards, all notact are ingast, no reuth are ingast, all aspaged are moincer, all hadgards are saker, all dobbon are unpom, all damid are dobbon, all narare are agsey, all saker are notact",
+        "kb_id": "te_L_ds_33"
+      }
+    },
+    "15": {
+      "some jivel are not parines": {
+        "prediction": "all unank are jivel, all fulind are intax, all parines are daople, all linser are insort, all unfoints are fulind, all bennel are fayure, no grersent are fayure, all neepses are crundle, all daople are unfoints, all mistight are mudal, all mudal are grersent, all jivel are linser, all denend are neepses, all intax are bennel, all crundle are mistight, all insort are feacher, all feacher are denend, all unfoints are unank",
+        "answer": "all fulind are intax, all unfoints are fulind, all parines are daople, all linser are insort, all bennel are fayure, no grersent are fayure, all neepses are crundle, all daople are unfoints, all mistight are mudal, all mudal are grersent, all jivel are linser, all intax are bennel, all denend are neepses, all crundle are mistight, all insort are feacher, all feacher are denend",
+        "kb_id": "te_L_ds_61"
+      },
+      "some reloin are not brarish": {
+        "prediction": "all brarish are caesie, all nobber are quaret, all caesie are nobber, all quaret are foggil, all hoddly are beepge, all sonour are tolve, all foggil are hoddly, all beepge are detton",
+        "answer": "all brarish are caesie, all ewel are tirthlet, all nobber are quaret, all funnis are timplet, all caesie are nobber, no detton are sathes, all tirthlet are glicker, all quaret are foggil, all timplet are sathes, all hoddly are beepge, all sonour are tolve, all glicker are funnis, all tolve are reloin, all sonour are ewel, all foggil are hoddly, all beepge are detton",
+        "kb_id": "te_L_ds_64"
+      },
+      "some hanter are not sovet": {
+        "prediction": "all unrand are sturtude, all insow are weinter, all grasfine are osict, all sovet are keybum, all mistilled are ulkter, all uncing are isin, all keybum are insow, all weinter are mistilled, all narore are isin, all ulkter are uncing, all sturtude are fumest, all osict are narore, all unrand are hanter, all fumest are grasfine, no isin are zapsand",
+        "answer": "all unrand are sturtude, all insow are weinter, all sovet are keybum, all ughime are molver, all grasfine are osict, all weinter are meantained, all meantained are ughime, all keybum are insow, all pobbit are zapsand, all molver are pobbit, all narore are isin, all sturtude are fumest, all osict are narore, all unrand are hanter, all fumest are grasfine, no isin are zapsand",
+        "kb_id": "te_L_ds_85"
+      },
+      "some tupber are not dalid": {
+        "prediction": "all keybup are deams, all deams are calens, all laclet are jenonds, all tichlet are refints, all jenonds are keybup, all laclet are tupber, no calens are allhome, all quister are deams, all dalid are tichlet, all refints are tonthly, all tonthly are quister",
+        "answer": "all keybup are deams, all refints are unrards, all larbet are escecked, all enjash are allhome, all laclet are jenonds, all tichlet are refints, all unrards are rempens, all jenonds are keybup, all escecked are gromer, all laclet are tupber, no calens are allhome, all dalid are tichlet, all broluct are enjash, all rempens are larbet, all gromer are broluct, all deams are calens",
+        "kb_id": "te_L_ds_48"
+      },
+      "some pandot are not ebbo": {
+        "prediction": "all measin are pandot, all jarmful are ursey, all wifed are nicknict, all ursey are ebbo, all naloan are oldstord, all nicknict are naloan, all wifed are efry, all efry are jarmful, all oldstord are measin",
+        "answer": "all jarker are sizy, all measin are pandot, all oryles are utget, all utget are wifed, all anthar are mastens, no forgake are sizy, all estide are hupland, all wifed are nicknict, all naloan are oldstord, all wenner are forgake, all nicknict are naloan, all ebbo are anthar, all hupland are oryles, all mastens are jarker, all oldstord are measin, all wenner are estide",
+        "kb_id": "te_L_ds_88"
+      },
+      "some tascer are not reyens": {
+        "prediction": "all brijant are swinet, all manfa are gudebar, all nambous are tidrot, all tropal are crigsams, all swinet are weinter, all fousser are manfa, all tidrot are tropal, all crigsams are oambrow, all ligming are laillet, all gudebar are fousser, all mothcer are manfa, all oambrow are stivel, all weinter are fus, all reyens are brijant, all jampful are mothcer, all manfa are gude, all fus are nambous, all laillet are tascer, all ligming are jampful",
+        "answer": "all hagger are rouet, all nambous are tidrot, all oambrow are stivel, all tropal are crigsams, all weinter are fus, all laillet are tascer, all tidrot are tropal, all reyens are brijant, all crigsams are oambrow, all brijant are swinet, all rouet are ursey, all ligming are laillet, all fus are nambous, all hagger are ligming, all swinet are weinter, no ursey are stivel",
+        "kb_id": "te_L_ds_94"
+      },
+      "some nolun are not insolled": {
+        "prediction": "some widing are not stuver, all juttle are lyrelet, all lyrelet are paiwond, all barmer are juttle, all widing are barmer, all insolled are stuver, all paiwond are metcher, all metcher are nolun",
+        "answer": "no estics are teaster, all outgrat are dester, all outgrat are laplet, all juttle are lyrelet, all metcher are nolun, all lyrelet are paiwond, all barmer are juttle, all carrets are estics, all crostice are acsey, all acsey are butbe, all dester are teaster, all stuver are carrets, all insolled are stuver, all laplet are crostice, all paiwond are metcher, all butbe are barmer",
+        "kb_id": "te_L_ds_9"
+      }
+    },
+    "16": {
+      "some meabon are not woter": {
+        "prediction": "all pougful are revoct, all gradmine are wovrer, all bargight are unank, all wovrer are pougful, no unank are revoct, all huny are ingits, all ongfore are meabon, all woter are ceamie, all gourny are hupland, all ingits are gradmine, all hupland are bargight, all ceamie are huny",
+        "answer": "all pougful are revoct, all gradmine are wovrer, all bargight are unank, all wovrer are pougful, all ockyect are ongfore, no unank are revoct, all huny are ingits, all dessolls are crustive, all ongfore are meabon, all gourny are hupland, all woter are ceamie, all crustive are lopmat, all lopmat are ockyect, all ingits are gradmine, all hupland are bargight, all gourny are dessolls, all ceamie are huny",
+        "kb_id": "te_L_ds_153"
+      },
+      "some pathe are not esdert": {
+        "prediction": "all reboon are nickdalled, all nickdalled are st, all pathe are cralual, all cralual are reboon",
+        "answer": "all luttler are steever, all esdert are hasser, all wadgly are citchgus, all vuther are lankner, all shisten are wadgly, all insodes are quandy, all nickdalled are stumened, no quandy are citchgus, all cralual are reboon, all pathe are cralual, all tiguse are harge, all lankner are insodes, all steever are shisten, all hasser are luttler, all harge are vuther, all stumened are tiguse, all reboon are nickdalled",
+        "kb_id": "te_L_ds_74"
+      },
+      "some uptoun are not cortel": {
+        "prediction": "all cortel are arranes, all incelled are smammer, all smammer are pumder, all soster are fresic, all dooseful are sectote, all pumder are eth, all gastray are dooseful, all fresic are sugor, all sectote are soster, all wooshon are incelled, all arranes are gastray",
+        "answer": "all cortel are arranes, all justle are resite, all incelled are smammer, all smammer are pumder, all soster are fresic, all dooseful are sectote, no sugor are messer, all gastray are dooseful, all pumder are ethul, all fresic are sugor, all ethul are justle, all resite are messer, all sectote are soster, all wooshon are incelled, all arranes are gastray, all wooshon are fendis, all fendis are uptoun",
+        "kb_id": "te_L_ds_100"
+      },
+      "some neason are not elsky": {
+        "prediction": "all itey are tymper, all sarthner are itey, all tuty are unange, all herble are onneen, all neason are uptien, all onneen are onkle, all elsky are herble, no unange are batbe, all tymper are sabbil, all center are sarthner, all sabbil are banbe, all tarlon are tuty, all onkle are tarlon, all uptien are akyss, all akyss are center",
+        "answer": "all itey are tymper, all sarthner are itey, all tuty are unange, all guffen are batbe, all herble are onneen, all neason are uptien, all onneen are onkle, all elsky are herble, no unange are batbe, all tymper are sabbil, all center are sarthner, all sabbil are banbe, all banbe are guffen, all tarlon are tuty, all onkle are tarlon, all uptien are akyss, all akyss are center",
+        "kb_id": "te_L_ds_62"
+      },
+      "some oldstord are not nigny": {
+        "prediction": "all jarker are sizy, all pandot are wifed, all measin are pandot, all jarmful are ursey, all oryles are utget, all efry are oryles, all anthar are mastens, all utget are wifed, all nigny are jarmful, all ursey are ebbo, all wifed are nicknict, all naloan are oldstord, all ebbo are anthar, all wifed are efry, all nicknict are naloan, all mastens are jarker, all oldstord are measin",
+        "answer": "all jarker are sizy, all jarmful are ursey, all oryles are utget, all utget are wifed, all anthar are mastens, no forgake are sizy, all estide are hupland, all wifed are nicknict, all nigny are jarmful, all naloan are oldstord, all ursey are ebbo, all wenner are forgake, all nicknict are naloan, all ebbo are anthar, all hupland are oryles, all mastens are jarker, all wenner are estide",
+        "kb_id": "te_L_ds_88"
+      },
+      "some insops are not deates": {
+        "prediction": "all avasm are ragar, all lechep are somfe, all insops are invare, all ragar are lechep, all somfe are pilelled, all weier are avasm, all invare are weier, all pilelled are wifce",
+        "answer": "all avasm are ragar, all lechep are somfe, all insops are invare, all ragar are lechep, all phombee are larset, all somfe are pilelled, all goursy are mailbern, all neckel are brostice, all larset are neckel, all weier are avasm, all mailbern are phombee, all pilelled are wifce, no brostice are wifce, all taitcher are husy, all invare are weier, all deates are taitcher, all husy are goursy",
+        "kb_id": "te_L_ds_53"
+      },
+      "some lister are not linser": {
+        "prediction": "all unank are jivel, all parines are daople, all linser are insort, all cliper are parines, no grersent are fayure, all lister are cliper, all neepses are crundle, all daople are unfoints, all mistight are mudal, all mudal are grersent, all jivel are linser, all denend are neepses, all crundle are mistight, all insort are feacher, all feacher are denend, all unfoints are unank",
+        "answer": "all fulind are intax, all parines are daople, all unfoints are fulind, all cliper are parines, all linser are insort, all bennel are fayure, all lister are cliper, all neepses are crundle, all daople are unfoints, no grersent are fayure, all mistight are mudal, all mudal are grersent, all intax are bennel, all denend are neepses, all crundle are mistight, all insort are feacher, all feacher are denend",
+        "kb_id": "te_L_ds_61"
+      },
+      "some uffiles are not lister": {
+        "prediction": "all parines are daople, all linser are insort, all unfoints are fulind, all lister are cliper, all mistight are mudal, all unank are jivel, all fulind are intax, all daople are unfoints, all crundle are mistight, all feacher are denend, some zilfrag are lister, no grersent are fayure, all mudal are grersent, all zilfrag are uffiles, all intax are bennel, all insort are feacher, all cliper are parines, all bennel are fayure, all neepses are crundle, all jivel are linser, all denend are neepses, all unfoints are unank",
+        "answer": "all feacher are zilfrag, all fulind are intax, all parines are daople, all unfoints are fulind, all cliper are parines, all bennel are fayure, all lister are cliper, all neepses are crundle, all daople are unfoints, no grersent are fayure, all mistight are mudal, all mudal are grersent, all zilfrag are uffiles, all intax are bennel, all denend are neepses, all crundle are mistight, all feacher are denend",
+        "kb_id": "te_L_ds_61"
+      },
+      "some wadbon are not tudar": {
+        "prediction": "all tichlet are oldstord, all oldstord are berrops, all weebel are tichlet, all tudar are weebel",
+        "answer": "all vaffics are basbe, all crasue are objalls, all basbe are umcent, all pferosed are vaffics, all objalls are cudy, all drengup are wadbon, all arrostes are mecer, all leffure are shocken, all tichlet are oldstord, all mecer are leffure, all berrops are pferosed, all crasue are arrostes, all oldstord are berrops, all weebel are tichlet, all tudar are weebel, no umcent are shocken, all cudy are drengup",
+        "kb_id": "te_L_ds_197"
+      },
+      "some nimey are not urapes": {
+        "prediction": "all dover are minient, all minient are headmet, all urapes are quister, all lylelet are dover, all quister are calse, all calse are lylelet",
+        "answer": "no smirly are gonster, all dover are minient, all invam are nimey, all wyxer are invam, all nufure are sonner, all minient are headmet, all awstent are jerbent, all sargener are alstose, all urapes are quister, all lylelet are dover, all alstose are smirly, all sonner are awstent, all quister are calse, all calse are lylelet, all nufure are sargener, all headmet are gonster, all jerbent are wyxer",
+        "kb_id": "te_L_ds_75"
+      },
+      "some panco are not kender": {
+        "prediction": "all panco are totons, all pagril are taver, all insolled are pigarchs, all nafle are tuvar, all featter are swinet, all larpy are nafle, all kaster are noubles, all kender are ressore, all ressore are insolled, all pigarchs are saightner, all strotten are strotten, all notac are lasle, all noubles are larpy, all lasle are notac, no taver are tuvar, all jampful are pagril, all saightner are featter, all swinet are strotten, all totons are kaster, all strotten are jampful, all strotten are notac",
+        "answer": "all panco are totons, all jampful are pagril, all saightner are featter, all larpy are nafle, all pagril are taver, all pigarchs are saightner, all noubles are larpy, all nafle are tuvar, all kaster are noubles, all swinet are strotten, all totons are kaster, all kender are ressore, all insolled are pigarchs, all strotten are jampful, all featter are swinet, no taver are tuvar, all ressore are insolled",
+        "kb_id": "te_L_ds_17"
+      }
+    },
+    "17": {
+      "some vubure are not unogged": {
+        "prediction": "",
+        "answer": "all flinder are intax, all sacar are meadon, all jaster are gacates, all meantail are sacar, all unogged are meantail, no nerkin are stomber, all woter are vubure, all sulpton are jaster, all dotgrin are kneelous, all woter are gliley, all gliley are dotgrin, all gacates are cagbe, all ortfore are flinder, all intax are nerkin, all kneelous are leacuck, all meadon are ortfore, all leacuck are sulpton, all cagbe are stomber",
+        "kb_id": "te_L_ds_11"
+      },
+      "some dopjin are not miniene": {
+        "prediction": "all osict are etchics, all wooson are revome, all miniene are kibcom, all bralletes are wooson, all kibcom are bongler, all huneck are bralletes, all etchics are strutten, all bongler are huneck, all strutten are etchics",
+        "answer": "all wooson are revome, all sheckel are rader, all rader are dopgrin, all miniene are kibcom, all liggle are osict, all bralletes are wooson, all unferns are sheckel, no revome are itedes, all wheting are unferns, all osict are itedes, all kibcom are bongler, all dopgrin are outdoke, all tortret are chimper, all chimper are dopjin, all huneck are bralletes, all liggle are wheting, all bongler are huneck, all outdoke are tortret",
+        "kb_id": "te_L_ds_92"
+      },
+      "some pathe are not pigaste": {
+        "prediction": "all pathe are cralual",
+        "answer": "all luttler are steever, all esdert are hasser, all wadgly are citchgus, all vuther are lankner, all pigaste are esdert, all insodes are quandy, all shisten are wadgly, all nickdalled are stumened, no quandy are citchgus, all cralual are reboon, all pathe are cralual, all tiguse are harge, all lankner are insodes, all steever are shisten, all hasser are luttler, all harge are vuther, all stumened are tiguse, all reboon are nickdalled",
+        "kb_id": "te_L_ds_74"
+      },
+      "some slaret are not unalk": {
+        "prediction": "all kemic are clayon, all vomel are slaret, all dessole are linkack, all crigsams are dessole, all unalk are goncry, all outvyr are sligney, no sligney are dirky, all perely are trotad, all injouse are vomel, all linkack are gonster, all walmly are crigsams, all itends are perely, all trotad are injouse, all gonster are dirky, all clayon are outvyr, all itends are kemic, all goncry are walmly",
+        "answer": "all kemic are clayon, all vomel are slaret, all dessole are linkack, all crigsams are dessole, all unalk are goncry, all outvyr are sligney, all goncry are pambe, no sligney are dirky, all perely are trotad, all injouse are vomel, all linkack are gonster, all walmly are crigsams, all itends are perely, all pambe are walmly, all trotad are injouse, all gonster are dirky, all clayon are outvyr, all itends are kemic",
+        "kb_id": "te_L_ds_1"
+      },
+      "some burser are not flasser": {
+        "prediction": "all adeal are invard, all altired are outdame, all ethel are porbler, no outdame are copines, all pagross are ducket, all porbler are altired, all invard are burser, all wycher are adeal, all thehching are vasten, all edler are priden, all vasten are pagross, all priden are wycher, all ducket are ceasie, all knombee are todust, all knombee are edler, all ceasie are ethel, all todust are copines, all flasser are thetching",
+        "answer": "all adeal are invard, all altired are outdame, all ethel are porbler, no outdame are copines, all pagross are ducket, all porbler are altired, all thetching are vasten, all invard are burser, all wycher are adeal, all edler are priden, all vasten are pagross, all priden are wycher, all ducket are ceasie, all knombee are todust, all knombee are edler, all ceasie are ethel, all todust are copines, all flasser are thetching",
+        "kb_id": "te_L_ds_55"
+      },
+      "some unarked are not cliper": {
+        "prediction": "all unank are jivel, all unarked are jivel, all linser are insort, all cliper are parines, all parines are daople, no grersent are fayure, all neepses are crundle, all daople are unfoints, all mistight are mudal, all mudal are grersent, all jivel are linser, all denend are neepses, all crundle are mistight, all insort are feacher, all feacher are denend, all unfoints are unank",
+        "answer": "all fulind are intax, all unarked are jivel, all linser are insort, all cliper are parines, all parines are daople, all unfoints are fulind, all bennel are fayure, all neepses are crundle, all daople are unfoints, no grersent are fayure, all mistight are mudal, all mudal are grersent, all jivel are linser, all denend are neepses, all intax are bennel, all crundle are mistight, all insort are feacher, all feacher are denend",
+        "kb_id": "te_L_ds_61"
+      },
+      "some nuckby are not injards": {
+        "prediction": "all unrand are sturtude, all grasfine are osict, all ughime are molver, all narore are isin, all molver are pobbit, all insow are weinter, all puder are unrand, all uncing are ughime, all keybum are insow, all pobbit are zapsand, all weinter are mistilled, all osict are narore, all mistilled are ulkter, all injards are sovet, all sovet are keybum, no isin are zapsand, all nuckby are puder, all fumest are grasfine, all ulkter are uncing, all sturtude are fumest",
+        "answer": "all unrand are sturtude, all insow are weinter, all puder are unrand, all grasfine are osict, all injards are sovet, all sovet are keybum, all weinter are meantained, all keybum are insow, all meantained are ughime, all ughime are molver, all narore are isin, all molver are pobbit, all pobbit are zapsand, all sturtude are fumest, all nuckby are puder, all osict are narore, all fumest are grasfine, no isin are zapsand",
+        "kb_id": "te_L_ds_85"
+      },
+      "some conkee are not nycan": {
+        "prediction": "all fouther are spavens, all tudar are conkee, all rescepts are vellays, all spavens are arthome, all grarmon are rescepts, all larcoo are tudar, all elcepts are ucker, no arthome are ucker, all reussed are scratroo, all nycan are reussed, all nikbook are uffide, all rackin are grarmon, all scratroo are nikbook, all elcepts are rackin, all vellays are sonear, all windards are fouther, all uffide are windards, all sonear are larcoo",
+        "answer": "all fouther are spavens, all rescepts are vellays, all uffide are windards, all grarmon are rescepts, all spavens are arthome, all larcoo are tudar, no arthome are ucker, all elpects are rackin, all elpects are ucker, all rackin are grarmon, all nycan are reussed, all reussed are scratroo, all nikbook are uffide, all scratroo are nikbook, all vellays are sonear, all windards are fouther, all tudar are conkee, all sonear are larcoo",
+        "kb_id": "te_L_ds_160"
+      },
+      "some swisge are not sovet": {
+        "prediction": "all unrand are sturtude, all grasfine are osict, all ughime are molver, all narore are isin, all molver are pobbit, all insow are weinter, all puder are unrand, all uncing are ughime, all keybum are insow, all pobbit are zapsand, all weinter are mistilled, all osict are narore, all mistilled are ulkter, all sovet are keybum, no isin are zapsand, all nuckby are puder, all fumest are grasfine, all ulkter are uncing, all nuckby are swisge, all sturtude are fumest",
+        "answer": "all unrand are sturtude, all insow are weinter, all puder are unrand, all grasfine are osict, all sovet are keybum, all weinter are meantained, all meantained are ughime, all keybum are insow, all ughime are molver, all narore are isin, all molver are pobbit, all pobbit are zapsand, all nuckby are swisge, all sturtude are fumest, all nuckby are puder, all osict are narore, all fumest are grasfine, no isin are zapsand",
+        "kb_id": "te_L_ds_85"
+      },
+      "some octire are not neason": {
+        "prediction": "all itey are tymper, all octire are elsky, all sarthner are itey, all tuty are unange, all herble are onneen, all neason are uptien, all onneen are onkle, all elsky are herble, no unange are batbe, all tymper are sabbil, all center are sarthner, all sabbil are banbe, all tarlon are tuty, all onkle are tarlon, all uptien are akyss, all akyss are center",
+        "answer": "all itey are tymper, all octire are elsky, all sarthner are itey, all tuty are unange, all guffen are batbe, all herble are onneen, all neason are uptien, all onneen are onkle, all elsky are herble, no unange are batbe, all tymper are sabbil, all center are sarthner, all sabbil are banbe, all banbe are guffen, all tarlon are tuty, all onkle are tarlon, all uptien are akyss, all akyss are center",
+        "kb_id": "te_L_ds_62"
+      },
+      "some crarnon are not altired": {
+        "prediction": "all plessboard are venier, all carriel are dirtor, all dirtor are ginnaffe, all dirtor are paiwore, all altired are hidmet, all brolules are dirtor, all perthfe are plessboard, all barsho are shoggle, all shoggle are sardner, all ginnaffe are carriel, all perthfe are brolules, all venier are barsho, no strinet are paiwore, all sardner are crarnon",
+        "answer": "all plessboard are venier, all uglent are plessboard, all hidmet are orfon, all uglent are hyplied, all shoggle are sardner, all altired are hidmet, all barsho are shoggle, all brolules are dirtor, all dirtor are paiwore, all hyplied are pasares, all lainle are strinet, all venier are barsho, all perthfe are brolules, no strinet are paiwore, all sardner are crarnon, all orfon are perthfe, all pasares are grasgine, all grasgine are lainle",
+        "kb_id": "te_L_ds_79"
+      },
+      "some farlan are not bumder": {
+        "prediction": "all totet are pullnic, all tecky are busty, all rirbe are torebit, all busty are renoot, all weber are rirbe, all liseduid are holens, all necklork are huneck, all alras are farlan, all renoot are necklork, all sturtup are weber, no deanes are torebit, all pullnic are tecky, all holens are sturtup, some alras are not inwant, all bumder are totet, all texon are liseduid, all huneck are deanes",
+        "answer": "all notame are alras, all huneck are deanes, all totet are pullnic, all rirbe are torebit, all tecky are busty, all weber are rirbe, all busty are renoot, all liseduid are holens, all necklork are huneck, all alras are farlan, all renoot are necklork, no deanes are torebit, all pullnic are tecky, all texon are notame, all holens are sturtup, all bumder are totet, all texon are liseduid, all sturtup are weber",
+        "kb_id": "te_L_ds_198"
+      }
+    },
+    "18": {
+      "some swisge are not injards": {
+        "prediction": "all unrand are sturtude, all grasfine are osict, all ughime are molver, all narore are isin, all molver are pobbit, all insow are weinter, all puder are unrand, all uncing are ughime, all keybum are insow, all pobbit are zapsand, all weinter are mistilled, all osict are narore, all mistilled are ulkter, all injards are sovet, all sovet are keybum, no isin are zapsand, all nuckby are puder, all fumest are grasfine, all ulkter are uncing, all nuckby are swisge, all sturtude are fumest",
+        "answer": "all unrand are sturtude, all grasfine are osict, all ughime are molver, all narore are isin, all molver are pobbit, all insow are weinter, all puder are unrand, all weinter are meantained, all keybum are insow, all pobbit are zapsand, all osict are narore, all injards are sovet, all sovet are keybum, all meantained are ughime, no isin are zapsand, all nuckby are puder, all fumest are grasfine, all nuckby are swisge, all sturtude are fumest",
+        "kb_id": "te_L_ds_85"
+      },
+      "some knoshood are not bonler": {
+        "prediction": "all reseet are raber, all soxer are byrer, all coatter are knoshood, all hightmet are ravays, all acells are pidefic, all scenays are hightmet, all acells are coatter, all lenchem are acells, all jevel are onnoon, all groyy are foutter, all bonler are nilebook, all nilebook are nispy, all hagner are relok, some coatter are not groyy, all foutter are lenchem, all byrer are reseet, all nispy are fotter, no onnoon are relok, all fotter are soxer, all raber are unhence, all ravays are hagner, all pidefic are scenays, all unhence are jevel",
+        "answer": "all reseet are raber, all soxer are byrer, all coatter are knoshood, all hightmet are ravays, all acells are pidefic, all scenays are hightmet, all acells are coatter, all jevel are onnoon, all bonler are nilebook, all nilebook are nispy, all hagner are relok, all byrer are reseet, all nispy are fotter, no onnoon are relok, all fotter are soxer, all raber are unhence, all ravays are hagner, all pidefic are scenays, all unhence are jevel",
+        "kb_id": "te_L_ds_63"
+      },
+      "some insops are not whocking": {
+        "prediction": "all ebso are deates, all whocking are ebso",
+        "answer": "all whocking are ebso, all somfe are pilelled, all ebso are deates, all phombee are larset, all husy are goursy, all ragar are lechep, all goursy are mailbern, no brostice are wifce, all mailbern are phombee, all taitcher are husy, all invare are weier, all lechep are somfe, all insops are invare, all larset are neckel, all weier are avasm, all pilelled are wifce, all avasm are ragar, all neckel are brostice, all deates are taitcher",
+        "kb_id": "te_L_ds_53"
+      },
+      "some naloan are not nusmeld": {
+        "prediction": "all jarker are sizy, all measin are pandot, all jarmful are ursey, all efry are utget, all ursey are ebbo, all wifed are nicknict, no forgake are sizy, all nigny are jarmful, all phompie are fracker, all hagner are hubbly, all hubbly are nigny, all utget are wifed, all fracker are nigny, all naloan are oldstord, all wifed are efry, all nigny are hagner, all pandot are wifed, all nusmeld are phompie, all anthar are mastens, all ebbo are anthar, all nicknict are naloan, all mastens are jarker, all oldstord are measin",
+        "answer": "all jarker are sizy, all jarmful are ursey, all wifed are nicknict, all ursey are ebbo, no forgake are sizy, all estide are hupland, all nigny are jarmful, all phompie are fracker, all hupland are oryles, all wenner are estide, all oryles are utget, all utget are wifed, all fracker are nigny, all nusmeld are phompie, all anthar are mastens, all wenner are forgake, all nicknict are naloan, all ebbo are anthar, all mastens are jarker",
+        "kb_id": "te_L_ds_88"
+      },
+      "some crarnon are not bardails": {
+        "prediction": "all plessboard are venier, all carriel are dirtor, all dirtor are ginnaffe, all bardails are altired, all dirtor are paiwore, all altired are hidmet, all brolules are dirtor, all perthfe are plessboard, all barsho are shoggle, all shoggle are sardner, all ginnaffe are carriel, all perthfe are brolules, all venier are barsho, no strinet are paiwore, all sardner are crarnon",
+        "answer": "all hidmet are orfon, all dirtor are paiwore, all lainle are strinet, all perthfe are brolules, no strinet are paiwore, all sardner are crarnon, all uglent are hyplied, all pasares are grasgine, all shoggle are sardner, all altired are hidmet, all brolules are dirtor, all hyplied are pasares, all orfon are perthfe, all plessboard are venier, all uglent are plessboard, all bardails are altired, all barsho are shoggle, all venier are barsho, all grasgine are lainle",
+        "kb_id": "te_L_ds_79"
+      },
+      "some skammer are not walyat": {
+        "prediction": "all flinder are intax, all gacates are cagbe, all intax are nerkin, all meadon are ortfore, all skammer are unogged, all jaster are gacates, all unogged are meantail, all sulpton are jaster, all ortfore are flinder, all woter are gliley, all cagbe are stomber, all muttle are skammer, all sacar are meadon, all meantail are sacar, no nerkin are stomber, all walyat are woter, all dotgrin are kneelous, all gliley are dotgrin, all leacuck are sulpton, all kneelous are leacuck",
+        "answer": "all flinder are intax, all gacates are cagbe, all intax are nerkin, all meadon are ortfore, all skammer are unogged, all jaster are gacates, all unogged are meantail, all sulpton are jaster, all ortfore are flinder, all woter are gliley, all cagbe are stomber, all sacar are meadon, all meantail are sacar, no nerkin are stomber, all walyat are woter, all dotgrin are kneelous, all gliley are dotgrin, all leacuck are sulpton, all kneelous are leacuck",
+        "kb_id": "te_L_ds_11"
+      },
+      "some scrinet are not altired": {
+        "prediction": "all plessboard are venier, all carriel are dirtor, all dirtor are ginnaffe, all crarnon are scrinet, all dirtor are paiwore, all altired are hidmet, all brolules are dirtor, all perthfe are plessboard, all barsho are shoggle, all shoggle are sardner, all ginnaffe are carriel, all perthfe are brolules, all venier are barsho, no strinet are paiwore, all sardner are crarnon",
+        "answer": "all hidmet are orfon, all dirtor are paiwore, all lainle are strinet, all perthfe are brolules, no strinet are paiwore, all sardner are crarnon, all uglent are hyplied, all pasares are grasgine, all shoggle are sardner, all altired are hidmet, all brolules are dirtor, all hyplied are pasares, all orfon are perthfe, all crarnon are scrinet, all plessboard are venier, all uglent are plessboard, all barsho are shoggle, all venier are barsho, all grasgine are lainle",
+        "kb_id": "te_L_ds_79"
+      },
+      "some oldstord are not phompie": {
+        "prediction": "all jarker are sizy, all measin are pandot, all jarmful are ursey, all ursey are ebbo, all wifed are nicknict, all efry are oryles, all nigny are jarmful, all phompie are fracker, all oryles are utget, all utget are wifed, all fracker are nigny, all naloan are oldstord, all wifed are efry, all pandot are wifed, all anthar are mastens, all ebbo are anthar, all nicknict are naloan, all mastens are jarker, all oldstord are measin",
+        "answer": "all jarker are sizy, all jarmful are ursey, all wifed are nicknict, all ursey are ebbo, no forgake are sizy, all estide are hupland, all nigny are jarmful, all phompie are fracker, all hupland are oryles, all wenner are estide, all oryles are utget, all utget are wifed, all fracker are nigny, all naloan are oldstord, all anthar are mastens, all wenner are forgake, all nicknict are naloan, all ebbo are anthar, all mastens are jarker",
+        "kb_id": "te_L_ds_88"
+      },
+      "some rackin are not unarked": {
+        "prediction": "all unank are jivel, all daople are avaths, all unarked are jivel, all linser are insort, all ganlide are rackin, no grersent are fayure, all avaths are ganlide, all neepses are crundle, all daople are unfoints, all mistight are mudal, all mudal are grersent, all jivel are linser, all denend are neepses, all crundle are mistight, all insort are feacher, all feacher are denend, all unfoints are unank",
+        "answer": "all unfoints are fulind, all linser are insort, all mistight are mudal, all fulind are intax, all daople are unfoints, all crundle are mistight, all feacher are denend, all ganlide are rackin, all unarked are jivel, no grersent are fayure, all mudal are grersent, all intax are bennel, all insort are feacher, all daople are avaths, all bennel are fayure, all neepses are crundle, all jivel are linser, all denend are neepses, all avaths are ganlide",
+        "kb_id": "te_L_ds_61"
+      },
+      "some unarked are not lister": {
+        "prediction": "all unank are jivel, all unarked are jivel, all linser are insort, all cliper are parines, all parines are daople, no grersent are fayure, all lister are cliper, all neepses are crundle, all daople are unfoints, all mistight are mudal, all mudal are grersent, all jivel are linser, all denend are neepses, all crundle are mistight, all insort are feacher, all feacher are denend, all unfoints are unank",
+        "answer": "all parines are daople, all linser are insort, all unfoints are fulind, all lister are cliper, all mistight are mudal, all fulind are intax, all daople are unfoints, all crundle are mistight, all feacher are denend, all unarked are jivel, no grersent are fayure, all mudal are grersent, all intax are bennel, all insort are feacher, all cliper are parines, all bennel are fayure, all neepses are crundle, all jivel are linser, all denend are neepses",
+        "kb_id": "te_L_ds_61"
+      },
+      "some jondor are not keybum": {
+        "prediction": "all unrand are sturtude, all grasfine are osict, all ughime are molver, all swisge are braker, all narore are isin, all molver are pobbit, all insow are weinter, all puder are unrand, all uncing are ughime, all keybum are insow, all pobbit are zapsand, all weinter are mistilled, all osict are narore, all mistilled are ulkter, no isin are zapsand, all nuckby are puder, all fumest are grasfine, all ulkter are uncing, all nuckby are swisge, all braker are jondor, all sturtude are fumest",
+        "answer": "all unrand are sturtude, all grasfine are osict, all ughime are molver, all swisge are braker, all narore are isin, all molver are pobbit, all insow are weinter, all puder are unrand, all weinter are meantained, all keybum are insow, all pobbit are zapsand, all osict are narore, all meantained are ughime, no isin are zapsand, all nuckby are puder, all fumest are grasfine, all nuckby are swisge, all braker are jondor, all sturtude are fumest",
+        "kb_id": "te_L_ds_85"
+      },
+      "some dopjin are not unpom": {
+        "prediction": "all osict are etchics, all wooson are revome, all miniene are kibcom, all bralletes are wooson, all kibcom are bongler, all huneck are bralletes, all etchics are strutten, all unpom are miniene, all bongler are huneck, all strutten are etchics, all strutten are etch",
+        "answer": "all sheckel are rader, no revome are itedes, all bralletes are wooson, all kibcom are bongler, all tortret are chimper, all unpom are miniene, all wooson are revome, all osict are itedes, all dopgrin are outdoke, all liggle are wheting, all outdoke are tortret, all unferns are sheckel, all wheting are unferns, all chimper are dopjin, all huneck are bralletes, all bongler are huneck, all rader are dopgrin, all miniene are kibcom, all liggle are osict",
+        "kb_id": "te_L_ds_92"
+      }
+    },
+    "19": {
+      "some crarnon are not lonines": {
+        "prediction": "all lonines are bardails, all carriel are dirtor, all plessboard are venier, all dirtor are ginnaffe, all bardails are altired, all dirtor are paiwore, all altired are hidmet, all brolules are dirtor, all perthfe are plessboard, all barsho are shoggle, all shoggle are sardner, all ginnaffe are carriel, all perthfe are brolules, all venier are barsho, no strinet are paiwore, all sardner are crarnon",
+        "answer": "all hidmet are orfon, all dirtor are paiwore, all lainle are strinet, all perthfe are brolules, no strinet are paiwore, all sardner are crarnon, all uglent are hyplied, all pasares are grasgine, all lonines are bardails, all shoggle are sardner, all altired are hidmet, all brolules are dirtor, all hyplied are pasares, all orfon are perthfe, all plessboard are venier, all uglent are plessboard, all bardails are altired, all barsho are shoggle, all venier are barsho, all grasgine are lainle",
+        "kb_id": "te_L_ds_79"
+      },
+      "some jitet are not dicket": {
+        "prediction": "all vabueads are peaboot, all dicket are falder, all glicker are jitet, all anflar are stuber, all zenald are bardained, all pengol are ulnate, all dester are orfins, all navre are pengol, all falder are navre, all favis are vabueads, all stuber are dalates, all bardained are upbrat, all orfins are favis, all ulnate are naler, all dalates are glicker, all peaboot are daver, all anflar are dester, all upbrat are hisey, all naler are zenald",
+        "answer": "all vabueads are peaboot, all dicket are falder, all glicker are jitet, no daver are hisey, all anflar are stuber, all zenald are bardained, all pengol are ulnate, all dester are orfins, all navre are pengol, all falder are navre, all favis are vabueads, all stuber are dalates, all bardained are upbrat, all orfins are favis, all ulnate are naler, all dalates are glicker, all peaboot are daver, all anflar are dester, all upbrat are hisey, all naler are zenald",
+        "kb_id": "te_L_ds_83"
+      },
+      "some chimper are not injard": {
+        "prediction": "all osict are etchics, all wooson are revome, all nawed are unpom, all miniene are kibcom, all bralletes are wooson, all kibcom are bongler, all injard are nawed, all huneck are bralletes, all etchics are strutten, all unpom are miniene, all bongler are huneck, all strutten are etchics",
+        "answer": "all sheckel are rader, no revome are itedes, all nawed are unpom, all bralletes are wooson, all kibcom are bongler, all tortret are chimper, all unpom are miniene, all wooson are revome, all osict are itedes, all dopgrin are outdoke, all liggle are wheting, all outdoke are tortret, all unferns are sheckel, all wheting are unferns, all huneck are bralletes, all bongler are huneck, all rader are dopgrin, all miniene are kibcom, all liggle are osict, all injard are nawed",
+        "kb_id": "te_L_ds_92"
+      },
+      "some nolun are not crotet": {
+        "prediction": "all lyber are croolous, some widing are not stuver, all juttle are lyrelet, all lyrelet are paiwond, all crotet are lyber, all barmer are juttle, all unanks are insolled, all widing are barmer, all croolous are unanks, all insolled are stuver, all paiwond are metcher, all metcher are nolun",
+        "answer": "all outgrat are dester, all carrets are estics, all crotet are lyber, all crostice are acsey, all paiwond are metcher, all lyrelet are paiwond, all acsey are butbe, all dester are teaster, all insolled are stuver, all metcher are nolun, all outgrat are laplet, all juttle are lyrelet, all barmer are juttle, all unanks are insolled, all lyber are croolous, no estics are teaster, all stuver are carrets, all croolous are unanks, all laplet are crostice, all butbe are barmer",
+        "kb_id": "te_L_ds_9"
+      },
+      "some warblen are not flasser": {
+        "prediction": "all adeal are invard, no outdame are copines, all ethel are porbler, all pagross are ducket, all burser are pagar, all invard are burser, all wycher are adeal, all knombee are todust, all ceasie are ethel, all pagar are warblen, all edler are priden, all vasten are pagross, all flasser are thetching, all altired are outdame, all porbler are altired, all thehching are vasten, all priden are wycher, all ducket are ceasie, all knombee are edler, all todust are copines",
+        "answer": "all adeal are invard, no outdame are copines, all ethel are porbler, all pagross are ducket, all burser are pagar, all invard are burser, all wycher are adeal, all knombee are todust, all ceasie are ethel, all pagar are warblen, all thetching are vasten, all edler are priden, all vasten are pagross, all flasser are thetching, all altired are outdame, all porbler are altired, all priden are wycher, all ducket are ceasie, all knombee are edler, all todust are copines",
+        "kb_id": "te_L_ds_55"
+      },
+      "some scrinet are not bardails": {
+        "prediction": "all plessboard are venier, all carriel are dirtor, all crarnon are scrinet, all dirtor are ginnaffe, all bardails are altired, all dirtor are paiwore, all altired are hidmet, all brolules are dirtor, all perthfe are plessboard, all barsho are shoggle, all shoggle are sardner, all ginnaffe are carriel, all perthfe are brolules, all venier are barsho, no strinet are paiwore, all sardner are crarnon",
+        "answer": "all hidmet are orfon, all dirtor are paiwore, all lainle are strinet, all perthfe are brolules, no strinet are paiwore, all sardner are crarnon, all uglent are hyplied, all pasares are grasgine, all shoggle are sardner, all altired are hidmet, all brolules are dirtor, all hyplied are pasares, all orfon are perthfe, all crarnon are scrinet, all plessboard are venier, all uglent are plessboard, all bardails are altired, all barsho are shoggle, all venier are barsho, all grasgine are lainle",
+        "kb_id": "te_L_ds_79"
+      },
+      "some arbel are not voster": {
+        "prediction": "all tyncher are shuneer, all intust are pethfe, all voster are incerts, all dessolls are arbel, all weger are matroves, all intust are weger, all dirtry are upprime, all crugging are dirtry, all shuneer are hydrone, all purpon are dessolls, all hydrone are outvur, all incerts are crugging, all upprime are tyncher, all matroves are purpon, no haggler are outvur",
+        "answer": "all safener are haggler, all dessolls are arbel, all langer are ritchon, all matroves are purpon, all voster are incerts, all dirtry are upprime, all smulling are intust, all weger are matroves, all intust are weger, all purpon are dessolls, all crugging are dirtry, all shuneer are hydrone, all hydrone are outvur, all tyncher are shuneer, all upprime are tyncher, no haggler are outvur, all ritchon are tambler, all tambler are smulling, all incerts are crugging, all safener are langer",
+        "kb_id": "te_L_ds_5"
+      },
+      "some taitcher are not sloyboard": {
+        "prediction": "all fecky are not leapit, all pracken are fellon, all fecky are narpen, all fasget are aphiss, all tacler are pracken, all leapit are taitcher, all sendour are tacler, all sloyboard are fasget, no narpen are fellon, all zender are budde, all budde are sendour, all aphiss are zender",
+        "answer": "all leapit are taitcher, all selger are fracker, all zender are budde, all pracken are fellon, all fecky are narpen, all fracker are outvur, all tacler are pracken, all aphiss are zender, all milray are leapit, all ulber are milray, all selger are jenocks, all waily are ulktul, all sloyboard are fasget, all ulktul are fecky, no narpen are fellon, all budde are sendour, all fasget are aphiss, all outvur are ulber, all jenocks are waily, all sendour are tacler",
+        "kb_id": "te_L_ds_34"
+      }
+    }
+  }
+}
