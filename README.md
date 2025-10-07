@@ -1,2 +1,2 @@
-# MIND
-Code for the paper "A MIND for Reasoning: Meta-learning for In-context Deduction"
+# Meta-Learning Logic
+Code for the paper "Teaching Small Language Models to Learn Logic through Meta-Learning"
