@@ -96,13 +96,13 @@ This work is licensed under a [CC BY-SA 4.0 License](https://creativecommons.org
 
 If you find our work helpful, you can cite this paper as:
 ```
-@misc{bertolazzi-et-al-2025-mind,
-      title={A MIND for Reasoning: Meta-learning for In-context Deduction}, 
-      author={Leonardo Bertolazzi and Manuel Vargas Guzmán and Raffaella Bernardi and Maciej Malicki and Jakub Szymanik},
-      year={2025},
-      eprint={2505.14313},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2505.14313}, 
+@misc{bertolazzi2025teachingsmalllanguagemodels,
+    title={Teaching Small Language Models to Learn Logic through Meta-Learning}, 
+    author={Leonardo Bertolazzi and Manuel Vargas Guzmán and Raffaella Bernardi and Maciej Malicki and Jakub Szymanik},
+    year={2025},
+    eprint={2505.14313},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL},
+    url={https://arxiv.org/abs/2505.14313}, 
 }
 ```
