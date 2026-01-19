@@ -13,6 +13,7 @@ from datasets import Dataset
 from openai import AzureOpenAI
 
 from dataset import get_dataset
+from prompts import get_system_prompt
 from utils import (
     evaluate_model_output,
     set_seed,
@@ -110,30 +111,8 @@ def setup_args() -> argparse.Namespace:
     if args.simple_corpus:
         args.model_name += "_simple"
 
-    # System prompt
-    if args.dataset == "meta":
-        args.system = (
-            "You are tasked with logical premise selection. Given:\n"
-            "1. A knowledge base consisting of premises.\n"
-            "2. Example hypotheses along with their correct minimal premise sets, preceded by the token <STUDY>.\n"
-            "3. A query hypothesis to solve, preceded by the token <QUERY>.\n\n"
-            "Your task is to identify the unique minimal set of premises from the knowledge base that logically proves the query hypothesis. "
-            "Since the knowledge base is non-redundant, every valid hypothesis has exactly one minimal set of premises that proves it.\n\n"
-            "Examine the provided examples carefully to understand how to select the correct minimal set of premises. "
-            "The examples demonstrate correct premise selections for various hypotheses.\n\n"
-            "Provide your answer in exactly this format:\n"
-            "### Answer: premise1, premise2, ..., premiseN"
-        )
-    elif args.dataset == "base":
-        args.system = (
-            "You are tasked with logical premise selection. Given:\n"
-            "1. A knowledge base consisting of premises.\n"
-            "2. A query hypothesis to solve, preceded by the token <QUERY>.\n\n"
-            "Your task is to identify the unique minimal set of premises from the knowledge base that logically proves the query hypothesis. "
-            "Since the knowledge base is non-redundant, every valid hypothesis has exactly one minimal set of premises that proves it.\n\n"
-            "Provide your answer in exactly this format:\n"
-            "### Answer: premise1, premise2, ..., premiseN"
-        )
+    # System prompt (shared with local prompting baselines)
+    args.system = get_system_prompt(args.dataset)
 
     return args
 

@@ -4,15 +4,16 @@ import logging
 from collections import defaultdict
 import re
 import json
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Iterator
 
 import numpy as np
 import torch
 from tqdm import tqdm
 from datasets import Dataset
-from transformers import AutoTokenizer
+from transformers import AutoTokenizer, AutoModelForCausalLM
 
 from dataset import get_dataset
+from prompts import get_system_prompt
 from utils import (
   load_best_trained_model,
   get_model_id,
@@ -56,8 +57,8 @@ def setup_args() -> argparse.Namespace:
         "--ft_type",
         type=str,
         default="full",
-        choices=["full", "lora"],
-        help="Type of fine-tuning performed (full or lora)."
+        choices=["full", "lora", "none"],
+        help="Type of fine-tuning performed (full, lora, or none)."
     )
     parser.add_argument(
         "--test_model_type",
@@ -132,6 +133,9 @@ def setup_args() -> argparse.Namespace:
         args.model_name += "_simple"
     if args.subsample_train:
         args.model_name += f"_{args.subsample_train}"
+
+    # System prompt used when ft_type == "none"
+    args.system = get_system_prompt(args.dataset)
     
     return args
 
@@ -161,7 +165,7 @@ def save_results(
         f.write(f"{args.model},{args.seed},{args.subsample_train},{args.test_type},{args.ft_type},{args.test_model_type},{args.dataset},{values}\n")
 
 
-def batches(lst: List[Any], n: int) -> List[Any]:
+def batches(lst: List[Any], n: int) -> Iterator[List[Any]]:
     """Yield successive n-sized batches from lst.
     
     Args:
@@ -193,7 +197,7 @@ def get_model_predictions(
     Returns:
         List of decoded model outputs as strings
     """
-    inputs =tokenizer(
+    inputs = tokenizer(
         batch["input"],
         return_tensors="pt",
         padding=True,
@@ -211,6 +215,54 @@ def get_model_predictions(
     # Extract and decode model outputs
     generated_texts = tokenizer.batch_decode(outputs, skip_special_tokens=True)
     return generated_texts
+
+
+@torch.inference_mode()
+def get_model_completions_from_prompts(
+    model: Any,
+    tokenizer: Any,
+    prompts: List[str],
+    max_new_tokens: int,
+) -> List[str]:
+    """Generate completion for each prompt.
+
+    Args:
+        model: The pretrained model to use for inference.
+        tokenizer: Tokenizer for processing input prompts.
+        prompts: Fully rendered prompts (including system + user content).
+        max_new_tokens: Maximum number of new tokens to generate.
+
+    Returns:
+        List of decoded model completions as strings.
+
+    Raises:
+        ValueError: If the tokenizer does not return an attention mask.
+    """
+    inputs = tokenizer(
+        prompts,
+        return_tensors="pt",
+        padding=True,
+        truncation=True,
+    ).to(model.device)
+
+    outputs = model.generate(
+        **inputs,
+        do_sample=False,
+        num_beams=1,
+        max_new_tokens=max_new_tokens,
+        pad_token_id=tokenizer.eos_token_id,
+    )
+
+    attn = inputs.get("attention_mask")
+    if attn is None:
+        raise ValueError("Expected tokenizer to return 'attention_mask' for completion slicing")
+
+    completions: List[str] = []
+    for i in range(outputs.shape[0]):
+        prompt_len = int(attn[i].sum().item())
+        completion_ids = outputs[i, prompt_len:]
+        completions.append(tokenizer.decode(completion_ids, skip_special_tokens=True))
+    return completions
 
 
 def extract_predictions(
@@ -234,12 +286,78 @@ def extract_predictions(
         if query in text:
             pred = text.split(query+", premises: ")[-1]
             pred = pred.split(" <STOP>")[0].strip()
-            if args.model_type == "base" and args.dataset == "meta":
+            if args.test_model_type == "base" and args.dataset == "meta":
                 pred = pred.split(";")[0].strip()
         else:
             logging.warning(f"Query '{query}' not found in model output: '{text}'")
         preds.append(pred)
     return preds
+
+
+def build_prompts_for_batch(
+    batch: Dict[str, List],
+    args: argparse.Namespace,
+    tokenizer: Any,
+) -> List[str]:
+    """Build prompts for the non-fine-tuned baseline model.
+
+    Args:
+        batch: Batch dictionary from the HuggingFace Dataset.
+        args: Runtime arguments.
+        tokenizer: Tokenizer used to render the chat template.
+
+    Returns:
+        List of rendered prompts (strings) matching the API experiment format.
+
+    Raises:
+        ValueError: If the tokenizer does not support chat template rendering.
+    """
+    system = args.system
+
+    if not hasattr(tokenizer, "apply_chat_template"):
+        raise ValueError(
+            "Expected a chat model tokenizer with apply_chat_template()"
+        )
+
+    prompts: List[str] = []
+    for user_content in batch["input"]:
+        messages = [
+            {"role": "system", "content": system},
+            {"role": "user", "content": user_content},
+        ]
+        prompt = tokenizer.apply_chat_template(
+            messages,
+            tokenize=False,
+            add_generation_prompt=True,
+        )
+        prompts.append(prompt)
+
+    return prompts
+
+
+def extract_predictions_from_prompted_model(texts: List[str]) -> List[str]:
+    """Extract predictions from the answer format of a prompted model.
+
+    Expected format:
+        "### Answer: premise1, premise2, ..., premiseN"
+
+    Args:
+        texts: Model outputs/completions.
+
+    Returns:
+        List of cleaned prediction strings.
+    """
+    preds: List[str] = []
+    for text in texts:
+        lower = text.lower()
+        if "### answer: " in lower:
+            pred = lower.split("### answer: ")[-1].strip()
+        else:
+            logging.warning(f"Anwer format not found in model output: '{text}'")
+            pred = lower
+        preds.append(pred)
+    return preds
+
 
 def process_ground_truth(
     outputs: List[str],
@@ -429,8 +547,13 @@ def test_loop(
 
     for batch in tqdm(batches(test_data, args.batch_size), desc="Test", leave=False, total=len(test_data)//args.batch_size):
         # Get model predictions
-        texts = get_model_predictions(model, tokenizer, batch, args.max_new_tokens)
-        preds = extract_predictions(texts, batch["query_hyp"], args)
+        if args.ft_type == "none":
+            prompts = build_prompts_for_batch(batch, args, tokenizer)
+            completions = get_model_completions_from_prompts(model, tokenizer, prompts, args.max_new_tokens)
+            preds = extract_predictions_from_prompted_model(completions)
+        else:
+            texts = get_model_predictions(model, tokenizer, batch, args.max_new_tokens)
+            preds = extract_predictions(texts, batch["query_hyp"], args)
         
         # Process ground truth and calculate accuracies
         y_trues = process_ground_truth(batch["output"])
@@ -475,7 +598,7 @@ def main(args: argparse.Namespace) -> None:
         print_info=False
     )
         
-    # Load tokenizer and Model
+    # Load tokenizer
     tokenizer = AutoTokenizer.from_pretrained(
         args.model_id,
         cache_dir=args.cache_dir,
@@ -484,7 +607,26 @@ def main(args: argparse.Namespace) -> None:
         use_fast=True
     )
     tokenizer.pad_token = tokenizer.eos_token
-    model = load_best_trained_model(model_id=args.model_id, model_name=args.model_name, cache_dir=args.cache_dir, save_model_dir=args.save_model_dir, device=args.device, ft_type=args.ft_type)
+
+    # Load model
+    if args.ft_type == "none":
+        model = AutoModelForCausalLM.from_pretrained(
+            args.model_id,
+            cache_dir=args.cache_dir,
+            trust_remote_code=True,
+            attn_implementation="eager",
+        )
+        model.to(args.device)
+        model.eval()
+    else:
+        model = load_best_trained_model(
+            model_id=args.model_id,
+            model_name=args.model_name,
+            cache_dir=args.cache_dir,
+            save_model_dir=args.save_model_dir,
+            device=args.device,
+            ft_type=args.ft_type,
+        )
     # Test step
     accuracy_dict = test_loop(model, tokenizer, test, args)
     # Save results

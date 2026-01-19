@@ -31,15 +31,7 @@ def get_dataset(
     """
 
     # Load and filter data
-    data_files = {
-        "train": "train.csv",
-        "validation": "validation.csv",
-        "test": "test.csv",
-        "test_ood_constants": "test_ood_constants.csv",
-        "test_ood_support": "test_ood_support.csv",
-        "test_ood_words": "test_ood_words.csv",
-    }
-    full_data = load_dataset("leobertolazzi/syllogistic-logic", data_files=data_files)
+    full_data = load_dataset("leobertolazzi/syllogistic-logic")
 
     train_df = full_data["train"].to_pandas()
     dev_df = full_data["validation"].to_pandas()

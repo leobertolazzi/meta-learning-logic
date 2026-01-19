@@ -472,7 +472,7 @@ def core_generalization_table(
         
         aggregated = aggregated[aggregated['test_type'] == 'normal']
         aggregated = aggregated[(aggregated['type_x_len_samples'] == str(type_x_len)) | (aggregated['type_x_len_samples'] == "-")]
-        aggregated = aggregated.drop(columns=['type_x_len_samples', 'test_type', 'ft_type'])
+        aggregated = aggregated.drop(columns=['type_x_len_samples', 'test_type'])
 
         return aggregated
 
@@ -495,54 +495,79 @@ def core_generalization_table(
     print(f"{'Model':<12} {'Type':<20} {'All':<20} {'Short':<20} {'Long':<20}")
     print("-" * 95)
 
+    def _format_mean_std(mean: float, std: float) -> str:
+        return f"{mean:.2f}" if pd.isna(std) else f"{mean:.2f} ± {std:.2f}"
+
+    def _format_stat(df: pd.DataFrame, metric: str = 'accuracy') -> str:
+        if df.empty:
+            return "N/A"
+        mean = df[metric].mean()
+        std = df[metric].std()
+        return _format_mean_std(mean, std)
+
+    def _filter_setting(
+        df: pd.DataFrame,
+        model: str,
+        model_type: str,
+        dataset: str,
+        ft_type=None,
+        test_type: str = 'normal'
+    ) -> pd.DataFrame:
+        out = df[
+            (df['model'] == model) &
+            (df['model_type'] == model_type) &
+            (df['dataset'] == dataset) &
+            ((df['type_x_len_samples'] == str(type_x_len_samples)) | (df['type_x_len_samples'] == "-")) &
+            (df['test_type'] == test_type)
+        ]
+        if ft_type is not None:
+            out = out[out['ft_type'] == ft_type]
+        return out
+
     models = sorted(core_df['model'].unique())
-    combinations = [('base', 'base'), ('meta', 'meta'), ('base', 'meta')]
     for model in models:
-        for model_type, dataset in combinations:
-            if model in ['o3-mini', 'gpt-4o']:
-                type_name = f"{'Few-shot' if model_type == 'meta' else 'Zero-shot'} on {dataset.capitalize()}"
-            else:
-                type_name = f"{'ML' if model_type == 'meta' else 'Baseline'} on {dataset.capitalize()}"
-            row = [model, type_name]
-            
-            # All lengths (original accuracy)
-            df = core_df[
-                (core_df['model'] == model) &
-                (core_df['model_type'] == model_type) &
-                (core_df['dataset'] == dataset) &
-                ((core_df['type_x_len_samples'] == str(type_x_len_samples)) | 
-                    (core_df['type_x_len_samples'] == "-")) &
-                (core_df['test_type'] == 'normal')
+        if model.startswith('qwen'):
+            row_specs = [
+                {'model_type': 'base', 'dataset': 'base', 'ft_type': 'lora', 'label': 'Baseline on Base'},
+                {'model_type': 'meta', 'dataset': 'meta', 'ft_type': 'lora', 'label': 'ML on Meta'},
+                {'model_type': 'base', 'dataset': 'meta', 'ft_type': 'lora', 'label': 'Baseline on Meta'},
+                {'model_type': 'base', 'dataset': 'meta', 'ft_type': 'none', 'label': 'Few-shot on Meta'},
             ]
-            if df.empty:
-                all_stat = "N/A"
-            else:
-                mean = df['accuracy'].mean()
-                std = df['accuracy'].std()
-                all_stat = f"{mean:.2f}" if pd.isna(std) else f"{mean:.2f} ± {std:.2f}"
-            row.append(all_stat)
-            
-            # Short and Long from aggregated data
+        else: # model in ['o3-mini', 'gpt-4o']
+            row_specs = [
+                {'model_type': 'base', 'dataset': 'base', 'ft_type': None, 'label': 'Zero-shot on Base'},
+                {'model_type': 'meta', 'dataset': 'meta', 'ft_type': None, 'label': 'Few-shot on Meta'},
+            ]            
+
+        for spec in row_specs:
+            model_type = spec['model_type']
+            dataset = spec['dataset']
+            ft_type = spec['ft_type']
+            type_name = spec['label']
+            row = [model, type_name]
+
+            df_setting = _filter_setting(core_df, model, model_type, dataset, ft_type, test_type='normal')
+            row.append(_format_stat(df_setting, metric='accuracy'))
+
             agg_df = aggregated_df[
                 (aggregated_df['model'] == model) &
                 (aggregated_df['model_type'] == model_type) &
                 (aggregated_df['dataset'] == dataset)
             ]
-            
+            if ft_type is not None:
+                agg_df = agg_df[agg_df['ft_type'] == ft_type]
+
             if agg_df.empty:
                 short_stat = "N/A"
                 long_stat = "N/A"
             else:
-                # Short
                 short_mean = agg_df['all_types_short_mean_mean'].iloc[0]
                 short_std = agg_df['all_types_short_mean_std'].iloc[0]
-                short_stat = f"{short_mean:.2f}" if pd.isna(short_std) else f"{short_mean:.2f} ± {short_std:.2f}"
-                
-                # Long
                 long_mean = agg_df['all_types_long_mean_mean'].iloc[0]
                 long_std = agg_df['all_types_long_mean_std'].iloc[0]
-                long_stat = f"{long_mean:.2f}" if pd.isna(long_std) else f"{long_mean:.2f} ± {long_std:.2f}"
-            
+                short_stat = _format_mean_std(short_mean, short_std)
+                long_stat = _format_mean_std(long_mean, long_std)
+
             row.extend([short_stat, long_stat])
             print(f"{row[0]:<12} {row[1]:<20} {row[2]:<20} {row[3]:<20} {row[4]:<20}")
     print("-" * 95)
